@@ -1,4 +1,4 @@
-ЩC
+��C
 	10024tips6특징: 싱글 공격의 대상을 자신에게 집중%
 	10033tips특징: 회복력 높음%
 	10034tips특징: 지원력 높음6
@@ -924,7 +924,7 @@ HARD CLEAR1
 achieve_explain_10070이능자를 Lv40까지 육성7
 achieve_explain_10071이능자를 Lv45까지 육성7
 achieve_explain_10072이능자를 Lv50까지 육성7
-achieve_explain_10073이능자를 Lv65까지 육성7
+achieve_explain_10073이능자를 Lv55까지 육성7
 achieve_explain_10074이능자를 Lv60까지 육성7
 achieve_explain_10075이능자를 Lv65까지 육성5
 achieve_explain_10083환영의 탑 5층에 도달6
@@ -6363,8 +6363,8 @@ enchanting마법 공격N
 enemy_name_10211DR-442
 enemy_name_10220	가디언
 enemy_name_10230스콜'
-enemy_name_10240친위대 아사신&
-enemy_name_10300슬라임아사신
+enemy_name_10240친위대 어쌔신&
+enemy_name_10300슬라임어쌔신
 enemy_name_10301
 enemy_name_10303!
 enemy_name_10304힐 슬라임*
@@ -6477,8 +6477,8 @@ enchanting마법 공격N
 enemy_name_12013매드블펑
 enemy_name_12020	레이칸+
 enemy_name_12021데빌 클럽 엘리트 
-enemy_name_12030사스콰치$
-enemy_name_12040케르 드리아 
+enemy_name_12030사스콰치#
+enemy_name_12040케인드레어 
 enemy_name_12050바게스트*
 enemy_name_12052바게스트의 하인
 enemy_name_12060	아르콘
@@ -7171,8 +7171,9 @@ fund_name1Main Stage 팩�
 
 ※ 공시된 제공 비율은 이론치입니다.1회 소환할 때마다 제공 비율을 토대로 배출을 실시합니다.예: 제공 비율이 1%인 이능자가 100회 소환에 반드시 1회 소환된다고는 할 수 없습니다.
 
-※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
-gacha_attention_pickup_110�※ 이벤트 기간 중 신 이능자 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt'를 1개 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 신 이능자 소환 화면의 【교환】을 선택하여 확인하십시오.
+※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
+gacha_attention_pickup_110�※ 이벤트 기간 중 신 이능자 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt'를 1개 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 신 이능자 소환 화면의 【교환】을 선택하여 확인하십시오.
+※ 다른 '신이능자 소환', 또는 'PICKUP 소환'과 동시에 개최하는 경우 통상 소환으로 얻을 수 있는 교환pt는 시작시간이 새로운 소환으로 전환됩니다.
 
 ※ 신 이능자 소환의 내용이나 개최 시간은, 예고 없이 변경이나 조정이 이루어지는 경우가 있습니다.
 
@@ -7199,29 +7200,30 @@ fund_name1Main Stage 팩�
 
 ※ 공시된 제공 비율은 이론치입니다.1회 소환할 때마다 제공 비율을 토대로 배출을 실시합니다.예: 제공 비율이 1%인 이능자가 100회 소환에 반드시 1회 소환된다고는 할 수 없습니다.
 
-※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
-gacha_attention_pickup_114�※ 이벤트 기간 동안 PICKUP 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
+※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
+gacha_attention_pickup_114�※ 이벤트 기간 동안 PICKUP 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
+※ 다른 '신이능자 소환', 또는 'PICKUP 소환'과 동시에 개최하는 경우 통상 소환으로 얻을 수 있는 교환pt는 시작시간이 새로운 소환으로 전환됩니다.
 
 ※ PICKUP 소환 내용이나 개최 시간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.
 
 ※ 공시된 제공 비율은 이론치입니다.1회 소환할 때마다 제공 비율을 토대로 배출을 실시합니다.예: 제공 비율이 1%인 이능자가 100회 소환에 반드시 1회 소환된다고는 할 수 없습니다.
 
-※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
-gacha_attention_pickup_115�※ 이벤트 기간 동안 PICKUP 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
+※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
+gacha_attention_pickup_115�※ 이벤트 기간 동안 PICKUP 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
 
 ※ PICKUP 소환 내용이나 개최 시간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.
 
 ※ 공시된 제공 비율은 이론치입니다.1회 소환할 때마다 제공 비율을 토대로 배출을 실시합니다.예: 제공 비율이 1%인 이능자가 100회 소환에 반드시 1회 소환된다고는 할 수 없습니다.
 
-※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
-gacha_attention_pickup_116�※ 이벤트 기간 동안 PICKUP 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
+※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
+gacha_attention_pickup_116�※ 이벤트 기간 동안 PICKUP 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
 
 ※ PICKUP 소환 내용이나 개최 시간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.
 
 ※ 공시된 제공 비율은 이론치입니다.1회 소환할 때마다 제공 비율을 토대로 배출을 실시합니다.예: 제공 비율이 1%인 이능자가 100회 소환에 반드시 1회 소환된다고는 할 수 없습니다.
 
-※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
-gacha_attention_pickup_117�※ 이벤트 기간 동안 PICKUP 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
+※ 소환 과정에서 이전 소환 때와 중복되는 이능자가 소환될 수 있으나 이미 소환한 적이 있는 이능자를 중복 획득할 수 없습니다.�
+gacha_attention_pickup_117�※ 이벤트 기간 동안 PICKUP 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.자세한 내용은 PICKUP 소환 화면의 【교환】을 선택하여 확인하십시오.
 
 ※ PICKUP 소환 내용이나 개최 시간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.
 
@@ -7331,7 +7333,7 @@ SR 헤비 메카돌
 이벤트 기간 중 아래의 지원 카드 제공 비율이 상승합니다.
 【새로운 구현 지원 카드】
 SSR 미스터리맨
-SR친위대 아사신
+SR친위대 어쌔신
 SR 매직 버터플라이
 
 【개최 기간】
@@ -7704,17 +7706,17 @@ PICK UP 소환에서는 에테르 결정을 소비할 수 있습니다.
 ★★★이능자 50명
 ★★이능자 10명
 ★이능자 1명
-gacha_exchange_attention_1�
-gacha_exchange_attention_2�[교환 pt 획득 방법]
-※ 이벤트 기간 동안 PICKUP 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.
+gacha_exchange_attention_1�
+gacha_exchange_attention_2�[교환 pt 획득 방법]
+※ 이벤트 기간 동안 한정이능자 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt'를 1개 획득합니다.일정 수의 “교환 pt”를 소비하여 PICK UP 대상 이능자와 교환할 수 있습니다.
 ※ 이미 소환한 적이 있는 이능자가 소환된 경우에도 '교환pt'를 획득할 수 있습니다.
 ※ '교환pt'의 수량은 소환 횟수에만 관계가 있으며 소환된 이능자의 초기 공명도 수치는 획득할 수 있는 '교환pt'에 영향은 없습니다. (1회 소환 시 1pt 획득)
-이벤트 기간중은, 통상 소환에서도 본 PICKUP 소환의 「교환 pt」를 획득할 수 있습니다.
+이벤트 기간중은, 통상 소환에서도 본한정이능자 소환의 「교환 pt」를 획득할 수 있습니다.
 
 [교환 pt 사용방법]
 ※ 행사기간 중 '교환pt'가 200pt에 도달하면 '교환pt'를 소비하여 교환리스트 내의 이능자와 교환할 수 있습니다.
 ※ 교환 리스트 내 이능자를 이미 소환했을 경우, “교환pt”는 해당 이능자의 별 수에 근거하여 일정 수의 “세계수의 의사”로 변환됩니다.
-※ 각각의 PICKUP 소환 이벤트에 있어서, 「교환 pt」로 교환할 수 있는 이능자는 다릅니다.이번에 교환 가능한 이능자는 교환 리스트를 확인해 주세요.
+※ 각각의 PICK UP 소환 행사에서 “교환 pt”로 교환할 수 있는 이능자는 다릅니다.이번에 교환 가능한 이능자는 교환 리스트를 확인해 주세요.
 
 [교환 pt 사용기한]
 ※ '교환pt'는 이번 이벤트 기간 동안만 유효합니다.이번 이벤트 중 획득한 “교환pt”를 다른 소환 이벤트 중 사용할 수 없습니다.
@@ -7738,6 +7740,82 @@ PICK UP 소환에서는 에테르 결정을 소비할 수 있습니다.
 
 [주의사항]
 ※ '교환pt'는 이벤트 기간에만 지원카드로 교환 가능합니다.만약 200pt에 도달한 후에도 유효기간 이내에 교환을 하지 않았을 경우 교환리스트 내의 지원카드와 자동으로 교환되지 않습니다.
+※ '교환 pt' 교환 리스트와 개최 기간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.�
+gacha_exchange_attention_4�[교환 pt 획득 방법]
+※ 이벤트 기간 동안 PICK UP 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICK UP 대상 이능자와 교환할 수 있습니다.
+※ 이미 소환한 적이 있는 이능자가 소환된 경우에도 '교환pt'를 획득할 수 있습니다.
+※ '교환pt'의 수량은 소환 횟수에만 관계가 있으며 소환된 이능자의 초기 공명도 수치는 획득할 수 있는 '교환pt'에 영향은 없습니다. (1회 소환 시 1pt 획득)
+※ 다른 “신이능자 소환” 또는 “PICKUP 소환”과 동시에 개최하는 경우 통상 소환으로 얻을 수 있는 교환pt는 시작시간이 새로운 소환으로 전환됩니다
+
+[교환 pt 사용방법]
+※ 행사기간 중 '교환pt'가 200pt에 도달하면 '교환pt'를 소비하여 교환리스트 내의 이능자와 교환할 수 있습니다.
+※ 교환 리스트 내 이능자를 이미 소환했을 경우, “교환pt”는 해당 이능자의 별 수에 근거하여 일정 수의 “세계수의 의사”로 변환됩니다.
+※ 각각의 PICK UP 소환 행사에서 “교환 pt”로 교환할 수 있는 이능자는 다릅니다.이번에 교환 가능한 이능자는 교환 리스트를 확인해 주세요.
+
+[교환 pt 사용기한]
+※ '교환pt'는 이번 이벤트 기간 동안만 유효합니다.이번 이벤트 중 획득한 “교환pt”를 다른 소환 이벤트 중 사용할 수 없습니다.
+유효기간이 지난 후, 미교환된 '교환pt'는 1pt=500에레스의 비율로 변환됩니다.
+
+[주의사항]
+튜토리얼 중의 소환에서는 “교환pt”를 획득할 수 없습니다.
+※ '교환pt'는 이벤트 기간에만 이능자와 교환할 수 있습니다.만약 200pt에 도달한 후에도 유효기간 이내에 교환을 하지 않았을 경우 교환리스트 내의 이능자와 자동으로 교환되지 않습니다.
+※ '교환 pt' 교환 리스트와 개최 기간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.�
+gacha_exchange_attention_5�[교환 pt 획득 방법]
+※ 이벤트 기간 동안 PICK UP 소환으로 이능자를 소환할 때마다 '교환 pt' 1개를 획득합니다.일정 수의 “교환 pt”를 소비하여 PICK UP 대상 이능자와 교환할 수 있습니다.
+※ 이미 소환한 적이 있는 이능자가 소환된 경우에도 '교환pt'를 획득할 수 있습니다.
+※ '교환pt'의 수량은 소환 횟수에만 관계가 있으며 소환된 이능자의 초기 공명도 수치는 획득할 수 있는 '교환pt'에 영향은 없습니다. (1회 소환 시 1pt 획득)
+
+[교환 pt 사용방법]
+※ 행사기간 중 '교환pt'가 200pt에 도달하면 '교환pt'를 소비하여 교환리스트 내의 이능자와 교환할 수 있습니다.
+※ 교환 리스트 내 이능자를 이미 소환했을 경우, “교환pt”는 해당 이능자의 별 수에 근거하여 일정 수의 “세계수의 의사”로 변환됩니다.
+※ 각각의 PICK UP 소환 행사에서 “교환 pt”로 교환할 수 있는 이능자는 다릅니다.이번에 교환 가능한 이능자는 교환 리스트를 확인해 주세요.
+
+[교환 pt 사용기한]
+※ '교환pt'는 이번 이벤트 기간 동안만 유효합니다.이번 이벤트 중 획득한 “교환pt”를 다른 소환 이벤트 중 사용할 수 없습니다.
+유효기간이 지난 후, 미교환된 '교환pt'는 1pt=500에레스의 비율로 변환됩니다.
+
+[주의사항]
+튜토리얼 중의 소환에서는 “교환pt”를 획득할 수 없습니다.
+※ '교환pt'는 이벤트 기간에만 이능자와 교환할 수 있습니다.만약 200pt에 도달한 후에도 유효기간 이내에 교환을 하지 않았을 경우 교환리스트 내의 이능자와 자동으로 교환되지 않습니다.
+※ '교환 pt' 교환 리스트와 개최 기간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.�
+gacha_exchange_attention_6�[교환 pt 획득 방법]
+※ 이벤트 기간 중 신 이능자 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt'를 1개 획득합니다.일정 수의 “교환 pt”를 소비하여 PICKUP 대상 이능자와 교환할 수 있습니다.
+※ 이미 소환한 적이 있는 이능자가 소환된 경우에도 '교환pt'를 획득할 수 있습니다.
+※ '교환pt'의 수량은 소환 횟수에만 관계가 있으며 소환된 이능자의 초기 공명도 수치는 획득할 수 있는 '교환pt'에 영향은 없습니다. (1회 소환 시 1pt 획득)
+이벤트 기간중은, 통상 소환에서도 본 신 이능자 소환의 「교환 pt」를 획득할 수 있습니다.
+※ 다른 '신이능자 소환', 또는 'PICKUP 소환'과 동시에 개최하는 경우 통상 소환으로 얻을 수 있는 교환pt는 시작시간이 새로운 소환으로 전환됩니다.
+
+[교환 pt 사용방법]
+※ 행사기간 중 '교환pt'가 200pt에 도달하면 '교환pt'를 소비하여 교환리스트 내의 이능자와 교환할 수 있습니다.
+※ 교환 리스트 내 이능자를 이미 소환했을 경우, “교환pt”는 해당 이능자의 별 수에 근거하여 일정 수의 “세계수의 의사”로 변환됩니다.
+※ 각각의 PICKUP 소환 이벤트에 있어서, 「교환 pt」로 교환할 수 있는 이능자는 다릅니다.이번에 교환 가능한 이능자는 교환 리스트를 확인해 주세요.
+
+[교환 pt 사용기한]
+※ '교환pt'는 이번 이벤트 기간 동안만 유효합니다.이번 이벤트 중 획득한 “교환pt”를 다른 소환 이벤트 중 사용할 수 없습니다.
+유효기간이 지난 후, 미교환된 '교환pt'는 1pt=500에레스의 비율로 변환됩니다.
+
+[주의사항]
+튜토리얼 중의 소환에서는 “교환pt”를 획득할 수 없습니다.
+※ '교환pt'는 이벤트 기간에만 이능자와 교환할 수 있습니다.만약 200pt에 도달한 후에도 유효기간 이내에 교환을 하지 않았을 경우 교환리스트 내의 이능자와 자동으로 교환되지 않습니다.
+※ '교환 pt' 교환 리스트와 개최 기간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.�
+gacha_exchange_attention_7�[교환 pt 획득 방법]
+※ 이벤트 기간 중 신 이능자 소환과 통상 소환으로 이능자를 소환할 때마다 '교환 pt'를 1개 획득합니다.일정 수의 “교환 pt”를 소비하여 PICK UP 대상 이능자와 교환할 수 있습니다.
+※ 이미 소환한 적이 있는 이능자가 소환된 경우에도 '교환pt'를 획득할 수 있습니다.
+※ '교환pt'의 수량은 소환 횟수에만 관계가 있으며 소환된 이능자의 초기 공명도 수치는 획득할 수 있는 '교환pt'에 영향은 없습니다. (1회 소환 시 1pt 획득)
+이벤트 기간중은, 통상 소환에서도 본 신 이능자 소환의 「교환 pt」를 획득할 수 있습니다.
+
+[교환 pt 사용방법]
+※ 행사기간 중 '교환pt'가 200pt에 도달하면 '교환pt'를 소비하여 교환리스트 내의 이능자와 교환할 수 있습니다.
+※ 교환 리스트 내 이능자를 이미 소환했을 경우, “교환pt”는 해당 이능자의 별 수에 근거하여 일정 수의 “세계수의 의사”로 변환됩니다.
+※ 각각의 PICK UP 소환 행사에서 “교환 pt”로 교환할 수 있는 이능자는 다릅니다.이번에 교환 가능한 이능자는 교환 리스트를 확인해 주세요.
+
+[교환 pt 사용기한]
+※ '교환pt'는 이번 이벤트 기간 동안만 유효합니다.이번 이벤트 중 획득한 “교환pt”를 다른 소환 이벤트 중 사용할 수 없습니다.
+유효기간이 지난 후, 미교환된 '교환pt'는 1pt=500에레스의 비율로 변환됩니다.
+
+[주의사항]
+튜토리얼 중의 소환에서는 “교환pt”를 획득할 수 없습니다.
+※ '교환pt'는 이벤트 기간에만 이능자와 교환할 수 있습니다.만약 200pt에 도달한 후에도 유효기간 이내에 교환을 하지 않았을 경우 교환리스트 내의 이능자와 자동으로 교환되지 않습니다.
 ※ '교환 pt' 교환 리스트와 개최 기간은 예고 없이 변경이나 조정이 이루어질 수 있습니다.
 gacha_infinityStart Dash!�
 gacha_item_attention_1�노루네가 마스터를 위해 많은 아이템을 준비했어요! 잊지 말고 받아주세요!
@@ -7745,13 +7823,17 @@ PICK UP 소환에서는 에테르 결정을 소비할 수 있습니다.
 [수령 시간]
 5:00 ～ 11:59
 12:00~다음 4:59
-※ 노루네의 작은 상자에서는 매일 2회까지 무료로 아이템이나 '이니시에의 추억'을 획득할 수 있습니다.
+※ 노루네의 작은 상자에서는 매일 2회까지 무료로 아이템이나 '이니시에의 추억'을 획득할 수 있습니다.
+gacha_new_pet신사포카
+gacha_newchar신기능자
 gacha_normal보통
 	gacha_pay★3 확정
-	gacha_pet서포트 카드
+	gacha_pet서포트 카드
+gacha_pet_tab	사포카
 gacha_pickupPickUPz
 gacha_pt_exchange_tips`{0}교환pt를 소비하여
-대상 리스트에서 1명을 동료로 선택할 수 있습니다.
+대상 리스트에서 1명을 동료로 선택할 수 있습니다.
+gacha_timelimit한정
 gacha_tips_01�
 gacha_tips_3star_1�[★3 소환 확정]
 「10회 소환」★★3 이상의 の異能者确定でで 1명의 소환을 확정합니다れす!</gradient>
@@ -8199,8 +8281,8 @@ $gacha_type_pickup_shiningsonia_title붉은 폭격C
 help_guild_created_title길드  -  길드창설3
 help_guild_default_title길드  -  길드설명0
 help_guild_join_title길드  -  길드가입$
-help_intro_title#S+10[도움말]�,
-help_new1_tips_1�,<color=#FD9B23FF> 카드 배포 규칙</color> 
+help_intro_title#S+10[도움말]�,
+help_new1_tips_1�,<color=#FD9B23FF> 카드 배포 규칙</color> 
 ·같은 스킬 카드는 자동으로 합성되어 레벨이 상승합니다.카드의 최대 레벨은 3입니다.
 카드 배포 후, 손팻말에 있는 모든 스킬 카드의 레벨 총수는, 출진중인 타능자의 인원의 3배가 됩니다.
 
@@ -8228,7 +8310,7 @@ $gacha_type_pickup_shiningsonia_title붉은 폭격C
  <sprite=37> [물리방어 UP] 물리방어 상승
  <sprite=39> [마법방어 UP] 마법방어 상승
  <sprite=33> [치명내성 UP] 치명내성 상승
- <sprite=58> [고무] 스킬 1 발동 시 일정 확률로 동일한 스킬 발생
+ <sprite=58> [고무] 스킬 1을 발동할 때 일정 확률로 스킬 1(카드 레벨 1)로 재공격
  <sprite=32> [공격력 DOWN] 공격력 저하
  <sprite=45> [치명률 DOWN] 치명률 저하
  <sprite=36> [치명력 DOWN] 치명력 저하
@@ -8494,8 +8576,8 @@ EXP는 자원 스테이지 혹은 숍에서 구입할 수 있는 'EXP 포션'에
 EXP는 자원 스테이지 혹은 샵에서 구입할 수 있는 EXP포션에서 획득할 수 있습니다.또한 현재 출진 중인 캐릭터의 레벨이 상한선에 도달한 후에는 자동으로 축적되어 그 경험치를 사용하여 이능자의 레벨을 올릴 수 있습니다.�
 help_new_tips_3�
 최대 행동 횟수는 출격 중인 이능자의 수에 따라 결정됩니다.
-만약 필드상의 이능자가 배틀 중 사망했을 경우 그에 따라 최대 행동 횟수도 감소합니다.�
-help_new_tips_5�
+만약 필드상의 이능자가 배틀 중 사망했을 경우 그에 따라 최대 행동 횟수도 감소합니다.�
+help_new_tips_5�
 [기절] 행동 불능이 되다
 [반려] 행동 불능이 되어, 피해도가 상승하는
 [잠] 행동 불능.피해 시 해제되다
@@ -8510,7 +8592,7 @@ EXP는 자원 스테이지 혹은 샵에서 구입할 수 있는 EXP포션에서
 [물리방어 UP] 물리방어가 상승하다
 [마법방어 UP] 마법방어가 상승하다
 [치명 내성 UP] 치명 내성이 상승하다
-[고무] 통상 공격 후 일정한 확률로 동일한 공격이 발생한다
+[고무] 통상 공격 후 일정 확률로 스킬 1(카드 레벨 1)로 재공격
 [공격력 DOWN] 공격력이 저하되다
 [치명률 DOWN] 치명률이 저하되다
 [치명력 DOWN] 치명력이 저하되다
@@ -8583,8 +8665,8 @@ EXP는 자원 스테이지 혹은 샵에서 구입할 수 있는 EXP포션에서
 help_new_title_6팀 편성 - 팀 진형$
 help_new_title_7이능자-상태+
 help_new_title_8이능자-스킬 강화1
-help_new_title_9이능자-숙련도 시스템&
-help_pvp3vs3_title멀티 투기장:
+help_new_title_9이능자-숙련도 시스템$
+help_pvp3vs3_title3vs3 투기장:
 help_team_formationLevel_title편성  -  진형 레벨2
 help_team_formation_title편성  -  팀 진형<
 help_token_default_title 증표  -  증표, 조각이란?6
@@ -8592,7 +8674,7 @@ EXP는 자원 스테이지 혹은 샵에서 구입할 수 있는 EXP포션에서
 help_token_making_title증표  -  증표제작2
 !help_towerofPhantom_default_title환영의 탑 
 hero_combat_aoe범위 공격!
-hero_combat_assassin	아사신
+hero_combat_assassin	어쌔신
 hero_combat_buff	서포터
 hero_combat_damage	어태커
 hero_combat_debuff방해.#
@@ -11421,7 +11503,7 @@ $name_maribelle_homeUI_favorability_2하인의 계약서=
 name_morana_homeUI_secret_2첫눈에 반함4
  name_morana_training_resonance_4화려한 세계4
  name_morana_training_resonance_5성장의 가치+
-name_nagi_gacha_1아사신의 크리드6
+name_nagi_gacha_1어쌔신의 크리드6
 name_nagi_homeUI_favorability_1차가운 상냥함G
 name_nagi_homeUI_favorability_2$내가 너의 그림자가 되겠다!
 name_nagi_homeUI_random_1음?!
@@ -14640,7 +14722,7 @@ npc_name_6이렐
 open_title_string_6유적 탐색
 open_title_string_7방실'
 open_title_string_8서포트 카드�
-openscene_fubuki�적에게 집중 공격 상태를 부여하고 대열을 무시하고 적을 참살할 수 있는 재주가 뛰어난 물리 아사신형 이능자�
+openscene_fubuki�적에게 집중 공격 상태를 부여하고 대열을 무시하고 적을 참살할 수 있는 재주가 뛰어난 물리 어쌔신형 이능자�
 openscene_helena�전위로서 동료를 지키면서 자연 속성의 적에게 피해 UP 상태를 부여하여 팀 전체의 피해를 끌어올릴 수 있는 견실한 물리 밸런스형 이능자�
 openscene_sarah�다종다양한 상태 이상을 적에게 부여하면서 또한 에테르 블라스트로 팀 전체의 손상을 상승시키는 만능 마법 서포터형 이능자�
 openscene_setsuna�다양한 상태 이상 지속 데미지로 적을 농락하여 적 싱글에 큰 피해를 입히는 강력한 마법 어태커형 이능자
@@ -15154,7 +15236,7 @@ pet_tag_10범위 공격
 
 pet_tag_11싱글 공격
 
-pet_tag_12	아사신
+pet_tag_12	어쌔신
 
 pet_tag_13출혈
 
@@ -16381,8 +16463,10 @@ rank_level	숙련도%
 앞의 장을 다 읽음X
 read_condition_chapter_3<
 메인 스테이지 12-7 클리어
+앞의 장을 다 읽음X
+read_condition_chapter_4<
+메인 스테이지 22-4 클리어
 앞의 장을 다 읽음R
-read_condition_chapter_46메인 시나리오 제4장 해방 조건 (작성 중)R
 read_condition_chapter_56메인 시나리오 제5장 해방 조건 (작성 중)R
 read_condition_chapter_66메인 시나리오 제6장 해방 조건 (작성 중)R
 read_condition_chapter_76메인 시나리오 제7장 해방 조건 (작성 중)9
@@ -16492,7 +16576,7 @@ rank_level	숙련도%
 receive_gift_yuliacasualV나에게 선물이랄까..? 그런것보다 싸울수 있는 옷을 주지 않을래?s
 receive_gift_yuna^어머나~ 저한테 선물이에요? 후훗, 감사합니다.소중하게 여기겠습니다.
 recommend_protect가드&
-recommended_assassination	아사신&
+recommended_assassination	어쌔신&
 recommended_column_attack	행공격-
 recommended_critical_defense치명 내성%
 recommended_damage_addition관통#
@@ -16809,7 +16893,7 @@ robot_name투기장의 문지기3
 sarah_skill_02_name버스터 빔!
 sarah_skill_03_name
 썬더 킥�
-sarah_skill_04_expli에테르 블라스트 스킬 발동 시 아군 전체의 여대미지가 18% 상승(2턴)(누적 가능).
+sarah_skill_04_expli에테르 블라스트 스킬 발동 시 아군 전체의 여대미지가 10% 상승(3턴)(누적 가능).
 sarah_skill_04_name비에도 지지 않고'
 sarah_skill_05_name그날의 약속A
 sarah_training_resonance_4#또 하나 강해진 것 같네요.Y
@@ -16933,8 +17017,8 @@ robot_name투기장의 문지기3
 shiningagnes_skill_03_lv_up@@damage_physical@@#@@lv_up_2@@.
 shiningagnes_skill_03_name기로틴 액스\
 shiningagnes_skill_04_expl>적을 쓰러뜨리면 그 에테르 에너지를 빼앗는다.
-shiningagnes_skill_04_name승자의 증거I
-shiningagnes_skill_05_expl+효과 대상 : 투기장, 멀티 투기장.
+shiningagnes_skill_04_name승자의 증거M
+shiningagnes_skill_05_expl/섬광 아그네스의 마법 방어 20% 증가.
 shiningagnes_skill_05_name귀족의 기호N
 shiningapis_skill_01_expl_r1.@@target_enemyall@@@@skill_damage_physical_1@@=
 shiningapis_skill_01_lv_up@@damage_physical@@#@@lv_up_1@@&
@@ -17071,8 +17155,8 @@ robot_name투기장의 문지기3
 shiningheidi_skill_03_name	무검식�
 shiningheidi_skill_04_expl�전투 불능자가 생길 때마다 자신에게 바서커 상태 부여: 자신의 여대미지가 60% 상승하는 반면 피해도 30% 상승(2턴)(
 shiningheidi_skill_04_name
-친구 편I
-shiningheidi_skill_05_expl+효과 대상 : 투기장, 멀티 투기장1
+친구 편L
+shiningheidi_skill_05_expl.투기장에서 아군의 공격력 19% 증가1
 shiningheidi_skill_05_name거리의 인기인�
 shininghoora_skill_01_expl_r2q@@base_skill_damage_magic_target@@
 · 적 하나에게 #s-01[#CFFFFFF[#O[스킬 봉쇄 : 얼티밋]]] @@st_turn@@;
@@ -17168,8 +17252,8 @@ robot_name투기장의 문지기3
 @@mix_stat_cri_up@@ @@turn@@#@@lv_up_10@@8
 shiningmomo_skill_03_name모모야, 열심히 하다�
 shiningmomo_skill_04_explr공격을 받을 때마다 28% 확률로 공격자에게 스킬 봉인·에테르 블라스트 상태 부여(2턴)7
-shiningmomo_skill_04_name달마 씨가 넘어졌다Y
-shiningmomo_skill_05_expl<효과 대상 : 투기장, 멀티 투기장 이외의 모드0
+shiningmomo_skill_04_name달마 씨가 넘어졌다V
+shiningmomo_skill_05_expl9아군 전체의 물리방어 및 마법방어 15% 증가0
 shiningmomo_skill_05_name사과를 위해서&
 shiningmurphy_skill_01_lv_up미정%
 shiningmurphy_skill_01_name미정&
@@ -19614,10 +19698,10 @@ tower_name환영의 탑  -  {0}0
 tutorial_battle1013_02f뇌우에서는 턴마다 일정 확률로<color=#ff561c>쌍방</color>가 감전 상태가 됩니다.�
 tutorial_battle1013_03�뇌우 스테이지에서는 아군 이능자의 쉴드 스킬을 신중하게 사용합니다.
 말루님의 에테르 블라스트도 그 중 하나입니다.�
-tutorial_battle1015_01�새롭게 합류한 모라나님은<color=#ff561c>아사신</color>에 속해 있으며, 이러한 유형의 이능자는<color=#ff561c>후방의 적</color>에 큰 손상을 줄 수 있습니다.�
+tutorial_battle1015_01�새롭게 합류한 모라나님은<color=#ff561c>어쌔신</color>에 속해 있으며, 이러한 유형의 이능자는<color=#ff561c>후방의 적</color>에 큰 손상을 줄 수 있습니다.�
 tutorial_battle1015_02�일단 모라나님의 스킬2를 사용해서<color=#ff561c>후열의 적 1인 선택</color>하고, '딱지' 상태로 만들어서 데미지를 업 시켜 봅시다.�
 tutorial_battle1015_03�계속해서<color=#ff561c>같은 적을 택하고</color>모라나 님의 에테르 블라스트를 사용하면 타겟으로<color=#ff561c>큰 데미지를 주다</color>할 수 있습니다.�
-tutorial_battle1015_04�성공하셨네요.뒷줄에 직접 공격하기 어려운 적이 있을 때는 아사신에 속하는 이능자의 스킬을 사용하여 대응하십시오.�
+tutorial_battle1015_04�성공하셨네요.뒷줄에 직접 공격하기 어려운 적이 있을 때는 어쌔신에 속하는 이능자의 스킬을 사용하여 대응하십시오.�
 tutorial_battle1015_05�각 장의 15번째 스테이지는<color=#ff561c>보스</color>스테이지가 되겠습니다.
 이 스테이지의 적은 더 많은 강화 효과를 가지고 있습니다.�
 tutorial_battle1015_06�이 보스는<color=#ff561c>방해 해제 패시브 효과</color>가 부여되어 있습니다.자세한 내용은 적을 길게 눌러 확인할 수 있습니다.�
@@ -20096,9 +20180,9 @@ $ui_announcement_subtitle_maintenance멘테)
 ui_applying	적용중
 ui_arena	투기장
 	ui_arena2	투기장
-	ui_arena3	투기장 
-ui_arena3vs3멀티 투기장%
-ui_arena3vs3_shop멀티 투기장$
+	ui_arena3	투기장
+ui_arena3vs33:3 투기장)
+ui_arena3vs3_shop3:3 투기장 상점$
 ui_arena_achievement달성정보*
 ui_arena_enemyteaminfo상대팀 정보1
 ui_arena_highest_grade투기장 최고 등급3
@@ -23080,9 +23164,9 @@ $ui_skill_buff_lvup_critical_value_up치명력 UP 효과 {0}K
 #ui_skill_buffdes_action_turn_change,다시 한번 추가로 행동할 수 있는;
 ui_skill_buffdes_attack_down공격력  -  @8@% (@9@턴)~
 $ui_skill_buffdes_attack_down_noclearV공격력이<color=#F1564A>@8@</color>저하(약체 비활성화 및 해제 불가)@9@7
-ui_skill_buffdes_attack_up공격력 + @8@% (@9@턴)y
-'ui_skill_buffdes_attri_damage_up_attackN열위 속성의 적에게 미치는 영향이<color=#F1564A>@8@</color>상승|
-'ui_skill_buffdes_attri_damage_up_targetQ자신에 대한 우위속성에 의한 손상이<color=#F1564A>@8@</color>상승^
+ui_skill_buffdes_attack_up공격력 + @8@% (@9@턴)�
+'ui_skill_buffdes_attri_damage_up_attackV열위 속성의 적에게 미치는 영향이<color=#F1564A> @8@</color> 상승 @ 9 @�
+'ui_skill_buffdes_attri_damage_up_targetY자신에 대한 우위속성에 의한 손상이<color=#F1564A> @8@</color> 상승 @ 9 @^
 !ui_skill_buffdes_awaken_gage_down9에테르 에너지가<color=#219EF9>@8@개</color>감소\
 ui_skill_buffdes_awaken_gage_up9에테르 에너지가<color=#219EF9>@8@개</color>증가c
 %ui_skill_buffdes_backrow_extra_damage:@6@에 미치는 영향이<color=#219EF9>@8@</color>상승D
@@ -23101,8 +23185,8 @@ $ui_skill_buffdes_attack_down_noclearV공격력이<color=#F1564A>@8@</color>저
 ui_skill_buffdes_clear_buff.대상에 부여된 모든 강화효과 해제O
 ui_skill_buffdes_clear_debuff.대상에 부여된 모든 약체효과 해제T
 ui_skill_buffdes_clear_num_buff1대상에 부여된 강화효과를 @8@개 해제V
-!ui_skill_buffdes_clear_num_debuff1대상에 부여된 약체효과를 @8@개 해제�
-ui_skill_buffdes_converge�하나의 적을 집중 공격 상태로 만들고, 모든 싱글 공격이 강제적으로 그 적에 대한 공격이 된다.(기존의 도발 상태를 무시할 수 있다)A
+!ui_skill_buffdes_clear_num_debuff1대상에 부여된 약체효과를 @8@개 해제�
+ui_skill_buffdes_converge�하나의 적을 집중 공격 상태로 만들고, 모든 싱글 공격이 강제로 그 적에 대한 공격이 된다(기존의 도발 상태를 무시할 수 있다)@9@A
 ui_skill_buffdes_critical_down치명 확률  -  @8@% (@9@턴)=
 ui_skill_buffdes_critical_up치명 확률 + @8@% (@9@턴)G
 $ui_skill_buffdes_critical_value_down치명 배율  -  @8@% (@9@턴)C
@@ -23136,20 +23220,20 @@ $ui_skill_buffdes_defence_physical_up물리 방어 + @8@% (@9@턴)�
 ui_skill_buffdes_hit_damage_up5여대미지가<color=#219EF9>@8@</color>상승 @ 9 @\
 ui_skill_buffdes_hp_damage_up;목표 잔여 HP에 따라 자신의 여대미지가 상승D
  ui_skill_buffdes_immun_condition 모든 디버프 저항 (@9@턴)m
-)ui_skill_buffdes_immun_condition_specific@효과기간 동안 특정 약체효과를 막을 수 있는 @6@x
-ui_skill_buffdes_inspire\스킬 1을 발동할 때<color=#219EF9>@8@</color>의 확률로 동일한 스킬 발생 @9@E
+)ui_skill_buffdes_immun_condition_specific@효과기간 동안 특정 약체효과를 막을 수 있는 @6@�
+ui_skill_buffdes_inspirem스킬 1을 발동할 때<color=#219EF9> @8@</color> 의 확률로 스킬 1(카드 레벨 1)로 재공격 @9@E
 "ui_skill_buffdes_mix_stat_atk_down공격 능력  -  @8@% (@9@턴)A
  ui_skill_buffdes_mix_stat_atk_up공격 능력 + @8@% (@9@턴)E
 "ui_skill_buffdes_mix_stat_cri_down치명 능력  -  @8@% (@9@턴)A
  ui_skill_buffdes_mix_stat_cri_up치명 능력 + @8@% (@9@턴)E
 "ui_skill_buffdes_mix_stat_def_down방어 능력  -  @8@% (@9@턴)A
- ui_skill_buffdes_mix_stat_def_up방어 능력 + @8@% (@9@턴)�
-ui_skill_buffdes_one_short_kill�다음으로 사용하는 스킬 1의 손상이<color=#219EF9>@8@</color>상승. 스킬 1 사용 후 이 상태는 해제된다.�
-#ui_skill_buffdes_only_skill1_damagey스킬 1에 의한 직접 데미지만 받아 다른 모든 데미지를 막는다(단 특수상태는 막을 수 없다)x
+ ui_skill_buffdes_mix_stat_def_up방어 능력 + @8@% (@9@턴)�
+ui_skill_buffdes_one_short_kill�다음으로 사용하는 스킬 1의 손상이<color=#219EF9> @8@</color> 상승. 스킬 1 사용 후 이 상태는 해제된다@9@�
+#ui_skill_buffdes_only_skill1_damage스킬 1에 의한 직접 데미지만을 받아 다른 모든 데미지를 막는다(단 특수상태는 막을 수 없다)@9@x
 ui_skill_buffdes_paralysisZ마비상태가 되면 스킬 발동 시<color=#F1564A>@8@</color>의 확률로 실패 @9@?
 ui_skill_buffdes_poison_dot 기본 공격력의 15% (@9@턴)T
-ui_skill_buffdes_protection5HP가 가장 낮은 아군 대신 피해를 본다@9@V
-ui_skill_buffdes_provocation6강제로 적의 싱글 공격의 타깃이 되는 @9@y
+ui_skill_buffdes_protection5HP가 가장 낮은 아군 대신 피해를 본다@9@=
+ui_skill_buffdes_provocation강제 대상 지정 (@9@턴)y
  ui_skill_buffdes_random_add_gageU랜덤한 편<color=#219EF9>@ 8 @ 사람</color>의 에테르 에너지 하나 증가
 ui_skill_buffdes_rank_down
 ui_skill_buffdes_rank_upA
@@ -23173,8 +23257,8 @@ $ui_skill_buffdes_defence_physical_up물리 방어 + @8@% (@9@턴)�
 ui_skill_buffdes_suck_blood+주는 피해 비례 회복 + @8@% (@9@턴)j
 ui_skill_buffdes_summonO<color=#219EF9>@8@</color>남의 동료를 소환하여 공동 작전을 하다�
 ui_skill_buffdes_symbiosis�공생상태에 있는 자는 같은 턴에서 동시에 쓰러지지 않는 한 최대 HP의<color=#F1564A>@8@</color>분량의 HP를 회복하여 부활할 수 있다�
-ui_skill_buffdes_true_damage�방어력, 실드 및 각종 강화효과를 무시하고 본래의 피해<color=#219EF9>@8@</color>에 상당하는 투과 데미지를 입히다 @9@�
-*ui_skill_buffdes_weather_buff_value_changee날씨에 따른 마이너스 효과 수치가 본래의<color=#F1564A>@8@</color>으로 변화하다>
+ui_skill_buffdes_true_damage�방어력, 실드 및 각종 강화효과를 무시하고 본래의 피해<color=#219EF9>@8@</color>에 상당하는 투과 데미지를 입히다 @9@�
+*ui_skill_buffdes_weather_buff_value_changek날씨에 따른 마이너스 효과 수치가 본래의<color=#F1564A> @8@</color> 으로 변화하다 @9@>
 ui_skill_buffdes_wound_dot 기본 공격력의 20% (@9@턴)D
 *ui_skill_buffdetail_absolute_critical_down치명률이 저하됨?
 (ui_skill_buffdetail_absolute_critical_up치명률이 상승P
@@ -23224,8 +23308,8 @@ $ui_skill_buffdetail_defence_magic_up마법 방어가 상승G
 ui_skill_buffdetail_glamorous$행동불능이 되어 피해 상승J
 ui_skill_buffdetail_hax/행동 불능이 되어 피해 시 해제되는;
 !ui_skill_buffdetail_hit_damage_up여대미지가 상승D
- ui_skill_buffdetail_hp_damage_up HP 최대시 여대미지 상승[
-ui_skill_buffdetail_inspire<스킬 1 발동 시 일정 확률로 동일한 스킬 발생�
+ ui_skill_buffdetail_hp_damage_up HP 최대시 여대미지 상승s
+ui_skill_buffdetail_inspireT스킬 1을 발동할 때 일정한 확률로 스킬 1(카드 레벨 1)로 재공격�
 "ui_skill_buffdetail_one_short_killh다음으로 사용하는 스킬 1의 데미지가 증가.스킬 1 사용 후 이 상태는 해제된다�
 &ui_skill_buffdetail_only_skill1_damagey스킬 1에 의한 직접 데미지만 받아 다른 모든 데미지를 막는다(단 특수상태는 막을 수 없다)\
 ui_skill_buffdetail_paralysis;마비 상태 시 스킬 발동 시 일정 확률로 실패v
@@ -23911,16 +23995,16 @@ $unlock_string_dailydungeon_mine_expl�조건을 달성하여 일일 던전 컨
 voice_aisha_garden_weather_3_1시원하고 기분 좋아~Z
 voice_aisha_garden_weather_4_18와, 비가 오네요.오늘은 방에서 푹 쉬어요.P
 voice_aisha_garden_weather_5_1.와, 봤어요? 지금 하늘이 빛났어요!{
- voice_amelia_favorability_gift_1W오!? 선배가 나에게 선물이라니...감격스럽다! 소중히 사용할께요!L
-"voice_amelia_garden_daytime_mood_1&점심시간! 고기 먹을 옅어요!M
-voice_amelia_garden_gift_1/매니저님 감사드려요! 이거 드세요!S
+ voice_amelia_favorability_gift_1W오!? 선배가 나에게 선물이라니...감격스럽다! 소중히 사용할께요!I
+"voice_amelia_garden_daytime_mood_1#점심시간! 고기 먹을 거야!P
+voice_amelia_garden_gift_12선배님 감사드려요! 이거 드셔보세요!S
 "voice_amelia_garden_morning_mood_1-안녕하세요!아침연습 시간이네요.c
  voice_amelia_garden_night_mood_1?벌써 하루도 끝나가네.선배는 아직 일하시나요?N
-voice_amelia_garden_random_1.이럴 때일수록 훈련하지 않으면...!6
-voice_amelia_garden_random_2흥, 흥!트레이닝!:
+voice_amelia_garden_random_1.이럴 때일수록 훈련하지 않으면...!7
+voice_amelia_garden_random_2흥, 흥! 트레이닝!:
 voice_amelia_garden_random_3야채는 잘 못먹어...�
-voice_amelia_garden_random_4b1인분들과 함께 있으면 나도 1인분이 될 수 있었던 것 같은 생각이 드네요.M
-voice_amelia_garden_tap_10선배 고기 안 먹고 싶어요?사주세요.]
+voice_amelia_garden_random_4b1인분들과 함께 있으면 나도 1인분이 될 수 있었던 것 같은 생각이 드네요.J
+voice_amelia_garden_tap_1-선배 고기 먹기 싫어요? 사주세요.]
 voice_amelia_garden_tap_2@선배, 에리카 선배님의 강도의 비밀 알려주세요.Z
 #voice_amelia_garden_twilight_mood_13디너타임! 내일을 위해 고기를 먹는다.A
 voice_amelia_garden_weather_1_1오늘은 날씨가 좋구나.L
@@ -23928,16 +24012,16 @@ $unlock_string_dailydungeon_mine_expl�조건을 달성하여 일일 던전 컨
 voice_amelia_garden_weather_3_1와~ 비가 올 것 같아.a
 voice_amelia_garden_weather_4_1>아무래도 오늘은 실내에서 훈련을 해야겠네요.C
 voice_amelia_garden_weather_5_1 꺄악! 날씨가 너무 좋네.R
-voice_ami_favorability_gift_11그거 뭐야? 나한테?... 고마워 기쁘다.9
-voice_ami_garden_daytime_mood_1점심, 밥 먹을래.-
+voice_ami_favorability_gift_11그거 뭐야? 나한테?... 고마워 기쁘다.6
+voice_ami_garden_daytime_mood_1점심 식사하다-
 voice_ami_garden_gift_1아 이거 줄게.K
 voice_ami_garden_morning_mood_1(아침에 벌써 일어났어? 안녕...J
 voice_ami_garden_night_mood_1)오늘 벌써 늦었어.내일도 와라.J
-voice_ami_garden_random_1-차분해지는 좋은 냄새, 여기 좋아.7
-voice_ami_garden_random_2나 배고파 뭐 좀 줘.5
+voice_ami_garden_random_1-차분해지는 좋은 냄새, 여기 좋아.:
+voice_ami_garden_random_2아미 배고파.뭐 좀 줘.5
 voice_ami_garden_random_3대화 잘 못하는데.?
-voice_ami_garden_random_4"싸울 때 불러라.준비 만단3
-voice_ami_garden_tap_1뭐야? 나한테 볼일?A
+voice_ami_garden_random_4"싸울 때 불러라.준비 만단6
+voice_ami_garden_tap_1뭐야? 아미한테 볼일?A
 voice_ami_garden_tap_2'…너무 보지 마라.부끄러워。B
  voice_ami_garden_twilight_mood_1저녁밥은 아직 멀었어?<
 voice_ami_garden_weather_1_1따뜻하다. 날씨 좋다.>
@@ -23972,8 +24056,8 @@ $unlock_string_dailydungeon_mine_expl�조건을 달성하여 일일 던전 컨
 voice_asagi_garden_random_3E목이 말랐어.물 좀 갖다 줄래?물론 상온에서 말이죠.[
 voice_asagi_garden_random_4<이곳을 나의 아이돌 활동의 거점으로 삼을께!^
 voice_asagi_garden_tap_1B좀 아이돌을 스스럼없이 만지다니 무슨 생각이야?*
-voice_asagi_garden_tap_2만질 금지!^
-"voice_asagi_garden_twilight_mood_18저녁식사라면 댄스 연습하고 나서 받을게.w
+voice_asagi_garden_tap_2만질 금지!b
+"voice_asagi_garden_twilight_mood_1<저녁식사라면 댄스 연습을 하고 나서 받을게.w
 voice_asagi_garden_weather_1_1U날씨가 좋네. 이런 날이야말로 밖에서 활동하는 것이 제일 좋네.J
 voice_asagi_garden_weather_2_1(너무 더워! 피부가 안좋아져...i
 voice_asagi_garden_weather_3_1G어중간한 날씨네.맑거나 내리거나 둘 중 하나로 해요.G
@@ -24018,7 +24102,7 @@ $voice_claricedps_favorability_gift_1R네? 저에게 선물입니까? 에헤, �
 voice_claricedps_garden_gift_19오빠 이거 드세요! 귀여운 제 선물이에요☆H
 &voice_claricedps_garden_morning_mood_1아, 오빠.안녕하세요☆D
 $voice_claricedps_garden_night_mood_1일도 적당히, 말이죠?I
- voice_claricedps_garden_random_1%왠지 재미있는 일 없을까요?H
+ voice_claricedps_garden_random_1%뭔가 재미있는 일 없을까요?H
  voice_claricedps_garden_random_2$응 오늘도 저는 귀엽네요☆y
  voice_claricedps_garden_random_3U여러 사람이 있으니까 여러 장소에 대해 들을 수 있어서 좋네요!V
  voice_claricedps_garden_random_42가끔은 느긋하게 지내는 것도 좋지요.]
@@ -24035,7 +24119,7 @@ $voice_claricesup_favorability_gift_1R네? 저에게 선물입니까? 에헤, �
 voice_claricesup_garden_gift_19오빠 이거 드세요! 귀여운 제 선물이에요☆H
 &voice_claricesup_garden_morning_mood_1아, 오빠.안녕하세요☆D
 $voice_claricesup_garden_night_mood_1일도 적당히, 말이죠?I
- voice_claricesup_garden_random_1%왠지 재미있는 일 없을까요?H
+ voice_claricesup_garden_random_1%뭔가 재미있는 일 없을까요?H
  voice_claricesup_garden_random_2$응 오늘도 저는 귀엽네요☆y
  voice_claricesup_garden_random_3U여러 사람이 있으니까 여러 장소에 대해 들을 수 있어서 좋네요!V
  voice_claricesup_garden_random_42가끔은 느긋하게 지내는 것도 좋지요.]
@@ -24052,7 +24136,7 @@ $voice_claricesup_garden_night_mood_1일도 적당히, 말이죠?I
 voice_claricetank_garden_gift_19오빠 이거 드세요! 귀여운 제 선물이에요☆I
 'voice_claricetank_garden_morning_mood_1아, 오빠.안녕하세요☆E
 %voice_claricetank_garden_night_mood_1일도 적당히, 말이죠?J
-!voice_claricetank_garden_random_1%왠지 재미있는 일 없을까요?I
+!voice_claricetank_garden_random_1%뭔가 재미있는 일 없을까요?I
 !voice_claricetank_garden_random_2$응 오늘도 저는 귀엽네요☆z
 !voice_claricetank_garden_random_3U여러 사람이 있으니까 여러 장소에 대해 들을 수 있어서 좋네요!W
 !voice_claricetank_garden_random_42가끔은 느긋하게 지내는 것도 좋지요.^
@@ -24173,15 +24257,15 @@ $voice_gerbera_garden_twilight_mood_1밤이 다가왔군요.9
  voice_helena_garden_night_mood_1(오늘 수고했어.내일도 힘내자.Y
 voice_helena_garden_random_19좋은 전투를 위해서는 좋은 휴양도 필요해.d
 voice_helena_garden_random_2D이 거점에 방어가 필요하게 되면 말해줘.내가 할게.Z
-voice_helena_garden_random_3:일을 하고 싶은데 업무공간 같은 게 있을까?�
+voice_helena_garden_random_3:일을 하고 싶은데 작업공간 같은 게 있을까?�
 voice_helena_garden_random_4o혹시 여기 있는 아이를 스카우트하면 방위대의 인력난은 해소될지도...? 농담이야。w
 voice_helena_garden_tap_1Z그러고 보니 너는 무기의 유지보수를 잘하는구나.부탁할 수 있을까?U
 voice_helena_garden_tap_28후후, 뭐야? 날 쳐다봐도 아무것도 안나와.a
 #voice_helena_garden_twilight_mood_1:식사 후 운동에 잠깐 트레이닝을 하고 올게.Y
 voice_helena_garden_weather_1_16응. 날씨 좋다.가끔은 일을 쉬고 푹 쉴까?T
 voice_helena_garden_weather_2_11덥다... 아프지 않도록 조심해야겠다.9
-voice_helena_garden_weather_3_1비가 올 것 같네.b
-voice_helena_garden_weather_4_1?이럴 때일수록 조심이야.적이 나올지도 모른다.R
+voice_helena_garden_weather_3_1비가 올 것 같네._
+voice_helena_garden_weather_4_1<이럴 때일수록 조심이야.적이 올지도 모른다.R
 voice_helena_garden_weather_5_1/이럴 때 전투가 벌어지면 큰일이네.0
 voice_input!길게 누름으로
 음성 입력l
@@ -24256,8 +24340,8 @@ $voice_isabella_garden_morning_mood_1Z안녕. 규칙적인 생활은 규칙적�
 voice_laura_garden_random_4"작전 개시는 언제 됩니까?3
 voice_laura_garden_tap_1홍차를 내릴까요?;
 voice_laura_garden_tap_2네, 무엇이든지 명령을.f
-"voice_laura_garden_twilight_mood_1@저녁 식사 괜찮으시면 라우라도 함께 해 주세요.Z
-voice_laura_garden_weather_1_18오늘은 날씨가 좋습니다.빨래를 말립시다.a
+"voice_laura_garden_twilight_mood_1@저녁 식사 괜찮으시면 라우라도 함께 해 주세요.W
+voice_laura_garden_weather_1_15오늘은 날씨가 좋습니다.빨래를 합시다.a
 voice_laura_garden_weather_2_1?라우라는 오늘은 일하고 싶지 않아요.더워서요.O
 voice_laura_garden_weather_3_1-빨래를 거두는 게 좋을 것 같네요.Z
 voice_laura_garden_weather_4_18비가 왔군요... 빨래를 걷어서 다행입니다.\
@@ -24451,7 +24535,7 @@ $voice_michaela_garden_morning_mood_1E일어났구나. 그래서 오늘은 뭘 
 voice_mikoto_garden_weather_5_1!꺄악! 천둥 무서운거면...t
 voice_momo_favorability_gift_1R이 선물, 모모에게 주는거야? 고마워! 소중히 할게, 너무 좋아!Y
  voice_momo_garden_daytime_mood_15점심에 하는 일이라면 역시 낮잠이겠지?V
-voice_momo_garden_gift_1:앗, 있잖아, 이거 줄게!언제나 고마워! 오빠!W
+voice_momo_garden_gift_1:앗 언니 이거 줄게! 항상 고마워 오빠! 오빠!W
  voice_momo_garden_morning_mood_13안녕하세요。오늘도 느긋하게 지내요~:
 voice_momo_garden_night_mood_1이제 잘 시간이야~H
 voice_momo_garden_random_1*천천히 할 수 있는 좋은 장소네![
@@ -24507,11 +24591,11 @@ $voice_michaela_garden_morning_mood_1E일어났구나. 그래서 오늘은 뭘 
 voice_naja_garden_night_mood_1@좋은 하루였네.내일도 이런 날이 됐으면 좋겠다.8
 voice_naja_garden_random_1재미있는 장소네...!�
 voice_naja_garden_random_2g주위를 둘러보면... 얼마나 정성을 들여 이 자리를 잘 꾸몄는지 잘 알 수 있어.1
-voice_naja_garden_random_3자, 잠시 쉬자.@
+voice_naja_garden_random_3자, 잠깐 쉴까?@
 voice_naja_garden_random_4"책을 다 가져올걸 그랬어.N
 voice_naja_garden_tap_13이런. 나한테 참견하다니 배짱이 좋군.G
 voice_naja_garden_tap_2,헉...! 뭐, 뭘까!?갑자기 놀라잖아.Z
-!voice_naja_garden_twilight_mood_15하루도 얼마 남지 않았네.열심히 하자。C
+!voice_naja_garden_twilight_mood_15오늘도 얼마 남지 않았네.열심히 하자。C
 voice_naja_garden_weather_1_1"오늘은 날씨가 참 좋구나.P
 voice_naja_garden_weather_2_1/고향 덕분에 더위에는 내성이 있지.<
 voice_naja_garden_weather_3_1시원하고 기분 좋네.;
@@ -24531,7 +24615,7 @@ $voice_michaela_garden_morning_mood_1E일어났구나. 그래서 오늘은 뭘 
 #voice_nayuta_garden_twilight_mood_15아름다운 달이 보이는 시간이 되었네요.K
 voice_nayuta_garden_weather_1_1(좋은 세탁하기 좋은 날씨네요.P
 voice_nayuta_garden_weather_2_1-심두멸각하면 불 또한 시원하고…U
-voice_nayuta_garden_weather_3_12흐린 하늘은 바람이 시원해서 좋지요.X
+voice_nayuta_garden_weather_3_12흐린 하늘은 바람이 시원해서 좋네요.X
 voice_nayuta_garden_weather_4_15비오는 날의 조용한 시간도 좋아합니다.[
 voice_nayuta_garden_weather_5_18오늘은 방에서 느긋하게 하는게 좋겠어요.�
 voice_nora_favorability_gift_1�저에게 선물입니까? 아, 감사합니다.죄송해요 이런 거 받는 게 익숙하지 않아서... 근데 너무 기뻐요... 너무.B
@@ -24559,8 +24643,8 @@ $voice_michaela_garden_morning_mood_1E일어났구나. 그래서 오늘은 뭘 
 voice_norne_garden_random_1U이곳을 안정시킬 장소로 노루네 데이터베이스에 저장해 둘게요.<
 voice_norne_garden_random_2여러분과 소통합시다.<
 voice_norne_garden_random_3멋진 코디에요 마스터�
-voice_norne_garden_random_4o이곳에서 보낸 날들의 기억은 르네의 데이터베이스에 소중하게 보관되어 있습니다.s
-voice_norne_garden_tap_1W헉... 마스터. 노루네라고 레이디에요 갑자기 만지면 깜짝 놀라요.X
+voice_norne_garden_random_4o이곳에서 보낸 날들의 기억은 르네의 데이터베이스에 소중하게 보관되어 있습니다.z
+voice_norne_garden_tap_1^헉... 마스터. 노루네도 레이디예요.갑자기 만지면 깜짝 놀라 버립니다.X
 voice_norne_garden_tap_2<오늘은 어떤 스케줄로 하시겠습니까? 마스터.>
 "voice_norne_garden_twilight_mood_1해가 지고 있네요.G
 voice_norne_garden_weather_1_1%오늘은 좋은 모험 날씨군요.:
@@ -24621,8 +24705,8 @@ $voice_rebecca_garden_twilight_mood_19이제 곧 밤이네요~내일 일정을 
  voice_rebecca_garden_weather_5_1(헉! 카, 천둥! 으으 무서워요...
 voice_recording	입력중z
 voice_ringo_favorability_gift_1W어? 선물 주는 거야? 와, 기뻐! 그럼 답례로 모험을 데리고 가줄게!=
-!voice_ringo_garden_daytime_mood_1점심 벌써 먹었어?Q
-voice_ringo_garden_gift_14호잇! 오빠 이거 줄게!모험에서 찾았어~V
+!voice_ringo_garden_daytime_mood_1점심 벌써 먹었어?X
+voice_ringo_garden_gift_1;호잇! 오빠한테 이거 줄게! 모험에서 찾았어~V
 !voice_ringo_garden_morning_mood_11안녕! 오늘도 힘차게 모험을 떠난다~!F
 voice_ringo_garden_night_mood_1#내일은 어떤 모험을 할까~!B
 voice_ringo_garden_random_1#있잖아, 모험 다녀와도 돼?G
@@ -24766,13 +24850,67 @@ $voice_shirley_garden_twilight_mood_1<저녁 식사 후에 트레이닝을 좀 
 voice_stephanie_garden_random_3으...과자 먹고싶다...b
 voice_stephanie_garden_random_4?누군가가 나를 조그맣다고 말한 기색이 들어...!@
 voice_stephanie_garden_tap_1 있잖아, 과자 없어?과자!K
-voice_stephanie_garden_tap_2+발키리부 매니저가 무슨 용무야?;
+voice_stephanie_garden_tap_2+발키리부 매니저가 무슨 일이야?;
 &voice_stephanie_garden_twilight_mood_1저녁은 뭘까~R
 "voice_stephanie_garden_weather_1_1,좋은 날씨 아니야.산책하고 올까?H
 "voice_stephanie_garden_weather_2_1"더워~! 누가 아이스 좀 줘!;
 "voice_stephanie_garden_weather_3_1비가 올 것 같네G
 "voice_stephanie_garden_weather_4_1!오늘은 방에서 푹 쉬어요R
-"voice_stephanie_garden_weather_5_1,꺄악! 천둥번개가 뒹굴고 있는데!f
+"voice_stephanie_garden_weather_5_1,꺄악! 천둥번개가 뒹굴고 있는데!�
+$voice_summerapis_favorability_gift_1e이거 주는거야? 후후 아름다운 나를 더욱 돋보이게 해주다니 기뻐.고마워요.S
+&voice_summerapis_garden_daytime_mood_1)해변이나 가서 살 좀 구워올까?f
+voice_summerapis_garden_gift_1D이거 너한테 줄게.아니면 사실은 내가 갖고 싶었어?=
+&voice_summerapis_garden_morning_mood_1안녕. 잘 잤나?I
+$voice_summerapis_garden_night_mood_1!밤샘은 미모의 대적이여.P
+ voice_summerapis_garden_random_1,지금 누군가 내 미모를 칭찬했어?l
+ voice_summerapis_garden_random_2H이 수영복도 좋지만, 다른 수영복도 시도해 보고 싶어.O
+ voice_summerapis_garden_random_3+하아......뭔가 즐거운 일 없을까?N
+ voice_summerapis_garden_random_4*매일매일 피부관리를 잘해야죠?Q
+voice_summerapis_garden_tap_10나를 좀 더 그런 기분으로 만들어봐?F
+voice_summerapis_garden_tap_2%어머? 후후, 날 만지고 싶어?a
+'voice_summerapis_garden_twilight_mood_16후후. 지는 해와 나, 어느 쪽이 아름다워?J
+#voice_summerapis_garden_weather_1_1#맑은 공기네. 기분이 좋아.f
+#voice_summerapis_garden_weather_2_1?덥다.... 모두 수영복으로 갈아입으면 좋겠는데.Y
+#voice_summerapis_garden_weather_3_12흐린 하늘은 별로 좋아하지 않는군요.X
+#voice_summerapis_garden_weather_4_11물방울도 떨어지는 좋은 여자라던가.N
+#voice_summerapis_garden_weather_5_1'창문을 닫는 게 좋을 것 같아.A
+#voice_summerapis_garden_weather_6_1과연 차가워지는군.�
+&voice_summermaruru_favorability_gift_1W저한테 선물이에요? 고마워요, 오빠.전력으로 소중히 하겠습니다.�
+(voice_summermaruru_garden_daytime_mood_1d특훈을 한 후에는 무심코 점심을 과식해 버리기 때문에 주의가 필요합니다.l
+ voice_summermaruru_garden_gift_1H이것, 평소의 사례입니다.받아주시면 감사하겠습니다.y
+(voice_summermaruru_garden_morning_mood_1M안녕하세요。오늘은 꿈속에서도 특훈을 하고 있었습니다.t
+&voice_summermaruru_garden_night_mood_1J오빠 안녕히 주무세요.저는 조금만 더 훈련하고 갈게요.}
+"voice_summermaruru_garden_random_1W수영복을 입고 특훈을 하고 있으면 점점 개방적인 기분이 듭니다.�
+"voice_summermaruru_garden_random_2e나....평상시에는 수영복따윈 입지 않기 때문에......어딘가 이상하지 않아요?x
+"voice_summermaruru_garden_random_3R무기의 상태가, 이상한 느낌이 듭니다….오빠한테 봐줘야지...E
+"voice_summermaruru_garden_random_4특훈만 있을 뿐 입니다.s
+voice_summermaruru_garden_tap_1P뭔가, 오빠의 시선을 느낍니다….저에게 무슨 용건이신가요?S
+voice_summermaruru_garden_tap_20오, 오빠? 거기는... 만지면 안돼요...q
+)voice_summermaruru_garden_twilight_mood_1D트레이닝을 하다 보면 시간이 금방 가는 것 같네요.L
+%voice_summermaruru_garden_weather_1_1#오늘은 특별훈련날이네요.h
+%voice_summermaruru_garden_weather_2_1?수영복 덕분에, 조금은 더위가 누그러집니다….@
+%voice_summermaruru_garden_weather_3_1하늘이 어둡네요.E
+%voice_summermaruru_garden_weather_4_1빗소리 좋아합니다...F
+%voice_summermaruru_garden_weather_5_1천둥… 시끄러워요….;
+%voice_summermaruru_garden_weather_6_1눈.....예뻐요.�
+(voice_summerpatricia_favorability_gift_1�그런! 나에게 선물을 줄 수 있다니….후, 풍기가 문란해지거나 하지는 않을까요…? 그…기쁘다, 입니다….f
+*voice_summerpatricia_garden_daytime_mood_18점심으로 하죠.적당한 휴식은 중요합니다.q
+"voice_summerpatricia_garden_gift_1K제대로 풍기를 지키고 있는 것 같으니 이쪽을 봐 주세요.x
+*voice_summerpatricia_garden_morning_mood_1J기상 시각이에요! 아침 행동이 하루의 행방을 결정해요!d
+(voice_summerpatricia_garden_night_mood_18이제 취침할 시간이에요.밤늦게 엄금해요.�
+$voice_summerpatricia_garden_random_1X이 모습으로 걷고 있으면....왠지 시선을 모으고 있는 것 같습니다.I
+$voice_summerpatricia_garden_random_2!헉! 규율 위반 현장 목격!p
+$voice_summerpatricia_garden_random_3H만약 분신이 생긴다면 구석구석 둘러볼 수 있을텐데...�
+$voice_summerpatricia_garden_random_4f순찰은 중요합니다.언제 어디서 누가 풍기를 어지럽히고 있는지 모르니까요._
+!voice_summerpatricia_garden_tap_1:뭐죠? 규율에 대해서 설명을 듣고 싶으세요?Y
+!voice_summerpatricia_garden_tap_24잠깐!? 풍기를 문란하게 만들지 마세요!b
++voice_summerpatricia_garden_twilight_mood_13해가 지고 있네요. 정리를 시작할까요?X
+'voice_summerpatricia_garden_weather_1_1-따끈따끈해도, 김 빼서는 안 돼요!�
+'voice_summerpatricia_garden_weather_2_1f이렇게 더운 날에는 수영복 차림이라고 하는 것은 실용적일지도 모르겠네요.Z
+'voice_summerpatricia_garden_weather_3_1/비, 내리지 않으면 좋겠습니다만….w
+'voice_summerpatricia_garden_weather_4_1L비가 오네요... 하지만 이것으로 실내 작업이 진척됩니다.b
+'voice_summerpatricia_garden_weather_5_17가, 천둥입니다….아니요, 무서운 것은….M
+'voice_summerpatricia_garden_weather_6_1"과연, 이 모습은 추워요...f
  voice_sylvia_favorability_gift_1B이걸 주는건가...? 후후, 너는 상냥하구나, 고마워.S
 "voice_sylvia_garden_daytime_mood_1-겨우 점심 때인가.자, 뭘 먹을까…N
 voice_sylvia_garden_gift_10이거 하자... 내가 너에 대한 투자야.`
@@ -25030,7 +25168,7 @@ $voice_tutorial_first_battle_norne_34b그럼 에리카님의 에테르 블라�
 시작합시다.�
 #voice_tutorial_morana_gacha_norne_1c마스터, 새로운 이능자를 획득할 수 있도록
 되었습니다. 빨리 보러 갑시다!�
-$voice_tutorial_morana_gacha_norne_10�뒷줄에 직접 공격하기 어려운 적이 있을 경우 아사신에
+$voice_tutorial_morana_gacha_norne_10�뒷줄에 직접 공격하기 어려운 적이 있을 경우 어쌔신에
 속한 이능자의 스킬을 사용하여 대응합니다.�
 $voice_tutorial_morana_gacha_norne_11[각 장의 15번째 스테이지는<color=#ff561c>보스 스테이지</color>가 됩니다.y
 $voice_tutorial_morana_gacha_norne_12Q이 스테이지의 적은
@@ -25048,7 +25186,7 @@ $voice_tutorial_morana_gacha_norne_19�모라나님의 스킬을 사용하여 �
 모라나님을 얻읍시다.�
 #voice_tutorial_morana_gacha_norne_3]모라나님은 특수한 능력을 가지고 계십니다.
 빨리 배틀로 확인합시다.�
-#voice_tutorial_morana_gacha_norne_4�모라나 님은<color=#ff561c>아사신</color>에 속해 있으며,
+#voice_tutorial_morana_gacha_norne_4�모라나 님은<color=#ff561c>어쌔신</color>에 속해 있으며,
 <color=#ff561c>후방</color>의 적에게 큰 피해를 줄 수 있습니다.]
 #voice_tutorial_morana_gacha_norne_56우선 모라나님의 스킬2를 이용해 보세요.�
 #voice_tutorial_morana_gacha_norne_6p<color=#ff561c>후열의 적</color>한 명을 선택하고 모닥터리로 만들어 손상을 높여보세요.l
@@ -25334,7 +25472,7 @@ $voice_yuliacasual_garden_weather_5_1<설마 이대로 싸움에 나선다고�
 weather_bonus_fog_name안개�
 weather_bonus_lightrain_explp가랑비의 영향으로 장소의 이능자와 마물이 받는 출혈, 독, 화상의 데미지가 30%상승.)
 weather_bonus_lightrain_name	가랑비x
-weather_bonus_night_expl\암야는 아사신의 독스테이지다.모든 이능자와 마물의 치명률 40% 상승
+weather_bonus_night_expl\암야는 어쌔신의 독스테이지다.모든 이능자와 마물의 치명률 40% 상승
 weather_bonus_night_name밤�
 weather_bonus_scorch_explv더위의 영향으로 턴 시작 시 장소의 이능자와 마물은 50% 확률로 '버서커'가 부여된다(1턴)#
 weather_bonus_scorch_name맹서)
