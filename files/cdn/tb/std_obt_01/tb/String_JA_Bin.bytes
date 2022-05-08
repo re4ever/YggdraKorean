@@ -274,8 +274,8 @@ SILVER-III
 Title_amelia_birthdayHappy Birthday to Amelia+
 Title_amelia_love동경하는 발키리/
 Title_amelia_topstar꺾이지 않는 용기+
-Title_ami_birthdayHappy Birthday to Ami
-Title_ami_love늑대 처녀+
+Title_ami_birthdayHappy Birthday to Ami"
+Title_ami_love늑대 아가씨+
 Title_ami_topstar낭떠러지의 노호1
 Title_angela_birthdayHappy Birthday to Angela-
 Title_apis_birthdayHappy Birthday to Apis:
@@ -320,11 +320,11 @@ SILVER-III
 Title_fubuki_love닌자의 등을 쫓는 자%
 Title_fubuki_topstar슈퍼 닌자3
 Title_gerbera_birthdayHappy Birthday to Gerbera#
-Title_gerbera_love빛의 각성&
-Title_gerbera_topstar양지 처녀1
+Title_gerbera_love빛의 각성)
+Title_gerbera_topstar양지 아가씨1
 Title_helena_birthdayHappy Birthday to Helena%
-Title_helena_love전설의 재림(
-Title_helena_topstar수호전 처녀q
+Title_helena_love전설의 재림'
+Title_helena_topstar수호배틀걸q
 Title_howget_1_에리카의 호감도를 최대까지 높여 캐릭터 시나리오의 제8절을 감상하다r
 Title_howget_10_우루슬라의 호감도를 최대까지 높여 캐릭터 시나리오 제8절을 감상하다8
 Title_howget_100$헬레나를 ★5까지 공명하다5
@@ -583,8 +583,8 @@ SILVER-III
 Title_lydia_birthdayHappy Birthday to Lydia$
 Title_lydia_love골든 슬럼버-
 Title_lydia_topstar신고양이 발톱격7
-Title_maribelle_birthdayHappy Birthday to Maribelle9
-Title_maribelle_love!애정이 넘치는 도끼 처녀+
+Title_maribelle_birthdayHappy Birthday to Maribelle<
+Title_maribelle_love$애정이 넘치는 도끼 아가씨+
 Title_maribelle_topstar작은 처형인1
 Title_maruru_birthdayHappy Birthday to Maruru/
 Title_maruru_love열심히 하는 유조선(
@@ -593,8 +593,8 @@ SILVER-III
 Title_mavis_love혼자만의 시간1
 Title_mavis_topstar심연이 부르는 소리5
 Title_melantha_birthdayHappy Birthday to Melantha1
-Title_melantha_love어둠을 짊어지는 자*
-Title_melantha_topstar그늘진 처녀+
+Title_melantha_love어둠을 짊어지는 자-
+Title_melantha_topstar그늘진 아가씨+
 Title_mia_birthdayHappy Birthday to Mia(
 Title_mia_love분발하는 귀교관%
 Title_mia_topstar화룡의 채찍5
@@ -4079,11 +4079,11 @@ BGM 변경$
 character_sub_title_42_7가족 시간2
 character_sub_title_42_8메이비스의 추억,
 character_sub_title_43_1귀여운 그녀)
-character_sub_title_43_2행복하죠?)
-character_sub_title_43_3시골 처녀2
+character_sub_title_43_2행복하죠?,
+character_sub_title_43_3시골 아가씨2
 character_sub_title_43_4클라리체의 과거.
-character_sub_title_43_5베르겐항에서,
-character_sub_title_43_6잡히는 처녀6
+character_sub_title_43_5베르겐항에서/
+character_sub_title_43_6잡히는 아가씨6
 character_sub_title_43_7신의 사랑을 받았다2
 character_sub_title_43_8클라리체의 기억/
 character_sub_title_44_1부드러운 온도)
@@ -6477,8 +6477,8 @@ enchanting마법 공격N
 enemy_name_12013매드블펑
 enemy_name_12020	레이칸+
 enemy_name_12021데빌 클럽 엘리트 
-enemy_name_12030사스콰치#
-enemy_name_12040케인드레어 
+enemy_name_12030사스콰치$
+enemy_name_12040케르 드리아 
 enemy_name_12050바게스트*
 enemy_name_12052바게스트의 하인
 enemy_name_12060	아르콘
@@ -7017,7 +7017,7 @@ fund_name1Main Stage 팩�
 furniture_name_50283[포근한 휴일] 큰 액자>
 furniture_name_50291&[포근한 휴일] 소파와 테이블1
 furniture_name_50311[과거와의 만남] 벽'
-furniture_name_50312[전처녀] 벽4
+furniture_name_50312[배틀걸] 벽4
 furniture_name_50321[과거와의 만남] 바닥4
 furniture_name_50331[과거와의 만남] 침대8
 furniture_name_50341 [과거와의 만남] 큰 의자;
@@ -7028,7 +7028,7 @@ fund_name1Main Stage 팩�
 furniture_name_50362 [과거와의 만남] 큰 책장7
 furniture_name_50371[과거와의 만남] 책더미4
 furniture_name_50372[과거와의 만남] 인형'
-furniture_name_50381[전처녀] 문4
+furniture_name_50381[배틀걸] 문4
 furniture_name_50382[과거와의 만남] 창문4
 furniture_name_50391[과거와의 만남] 칠판.
 furniture_name_50411[세월의 빛깔] 벽$
@@ -8248,8 +8248,8 @@ $gacha_type_pickup_shiningsonia_title붉은 폭격C
 helena_skill_01_name부메랑 던지기$
 helena_skill_02_name강유겸비*
 helena_skill_03_name발키리스매시g
-helena_skill_04_explO공격을 받을 때마다 자신의 공격력의 72%에 해당하는 HP 회복,
-helena_skill_04_name전 처녀의 고집5
+helena_skill_04_explO공격을 받을 때마다 자신의 공격력의 72%에 해당하는 HP 회복+
+helena_skill_04_name배틀걸의 고집5
 helena_skill_05_name성 로즈마리의 수호신1
 helena_training_resonance_4이게 내 힘...!A
 helena_training_resonance_5"내가 지켜줄게.모든 것...!9
@@ -12557,8 +12557,8 @@ $name_stephanie_homeUI_favorability_2옥오리의 사랑?
 할머니.D
 norne_novel_2majyutu_8*그것도 제대로 한 곳에 머문 채,$
 norne_novel_2majyutu_80	할머니J
-norne_novel_2majyutu_81/오늘 밤 하손님이 숙박 리니날카라,@
-norne_novel_2majyutu_82%잠자리 노처녀 이태옥례.“
+norne_novel_2majyutu_81/오늘 밤 하손님이 숙박 리니날카라,C
+norne_novel_2majyutu_82(잠자리 노아가씨 이태옥례.“
 ^
 norne_novel_2majyutu_83C나는 가슴을 뛰면서 시가를 털고 다니는 것도 잊고�
 norne_novel_2majyutu_84�제대로 석유 램프의 빛을 받은 친절한 듯한 미스라 군의 얼굴을 무심코 물끄러미 쳐다봤습니다.
@@ -15945,9 +15945,9 @@ $puppet_passive_shield_devine_01_name$넘어지지 않는 끝의 지팡이�
 rank_equip_item83암흑의 물�
 rank_equip_item83_description�[장비] 투명한 병에 들어있는, 어디서 왔는지 모르는 칠흑의 물.이것을 마신 사람은 모두 제정신을 잃는다고 한다."
 rank_equip_item84승리의 검�
-rank_equip_item84_description}[장비] 이 칼은 그 소유자에게 희망과 승리를 가져다 주고 전쟁터를 날아 적을 살육할 수 있다.)
-rank_equip_item85전 처녀의 날개�
-rank_equip_item85_description�[장비] 전설의 발키리의 날개.이 두 날개를 얻은 것은 전설의 전처녀와 같은 힘을 얻을 수 있다고 한다.(
+rank_equip_item84_description}[장비] 이 칼은 그 소유자에게 희망과 승리를 가져다 주고 전쟁터를 날아 적을 살육할 수 있다.(
+rank_equip_item85배틀걸의 날개�
+rank_equip_item85_description�[장비] 전설의 발키리의 날개.이 두 날개를 얻은 것은 전설의 배틀걸과 같은 힘을 얻을 수 있다고 한다.(
 rank_equip_item86운석의 꽃받침�
 rank_equip_item86_description�【장비】전설에서는 라그나로크 때 하늘에서 떨어진 유성 조각으로 여신의 눈물을 많이 닮았다.막강한 마력을 담고 있다."
 rank_equip_item87신의 선물�
@@ -16156,8 +16156,8 @@ $puppet_passive_shield_devine_01_name$넘어지지 않는 끝의 지팡이�
  rank_juanzhou_item71_descriptiond암흑의 물을 제작하는 재료일정수 모으면 대응하는 장비로 합성할 수 있다.1
 rank_juanzhou_item72[승리의 검] 설계도�
  rank_juanzhou_item72_descriptiond승리의 검을 제작하는 재료일정수 모으면 대응하는 장비로 합성할 수 있다.4
-rank_juanzhou_item73[전처녀 날개] 설계도�
- rank_juanzhou_item73_descriptionl전 처녀의 날개를 제작하는 재료.일정수 모으면 대응하는 장비로 합성할 수 있다.4
+rank_juanzhou_item73[배틀걸 날개] 설계도�
+ rank_juanzhou_item73_descriptionk배틀걸의 날개를 제작하는 재료.일정수 모으면 대응하는 장비로 합성할 수 있다.4
 rank_juanzhou_item74【운석의 】】설계도�
  rank_juanzhou_item74_descriptionk운석의 꽃받침을 제작하는 재료.일정수 모으면 대응하는 장비로 합성할 수 있다.5
 rank_juanzhou_item75【신의 선물】 설계도�
@@ -16373,9 +16373,9 @@ rank_level	숙련도%
 rank_suipian_item71[암흑의 물] 조각�
 rank_suipian_item71_descriptiond암흑의 물을 제작하는 재료일정수 모으면 대응하는 장비로 합성할 수 있다.-
 rank_suipian_item72[승리의 검] 조각�
-rank_suipian_item72_descriptiond승리의 검을 제작하는 재료일정수 모으면 대응하는 장비로 합성할 수 있다.4
-rank_suipian_item73[전 처녀의 날개] 조각�
-rank_suipian_item73_descriptionl전 처녀의 날개를 제작하는 재료.일정수 모으면 대응하는 장비로 합성할 수 있다.6
+rank_suipian_item72_descriptiond승리의 검을 제작하는 재료일정수 모으면 대응하는 장비로 합성할 수 있다.3
+rank_suipian_item73[배틀걸의 날개] 조각�
+rank_suipian_item73_descriptionk배틀걸의 날개를 제작하는 재료.일정수 모으면 대응하는 장비로 합성할 수 있다.6
 rank_suipian_item74【운석의 꽃받침】조각�
 rank_suipian_item74_descriptionk운석의 꽃받침을 제작하는 재료.일정수 모으면 대응하는 장비로 합성할 수 있다.1
 rank_suipian_item75【신의 선물】 조각�
@@ -16521,10 +16521,10 @@ rank_level	숙련도%
 receive_gift_apisu나에게 선물? 후훗.선물은 받고 있지만, 너에게 받으면 조금 특별한 기분이 들어.고마워.�
 receive_gift_asagi~나에게 선물? 고마워....왠지 신기하네, 받을 수 있었을텐데, 너에게는 특별하다는 느낌이 들어.Q
 receive_gift_ashiri:어? 선물 주는거야!? 와아..기쁘네.고마워요!]
-receive_gift_bellaG이거는... 선물? 이런 거 받아본 적이 없어서... 좋아...l
-receive_gift_clarice_aR네? 저에게 선물입니까? 에헤, 오빠, 처녀 마음을 알고 있군요.l
-receive_gift_clarice_bR네? 저에게 선물입니까? 에헤, 오빠, 처녀 마음을 알고 있군요.l
-receive_gift_clarice_cR네? 저에게 선물입니까? 에헤, 오빠, 처녀 마음을 알고 있군요.�
+receive_gift_bellaG이거는... 선물? 이런 거 받아본 적이 없어서... 좋아...o
+receive_gift_clarice_aU네? 저에게 선물입니까? 에헤, 오빠, 아가씨 마음을 알고 있군요.o
+receive_gift_clarice_bU네? 저에게 선물입니까? 에헤, 오빠, 아가씨 마음을 알고 있군요.o
+receive_gift_clarice_cU네? 저에게 선물입니까? 에헤, 오빠, 아가씨 마음을 알고 있군요.�
 receive_gift_draconica�좋아하는구나. 우리 같은 자에게 선물을 해도 갚을 수 있는 것은 없다.…하지만, 고마워요.감사하다.i
 receive_gift_emilyS와우! 이거 에밀리한테 선물이에요? 고마워요~! 에헤, 기쁘네...�
 receive_gift_emma�이거 혹시 나한테 주는 선물이야? 하하 여자애들한테는 받고 있는데 너한테 받으면 뭔가 부끄럽네.~
@@ -17771,9 +17771,9 @@ star_libra천칭자리
 star_pisces물고기자리 
 star_sagittarius사수자리
 star_scorpio전갈자리
-star_taurus황소자리
+star_taurus황소자리
 
-star_virgo처녀자리4
+star_virgo아가씨자리4
 state_info_attack공격력 증가 #C3673AD[+{0}]6
 state_info_balance_hit행운 증가 #C3673AD[+{0}]:
 state_info_critical#치명 확률 증가 #C3673AD[+{0}]B
@@ -21087,8 +21087,8 @@ $ui_event_halloweenmission_final_date2020. 11. 05 까지8
 $ui_event_ricecake_asirian_final_date2020. 10. 15 까지>
 'ui_event_shininghoora_fatima_final_date2020. 11. 19 까지@
 )ui_event_shiningsandrea_ashiri_final_date2020. 12. 03 까지3
-ui_event_story_tablock다음날 해방됩니다I
-ui_event_story_tablock_8-모든 미션 완료로 처녀의 비밀이!?6
+ui_event_story_tablock다음날 해방됩니다L
+ui_event_story_tablock_80모든 미션 완료로 아가씨의 비밀이!?6
 ui_event_summer_shop_final_date2020. 09. 16 까지e
 ui_exceeded_daily_purchasesF일일 투기장 티켓 구매횟수({0}회)를 초과하였습니다."
 ui_exchange_01에레스 교환
@@ -24096,8 +24096,8 @@ $unlock_string_dailydungeon_mine_expl�조건을 달성하여 일일 던전 컨
 voice_bella_garden_weather_2_1!이 정도 더위, 별일 없다.J
 voice_bella_garden_weather_3_1(흐린 하늘... 바람이 시원하다.G
 voice_bella_garden_weather_4_1%오늘은 안에서 천천히 한다.7
-voice_bella_garden_weather_5_1…번개는, 싫어.z
-$voice_claricedps_favorability_gift_1R네? 저에게 선물입니까? 에헤, 오빠, 처녀 마음을 알고 있군요.F
+voice_bella_garden_weather_5_1…번개는, 싫어.}
+$voice_claricedps_favorability_gift_1U네? 저에게 선물입니까? 에헤, 오빠, 아가씨 마음을 알고 있군요.F
 &voice_claricedps_garden_daytime_mood_1점심 벌써 먹었어요-?[
 voice_claricedps_garden_gift_19오빠 이거 드세요! 귀여운 제 선물이에요☆H
 &voice_claricedps_garden_morning_mood_1아, 오빠.안녕하세요☆D
@@ -24113,8 +24113,8 @@ $voice_claricedps_garden_night_mood_1일도 적당히, 말이죠?I
 #voice_claricedps_garden_weather_2_1*더워. 밖에 나가고 싶지 않아요.D
 #voice_claricedps_garden_weather_3_1좀 올 것 같지 않아요?\
 #voice_claricedps_garden_weather_4_15비오는 날은 방에서 느긋함이 최고네요.\
-#voice_claricedps_garden_weather_5_15저기 이런날 전투같은거 안가는거 맞죠?z
-$voice_claricesup_favorability_gift_1R네? 저에게 선물입니까? 에헤, 오빠, 처녀 마음을 알고 있군요.F
+#voice_claricedps_garden_weather_5_15저기 이런날 전투같은거 안가는거 맞죠?}
+$voice_claricesup_favorability_gift_1U네? 저에게 선물입니까? 에헤, 오빠, 아가씨 마음을 알고 있군요.F
 &voice_claricesup_garden_daytime_mood_1점심 벌써 먹었어요-?[
 voice_claricesup_garden_gift_19오빠 이거 드세요! 귀여운 제 선물이에요☆H
 &voice_claricesup_garden_morning_mood_1아, 오빠.안녕하세요☆D
@@ -24130,8 +24130,8 @@ $voice_claricesup_garden_night_mood_1일도 적당히, 말이죠?I
 #voice_claricesup_garden_weather_2_1*더워. 밖에 나가고 싶지 않아요.D
 #voice_claricesup_garden_weather_3_1좀 올 것 같지 않아요?\
 #voice_claricesup_garden_weather_4_15비오는 날은 방에서 느긋함이 최고네요.\
-#voice_claricesup_garden_weather_5_15저기 이런날 전투같은거 안가는거 맞죠?{
-%voice_claricetank_favorability_gift_1R네? 저에게 선물입니까? 에헤, 오빠, 처녀 마음을 알고 있군요.G
+#voice_claricesup_garden_weather_5_15저기 이런날 전투같은거 안가는거 맞죠?~
+%voice_claricetank_favorability_gift_1U네? 저에게 선물입니까? 에헤, 오빠, 아가씨 마음을 알고 있군요.G
 'voice_claricetank_garden_daytime_mood_1점심 벌써 먹었어요-?\
 voice_claricetank_garden_gift_19오빠 이거 드세요! 귀여운 제 선물이에요☆I
 'voice_claricetank_garden_morning_mood_1아, 오빠.안녕하세요☆E
