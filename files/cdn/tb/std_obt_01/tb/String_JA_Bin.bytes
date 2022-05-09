@@ -1317,16 +1317,16 @@ Rank B@-@I
 17세/A형
 age_blood_9818세/O타입
 age_blood_99
-17세/A형S
-agnes_skill_01_expl_r19@target_enemyall@@skill_damage_physical_1@@st_suck_blood@J
+17세/A형Q
+agnes_skill_01_expl_r17@target_enemyall@skill_damage_physical_1@st_suck_blood@J
 agnes_skill_01_lv_up2@damage_physical@#@lv_up_1@
 @suck_blood@#@lv_up_7@'
-agnes_skill_01_name드레인 스윙D
-agnes_skill_02_expl_r1*@target_enemyall@@skill_damage_physical_1@3
+agnes_skill_01_name드레인 스윙C
+agnes_skill_02_expl_r1)@target_enemyall@skill_damage_physical_1@3
 agnes_skill_02_lv_up@damage_physical@#@lv_up_1@'
-agnes_skill_02_name커팅 케이크d
-agnes_skill_03_expl_r0J@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_damage_up@C
+agnes_skill_02_name커팅 케이크b
+agnes_skill_03_expl_r0H@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_damage_up@C
 agnes_skill_03_lv_up+@damage_physical@#@lv_up_2@
 @damage_up@#@6@#
 agnes_skill_03_name브래디문^
@@ -1634,16 +1634,16 @@ Rank B@-@I
 ami_training_resonance_2응, 느낌 좋아.+
 ami_training_resonance_3좀 더 줘봐.?
 ami_training_resonance_4#몸이 가볍다, 느낌이 든다.B
-ami_training_resonance_5&강해진 이 은혜 잊지 않을게.C
-anne_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@2
+ami_training_resonance_5&강해진 이 은혜 잊지 않을게.B
+anne_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@2
 anne_skill_01_lv_up@damage_physical@#@lv_up_1@
-anne_skill_01_name	찌르다\
-anne_skill_02_expl_r1C@target_self@@st_provocation@
-@target_self@@st_defence_physical_up@6
+anne_skill_01_name	찌르다Z
+anne_skill_02_expl_r1A@target_self@st_provocation@
+@target_self@st_defence_physical_up@6
 anne_skill_02_lv_up@defence_physical_up@#@lv_up_5@)
-anne_skill_02_name브레이브 하트^
-anne_skill_03_expl_r0E@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_stun@2
+anne_skill_02_name브레이브 하트\
+anne_skill_03_expl_r0C@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_stun@2
 anne_skill_03_lv_up@damage_physical@#@lv_up_2@#
 anne_skill_03_name실드 배시x
 anne_skill_04_explb전투 개시시 아군 전체에 반사 상태를 부여. 피해의 14%를 상대로 반사(3턴)"
@@ -1667,16 +1667,16 @@ Rank B@-@I
 apis_homeUI_secret_1W헉...! 왜 나보다 실비아가 인망이 두터운거야...!? 내가 더 예쁜데!�
 apis_homeUI_secret_2p상단의 '주인님' 대리는 이스카가 해주고 있어.정체 모를 상대를 대리하다니 잘하네.N
 apis_homeUI_twilight_greeting_1+저녁이야. 피부관리를 해야겠다.�
-apis_homeUI_user_birthday_1k생일축하해. 뭐 선물? 이 나에게 축복의 말을 받을 수 있는 시점이면 충분하겠지?C
-apis_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@2
+apis_homeUI_user_birthday_1k생일축하해. 뭐 선물? 이 나에게 축복의 말을 받을 수 있는 시점이면 충분하겠지?B
+apis_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@2
 apis_skill_01_lv_up@damage_physical@#@lv_up_1@)
-apis_skill_01_name새디스틱 터치\
-apis_skill_02_expl_r1C@target_self@@st_provocation@
-@target_self@@st_defence_physical_up@6
+apis_skill_01_name새디스틱 터치Z
+apis_skill_02_expl_r1A@target_self@st_provocation@
+@target_self@st_defence_physical_up@6
 apis_skill_02_lv_up@defence_physical_up@#@lv_up_5@%
-apis_skill_02_name버팔로스킨f
-apis_skill_03_expl_r0M@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_block_debuff@2
+apis_skill_02_name버팔로스킨d
+apis_skill_03_expl_r0K@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_block_debuff@2
 apis_skill_03_lv_up@damage_physical@#@lv_up_2@&
 apis_skill_03_name새디스틱 퀸^
 apis_skill_04_explH아피스의 체력이 30％ 이상일 경우 물리 방어 70％ 증가'
@@ -1737,10 +1737,10 @@ Rank B@-@I
 ashiri_skill_01_expl_r1?@base_skill_damage_physical_target@
 @cd_mix_attack_down_target@4
 ashiri_skill_01_expl_r2@ashiri_skill_01_expl_r1@4
-ashiri_skill_01_expl_r3@ashiri_skill_01_expl_r1@w
-ashiri_skill_01_lv_up^@damage_physical@#@lv_up_1@
+ashiri_skill_01_expl_r3@ashiri_skill_01_expl_r1@v
+ashiri_skill_01_lv_up]@damage_physical@#@lv_up_1@
 @mix_stat_def_down@#@lv_up_5@
-@mix_stat_def_down@@turn@#@lv_up_10@
+@mix_stat_def_down@turn@#@lv_up_10@
 ashiri_skill_01_name횡행;
 ashiri_skill_02_expl_r1 @base_skill_damage_physical_all@J
 ashiri_skill_02_expl_r2/@ashiri_skill_02_expl_r1@
@@ -1915,10 +1915,10 @@ Rank B@-@I
 battlemerge_skill_01_expl_r29
 battlemerge_skill_01_lv_up@damage_physical@#@lv_up_1@#
 battlemerge_skill_01_name주사
-battlemerge_skill_02_expl_r1�
-battlemerge_skill_02_lv_upf@damage_physical@#@lv_up_1@
+battlemerge_skill_02_expl_r1�
+battlemerge_skill_02_lv_upe@damage_physical@#@lv_up_1@
 @defence_physical_down@#@lv_up_5@
-@defence_physical_down@@turn@#@lv_up_10@/
+@defence_physical_down@turn@#@lv_up_10@/
 battlemerge_skill_02_name브레트아도민
 battlemerge_skill_03_expl_r03
 battlemerge_skill_03_lv_up@damage_physical@#@2@0
@@ -4246,21 +4246,21 @@ BGM 변경$
 character_voice_actress_96고마키 미유.
 character_voice_actress_97고마키 미유%
 character_voice_actress_98Machico1
-character_voice_actress_99유자나무 료카C
-charles_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@2
+character_voice_actress_99유자나무 료카B
+charles_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@2
 charles_skill_01_lv_up@damage_magic@#@lv_up_1@"
-charles_skill_01_name	횡나기>
-charles_skill_02_expl_r1"@target_allyone@@st_shield_damage@[
-charles_skill_02_expl_r2?@charles_skill_02_expl_r1@
-@target_allyone@@st_mix_stat_def_up@Q
+charles_skill_01_name	횡나기=
+charles_skill_02_expl_r1!@target_allyone@st_shield_damage@Z
+charles_skill_02_expl_r2>@charles_skill_02_expl_r1@
+@target_allyone@st_mix_stat_def_up@Q
 charles_skill_02_lv_up7@shield_damage@#@lv_up_1@
 @mix_stat_def_up@# - /@5@/@5@)
-charles_skill_02_name수호의 축복g
-charles_skill_03_expl_r0K@target_allyall@@st_defence_magic_up10@
-@target_allyall@@st_recovery_dot10@z
-charles_skill_03_lv_up`@defence_magic_up@#@lv_up_5@
-@defence_magic_up@@turn@#@lv_up_10@
-@recovery_dot@@turn@#@lv_up_10@,
+charles_skill_02_name수호의 축복e
+charles_skill_03_expl_r0I@target_allyall@st_defence_magic_up10@
+@target_allyall@st_recovery_dot10@x
+charles_skill_03_lv_up^@defence_magic_up@#@lv_up_5@
+@defence_magic_up@turn@#@lv_up_10@
+@recovery_dot@turn@#@lv_up_10@,
 charles_skill_03_name신념의 츠바사V
 charles_skill_04_expl=전투 시작 시 자신의 물리 방어를 45% 상승(3턴)&
 charles_skill_04_name일예 호신B
@@ -4513,20 +4513,20 @@ common_101에테르 결정(유상)
 damage_physical물리 데미지
 damage_share통증 구분
 	damage_up	피해 UPt
-dead_battery_reminder[에테르 잔량이 얼마 남지 않았다.곧 에너지 절약 모드에 들어갑니다.A
-death_skill_01_expl_r1'@target_enemyall@@skill_damage_magic_1@0
+dead_battery_reminder[에테르 잔량이 얼마 남지 않았다.곧 에너지 절약 모드에 들어갑니다.@
+death_skill_01_expl_r1&@target_enemyall@skill_damage_magic_1@0
 death_skill_01_lv_up@damage_magic@#@lv_up_1@&
-death_skill_01_name데스사이즈b
-death_skill_02_expl_r1H@target_enemyall@@skill_damage_magic_1@
-@target_enemyall@@st_block_buff@P
+death_skill_01_name데스사이즈`
+death_skill_02_expl_r1F@target_enemyall@skill_damage_magic_1@
+@target_enemyall@st_block_buff@P
 death_skill_02_lv_up8@damage_magic@#@lv_up_1@
 @mix_stat_cri_down@# - /@5@/@5@$
-death_skill_02_name필름 커팅k
-death_skill_03_expl_r0Q@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_mix_stat_def_down10@g
-death_skill_03_lv_upO@damage_magic@#@lv_up_2@
+death_skill_02_name필름 커팅i
+death_skill_03_expl_r0O@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_mix_stat_def_down10@f
+death_skill_03_lv_upN@damage_magic@#@lv_up_2@
 @mix_stat_def_down@#@5@
-@mix_stat_def_down@@turn@#@10@$
+@mix_stat_def_down@turn@#@10@$
 death_skill_03_name엔딩 테마�
 death_skill_04_explq아군 턴 시작 시, 자신의 얼티밋 게이지가 가득 차 있으면 아군의 모든 디버프를 제거$
 death_skill_04_name주연 배우4
@@ -4805,39 +4805,39 @@ $draconica_homeUI_twilight_greeting_1d네, 점심 식사 후에는 한가한가
 enchant_tail_title8「방대한」 스크롤0
 enchant_tail_title9「완벽한」 스크롤
 
-enchanting마법 공격J
-enemy_10000_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enchanting마법 공격I
+enemy_10000_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10000_skill_01_expl_r2@enemy_10000_skill_01_expl_r1@>
 enemy_10000_skill_01_expl_r3@enemy_10000_skill_01_expl_r1@-
-enemy_10000_skill_01_name롱 스러스트j
-enemy_10000_skill_02_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot@>
+enemy_10000_skill_01_name롱 스러스트h
+enemy_10000_skill_02_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot@>
 enemy_10000_skill_02_expl_r2@enemy_10000_skill_02_expl_r1@>
 enemy_10000_skill_02_expl_r3@enemy_10000_skill_02_expl_r1@,
-enemy_10000_skill_02_name스톰어썰트A
-enemy_10000_skill_03_expl_r0!@target_self@@st_mix_stat_atk_up@-
-enemy_10000_skill_03_name제국의 분노J
-enemy_10001_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10000_skill_02_name스톰어썰트@
+enemy_10000_skill_03_expl_r0 @target_self@st_mix_stat_atk_up@-
+enemy_10000_skill_03_name제국의 분노I
+enemy_10001_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10001_skill_01_expl_r2@enemy_10001_skill_01_expl_r1@>
 enemy_10001_skill_01_expl_r3@enemy_10001_skill_01_expl_r1@3
-enemy_10001_skill_01_name화이트 스러스트u
-enemy_10001_skill_02_expl_r1U@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery_value@>
+enemy_10001_skill_01_name화이트 스러스트s
+enemy_10001_skill_02_expl_r1S@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery_value@>
 enemy_10001_skill_02_expl_r2@enemy_10001_skill_02_expl_r1@>
 enemy_10001_skill_02_expl_r3@enemy_10001_skill_02_expl_r1@0
-enemy_10001_skill_02_name아이스 어썰트A
-enemy_10001_skill_03_expl_r0!@target_self@@st_damage_addition@-
-enemy_10001_skill_03_name빙혼의 모습J
-enemy_10002_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10001_skill_02_name아이스 어썰트@
+enemy_10001_skill_03_expl_r0 @target_self@st_damage_addition@-
+enemy_10001_skill_03_name빙혼의 모습I
+enemy_10002_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10002_skill_01_expl_r2@enemy_10002_skill_01_expl_r1@>
 enemy_10002_skill_01_expl_r3@enemy_10002_skill_01_expl_r1@0
-enemy_10002_skill_01_name다크 스러스트D
-enemy_10002_skill_02_expl_r1$@target_allyall@@st_mix_stat_atk_up@>
+enemy_10002_skill_01_name다크 스러스트C
+enemy_10002_skill_02_expl_r1#@target_allyall@st_mix_stat_atk_up@>
 enemy_10002_skill_02_expl_r2@enemy_10002_skill_02_expl_r1@>
 enemy_10002_skill_02_expl_r3@enemy_10002_skill_02_expl_r1@-
-enemy_10002_skill_02_name다크 스피릿p
-enemy_10002_skill_03_expl_r0P@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_skill_rank_down@/
+enemy_10002_skill_02_name다크 스피릿n
+enemy_10002_skill_03_expl_r0N@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_skill_rank_down@/
 enemy_10002_skill_03_name섀도우웨이브C
 enemy_10003_skill_01_expl_r1#@base_skill_damage_physical_target@>
 enemy_10003_skill_01_expl_r2@enemy_10003_skill_01_expl_r1@>
@@ -4854,40 +4854,40 @@ enchanting마법 공격J
 enemy_10004_skill_03_name홍련의 분노3
 enemy_10008_skill_01_name화이트 스러스트,
 enemy_10008_skill_02_name스톰어썰트-
-enemy_10008_skill_03_name제국의 분노J
-enemy_10010_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10008_skill_03_name제국의 분노I
+enemy_10010_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10010_skill_01_expl_r2@enemy_10010_skill_01_expl_r1@>
 enemy_10010_skill_01_expl_r3@enemy_10010_skill_01_expl_r1@,
-enemy_10010_skill_01_name히토야이혼J
-enemy_10010_skill_02_expl_r1*@target_enemyall@@skill_damage_physical_1@>
+enemy_10010_skill_01_name히토야이혼I
+enemy_10010_skill_02_expl_r1)@target_enemyall@skill_damage_physical_1@>
 enemy_10010_skill_02_expl_r2@enemy_10010_skill_02_expl_r1@>
 enemy_10010_skill_02_expl_r3@enemy_10010_skill_02_expl_r1@)
-enemy_10010_skill_02_name만시제사J
-enemy_10010_skill_03_expl_r0*@target_enemyone@@skill_damage_physical_0@*
-enemy_10010_skill_03_name강권 발동J
-enemy_10011_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10010_skill_02_name만시제사I
+enemy_10010_skill_03_expl_r0)@target_enemyone@skill_damage_physical_0@*
+enemy_10010_skill_03_name강권 발동I
+enemy_10011_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10011_skill_01_expl_r2@enemy_10011_skill_01_expl_r1@>
 enemy_10011_skill_01_expl_r3@enemy_10011_skill_01_expl_r1@0
-enemy_10011_skill_01_name아이스 애로우m
-enemy_10011_skill_02_expl_r1M@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_freezing_dot@>
+enemy_10011_skill_01_name아이스 애로우k
+enemy_10011_skill_02_expl_r1K@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_freezing_dot@>
 enemy_10011_skill_02_expl_r2@enemy_10011_skill_02_expl_r1@>
 enemy_10011_skill_02_expl_r3@enemy_10011_skill_02_expl_r1@2
-enemy_10011_skill_02_name크레이지스노우r
-enemy_10011_skill_03_expl_r0R@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_mix_stat_def_down@,
-enemy_10011_skill_03_name스노우스톰h
-enemy_10012_skill_01_expl_r1H@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_clear_buff@>
+enemy_10011_skill_02_name크레이지스노우p
+enemy_10011_skill_03_expl_r0P@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_mix_stat_def_down@,
+enemy_10011_skill_03_name스노우스톰f
+enemy_10012_skill_01_expl_r1F@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_clear_buff@>
 enemy_10012_skill_01_expl_r2@enemy_10012_skill_01_expl_r1@>
 enemy_10012_skill_01_expl_r3@enemy_10012_skill_01_expl_r1@-
-enemy_10012_skill_01_name다크 애로우G
-enemy_10012_skill_02_expl_r1'@target_enemyall@@skill_damage_magic_1@>
+enemy_10012_skill_01_name다크 애로우F
+enemy_10012_skill_02_expl_r1&@target_enemyall@skill_damage_magic_1@>
 enemy_10012_skill_02_expl_r2@enemy_10012_skill_02_expl_r1@>
 enemy_10012_skill_02_expl_r3@enemy_10012_skill_02_expl_r1@-
-enemy_10012_skill_02_name암야의 내습j
-enemy_10012_skill_03_expl_r0J@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_block_debuff@-
+enemy_10012_skill_02_name암야의 내습h
+enemy_10012_skill_03_expl_r0H@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_block_debuff@-
 enemy_10012_skill_03_name암야의 급습@
 enemy_10013_skill_01_expl_r1 @base_skill_damage_physical_all@>
 enemy_10013_skill_01_expl_r2@enemy_10013_skill_01_expl_r1@>
@@ -4907,32 +4907,32 @@ enchanting마법 공격J
 enemy_10018_skill_03_name슈퍼 멀티샷0
 enemy_10019_skill_01_name아이스 애로우)
 enemy_10019_skill_02_name만시제사*
-enemy_10019_skill_03_name강권 발동q
-enemy_10020_skill_01_expl_r1Q@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_awaken_gage_down@>
+enemy_10019_skill_03_name강권 발동o
+enemy_10020_skill_01_expl_r1O@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_awaken_gage_down@>
 enemy_10020_skill_01_expl_r2@enemy_10020_skill_01_expl_r1@>
 enemy_10020_skill_01_expl_r3@enemy_10020_skill_01_expl_r1@0
-enemy_10020_skill_01_name헤비 블레이드[
-enemy_10020_skill_02_expl_r1;@target_self@@st_provocation@
-@target_self@@st_damage_down@>
+enemy_10020_skill_01_name헤비 블레이드Y
+enemy_10020_skill_02_expl_r19@target_self@st_provocation@
+@target_self@st_damage_down@>
 enemy_10020_skill_02_expl_r2@enemy_10020_skill_02_expl_r1@>
 enemy_10020_skill_02_expl_r3@enemy_10020_skill_02_expl_r1@#
-enemy_10020_skill_02_name철벽}
-enemy_10020_skill_03_expl_r0]@target_self@@st_clear_debuff@
-@target_self@@skill_recovery_0@
-@target_self@@st_recovery_dot@#
-enemy_10020_skill_03_name사신J
-enemy_10021_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10020_skill_02_name철벽z
+enemy_10020_skill_03_expl_r0Z@target_self@st_clear_debuff@
+@target_self@skill_recovery_0@
+@target_self@st_recovery_dot@#
+enemy_10020_skill_03_name사신I
+enemy_10021_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10021_skill_01_expl_r2@enemy_10021_skill_01_expl_r1@>
 enemy_10021_skill_01_expl_r3@enemy_10021_skill_01_expl_r1@3
-enemy_10021_skill_01_name아이스 블레이드_
-enemy_10021_skill_02_expl_r1?@target_self@@st_provocation@
-@target_self@@st_mix_stat_def_up@>
+enemy_10021_skill_01_name아이스 블레이드]
+enemy_10021_skill_02_expl_r1=@target_self@st_provocation@
+@target_self@st_mix_stat_def_up@>
 enemy_10021_skill_02_expl_r2@enemy_10021_skill_02_expl_r1@>
 enemy_10021_skill_02_expl_r3@enemy_10021_skill_02_expl_r1@*
-enemy_10021_skill_02_name절대 빙벽]
-enemy_10021_skill_03_expl_r0=@target_self@@st_clear_debuff@
-@target_self@@st_recovery_dot@*
+enemy_10021_skill_02_name절대 빙벽[
+enemy_10021_skill_03_expl_r0;@target_self@st_clear_debuff@
+@target_self@st_recovery_dot@*
 enemy_10021_skill_03_name자기 희생C
 enemy_10022_skill_01_expl_r1#@base_skill_damage_physical_target@>
 enemy_10022_skill_01_expl_r2@enemy_10022_skill_01_expl_r1@>
@@ -4949,17 +4949,17 @@ enchanting마법 공격J
 enemy_10023_skill_03_name요동치는 방패0
 enemy_10026_skill_01_name헤비 블레이드#
 enemy_10026_skill_02_name철벽*
-enemy_10026_skill_03_name자기 희생G
-enemy_10030_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@>
+enemy_10026_skill_03_name자기 희생F
+enemy_10030_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@>
 enemy_10030_skill_01_expl_r2@enemy_10030_skill_01_expl_r1@>
 enemy_10030_skill_01_expl_r3@enemy_10030_skill_01_expl_r1@-
-enemy_10030_skill_01_name매지컬 히트B
-enemy_10030_skill_02_expl_r1"@target_allyall@@skill_recovery_1@>
+enemy_10030_skill_01_name매지컬 히트A
+enemy_10030_skill_02_expl_r1!@target_allyall@skill_recovery_1@>
 enemy_10030_skill_02_expl_r2@enemy_10030_skill_02_expl_r1@>
 enemy_10030_skill_02_expl_r3@enemy_10030_skill_02_expl_r1@2
-enemy_10030_skill_02_name미스테리어스힐f
-enemy_10030_skill_03_expl_r0F@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_freezing@*
+enemy_10030_skill_02_name미스테리어스힐d
+enemy_10030_skill_03_expl_r0D@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_freezing@*
 enemy_10030_skill_03_name팔방 막힘
 enemy_10031_skill_01_expl_r1>
 enemy_10031_skill_01_expl_r2@enemy_10031_skill_01_expl_r1@>
@@ -4973,41 +4973,41 @@ enchanting마법 공격J
 enemy_10031_skill_03_name디지매직-
 enemy_10032_skill_01_name매지컬 히트*
 enemy_10032_skill_02_name에너지 업$
-enemy_10032_skill_03_name보복.J
-enemy_10040_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10032_skill_03_name보복.I
+enemy_10040_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10040_skill_01_expl_r2@enemy_10040_skill_01_expl_r1@>
 enemy_10040_skill_01_expl_r3@enemy_10040_skill_01_expl_r1@*
-enemy_10040_skill_01_name체당 녹색J
-enemy_10040_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10040_skill_01_name체당 녹색I
+enemy_10040_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10040_skill_02_expl_r2@enemy_10040_skill_02_expl_r1@>
 enemy_10040_skill_02_expl_r3@enemy_10040_skill_02_expl_r1@*
-enemy_10040_skill_02_name태클 초록k
-enemy_10040_skill_03_expl_r0K@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_poison_dot@*
-enemy_10040_skill_03_name독액 분사J
-enemy_10041_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10040_skill_02_name태클 초록i
+enemy_10040_skill_03_expl_r0I@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_poison_dot@*
+enemy_10040_skill_03_name독액 분사I
+enemy_10041_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10041_skill_01_expl_r2@enemy_10041_skill_01_expl_r1@>
 enemy_10041_skill_01_expl_r3@enemy_10041_skill_01_expl_r1@*
-enemy_10041_skill_01_name체당 파랑J
-enemy_10041_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10041_skill_01_name체당 파랑I
+enemy_10041_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10041_skill_02_expl_r2@enemy_10041_skill_02_expl_r1@>
 enemy_10041_skill_02_expl_r3@enemy_10041_skill_02_expl_r1@*
-enemy_10041_skill_02_name태클 파랑m
-enemy_10041_skill_03_expl_r0M@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_freezing_dot@*
-enemy_10041_skill_03_name빙결 분사i
-enemy_10042_skill_01_expl_r1I@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_burn_dot@>
+enemy_10041_skill_02_name태클 파랑k
+enemy_10041_skill_03_expl_r0K@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_freezing_dot@*
+enemy_10041_skill_03_name빙결 분사g
+enemy_10042_skill_01_expl_r1G@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_burn_dot@>
 enemy_10042_skill_01_expl_r2@enemy_10042_skill_01_expl_r1@>
 enemy_10042_skill_01_expl_r3@enemy_10042_skill_01_expl_r1@*
-enemy_10042_skill_01_name체당 빨강u
-enemy_10042_skill_02_expl_r1U@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery_value@>
+enemy_10042_skill_01_name체당 빨강s
+enemy_10042_skill_02_expl_r1S@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery_value@>
 enemy_10042_skill_02_expl_r2@enemy_10042_skill_02_expl_r1@>
 enemy_10042_skill_02_expl_r3@enemy_10042_skill_02_expl_r1@*
-enemy_10042_skill_02_name태클 빨강i
-enemy_10042_skill_03_expl_r0I@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_burn_dot@0
+enemy_10042_skill_02_name태클 빨강g
+enemy_10042_skill_03_expl_r0G@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_burn_dot@0
 enemy_10042_skill_03_name불덩어리 분사
 enemy_10043_skill_01_expl_r1'
 enemy_10043_skill_01_name
@@ -5016,17 +5016,17 @@ enchanting마법 공격J
 enemy_10043_skill_02_name
 태클 킹
 enemy_10043_skill_03_expl_r0*
-enemy_10043_skill_03_name맹독 분사J
-enemy_10044_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10043_skill_03_name맹독 분사I
+enemy_10044_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10044_skill_01_expl_r2@enemy_10044_skill_01_expl_r1@>
 enemy_10044_skill_01_expl_r3@enemy_10044_skill_01_expl_r1@4
 enemy_10044_skill_01_name몸집과 나무의 정>
 enemy_10044_skill_02_expl_r1@enemy_10044_skill_01_expl_r1@>
 enemy_10044_skill_02_expl_r2@enemy_10044_skill_01_expl_r1@>
 enemy_10044_skill_02_expl_r3@enemy_10044_skill_01_expl_r1@&
-enemy_10044_skill_02_name	수지옥k
-enemy_10044_skill_03_expl_r0K@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_poison_dot@*
+enemy_10044_skill_02_name	수지옥i
+enemy_10044_skill_03_expl_r0I@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_poison_dot@*
 enemy_10044_skill_03_name강독 분사
 enemy_10045_skill_01_expl_r1>
 enemy_10045_skill_01_expl_r2@enemy_10045_skill_01_expl_r1@>
@@ -5037,40 +5037,40 @@ enchanting마법 공격J
 enemy_10045_skill_02_expl_r3@enemy_10045_skill_02_expl_r1@*
 enemy_10045_skill_02_name태클 빨강A
 enemy_10045_skill_03_expl_r0!@awaken_skill_damage_magic_taget@*
-enemy_10045_skill_03_name용암 분사r
-enemy_10050_skill_01_expl_r1R@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_mix_stat_def_down@>
+enemy_10045_skill_03_name용암 분사p
+enemy_10050_skill_01_expl_r1P@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_mix_stat_def_down@>
 enemy_10050_skill_01_expl_r2@enemy_10050_skill_01_expl_r1@>
 enemy_10050_skill_01_expl_r3@enemy_10050_skill_01_expl_r1@-
-enemy_10050_skill_01_name가이아 해머J
-enemy_10050_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10050_skill_01_name가이아 해머I
+enemy_10050_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10050_skill_02_expl_r2@enemy_10050_skill_02_expl_r1@>
 enemy_10050_skill_02_expl_r3@enemy_10050_skill_02_expl_r1@&
-enemy_10050_skill_02_name	스톤폴A
-enemy_10050_skill_03_expl_r0!@target_self@@st_mix_stat_def_up@0
-enemy_10050_skill_03_name가이아 배리어J
-enemy_10051_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@>
+enemy_10050_skill_02_name	스톤폴@
+enemy_10050_skill_03_expl_r0 @target_self@st_mix_stat_def_up@0
+enemy_10050_skill_03_name가이아 배리어I
+enemy_10051_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@>
 enemy_10051_skill_01_expl_r2@enemy_10051_skill_01_expl_r1@>
 enemy_10051_skill_01_expl_r3@enemy_10051_skill_01_expl_r1@0
-enemy_10051_skill_01_name프로스트 해머k
-enemy_10051_skill_02_expl_r1K@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_buff@>
+enemy_10051_skill_01_name프로스트 해머i
+enemy_10051_skill_02_expl_r1I@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_buff@>
 enemy_10051_skill_02_expl_r2@enemy_10051_skill_02_expl_r1@>
 enemy_10051_skill_02_expl_r3@enemy_10051_skill_02_expl_r1@,
-enemy_10051_skill_02_name프로스트폴A
-enemy_10051_skill_03_expl_r0!@target_self@@st_shield_damage_2@3
-enemy_10051_skill_03_name프로스트 배리어G
-enemy_10052_skill_01_expl_r1'@target_enemyall@@skill_damage_magic_1@>
+enemy_10051_skill_02_name프로스트폴@
+enemy_10051_skill_03_expl_r0 @target_self@st_shield_damage_2@3
+enemy_10051_skill_03_name프로스트 배리어F
+enemy_10052_skill_01_expl_r1&@target_enemyall@skill_damage_magic_1@>
 enemy_10052_skill_01_expl_r2@enemy_10052_skill_01_expl_r1@>
 enemy_10052_skill_01_expl_r3@enemy_10052_skill_01_expl_r1@-
-enemy_10052_skill_01_name마그마 해머j
-enemy_10052_skill_02_expl_r1J@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_block_attack@>
+enemy_10052_skill_01_name마그마 해머h
+enemy_10052_skill_02_expl_r1H@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_block_attack@>
 enemy_10052_skill_02_expl_r2@enemy_10052_skill_02_expl_r1@>
 enemy_10052_skill_02_expl_r3@enemy_10052_skill_02_expl_r1@)
-enemy_10052_skill_02_name마그마폴`
-enemy_10052_skill_03_expl_r0@@target_self@@st_clear_debuff@
-@target_self@@st_mix_stat_def_up@0
+enemy_10052_skill_02_name마그마폴^
+enemy_10052_skill_03_expl_r0>@target_self@st_clear_debuff@
+@target_self@st_mix_stat_def_up@0
 enemy_10052_skill_03_name마그마 배리어
 enemy_10053_skill_01_expl_r1
 enemy_10053_skill_01_expl_r2
@@ -5091,40 +5091,40 @@ enchanting마법 공격J
 enemy_10054_skill_02_expl_r30
 enemy_10054_skill_02_name매직 브레이크
 enemy_10054_skill_03_expl_r0,
-enemy_10054_skill_03_name프로스트폴J
-enemy_10060_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10054_skill_03_name프로스트폴I
+enemy_10060_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10060_skill_01_expl_r2@enemy_10060_skill_01_expl_r1@>
 enemy_10060_skill_01_expl_r3@enemy_10060_skill_01_expl_r1@)
-enemy_10060_skill_01_name샤프비크J
-enemy_10060_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10060_skill_01_name샤프비크I
+enemy_10060_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10060_skill_02_expl_r2@enemy_10060_skill_02_expl_r1@>
 enemy_10060_skill_02_expl_r3@enemy_10060_skill_02_expl_r1@-
-enemy_10060_skill_02_name샤프 어썰트i
-enemy_10060_skill_03_expl_r0I@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_burn_dot@0
-enemy_10060_skill_03_name프레임 레이저J
-enemy_10061_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10060_skill_02_name샤프 어썰트g
+enemy_10060_skill_03_expl_r0G@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_burn_dot@0
+enemy_10060_skill_03_name프레임 레이저I
+enemy_10061_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10061_skill_01_expl_r2@enemy_10061_skill_01_expl_r1@>
 enemy_10061_skill_01_expl_r3@enemy_10061_skill_01_expl_r1@)
-enemy_10061_skill_01_name스틸비크k
-enemy_10061_skill_02_expl_r1K@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_poison_dot@>
+enemy_10061_skill_01_name스틸비크i
+enemy_10061_skill_02_expl_r1I@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_poison_dot@>
 enemy_10061_skill_02_expl_r2@enemy_10061_skill_02_expl_r1@>
 enemy_10061_skill_02_expl_r3@enemy_10061_skill_02_expl_r1@-
-enemy_10061_skill_02_name스틸 어썰트m
-enemy_10061_skill_03_expl_r0M@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_block_debuff@-
-enemy_10061_skill_03_name위크 레이저J
-enemy_10062_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10061_skill_02_name스틸 어썰트k
+enemy_10061_skill_03_expl_r0K@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_block_debuff@-
+enemy_10061_skill_03_name위크 레이저I
+enemy_10062_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10062_skill_01_expl_r2@enemy_10062_skill_01_expl_r1@>
 enemy_10062_skill_01_expl_r3@enemy_10062_skill_01_expl_r1@*
-enemy_10062_skill_01_name보디 태클J
-enemy_10062_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10062_skill_01_name보디 태클I
+enemy_10062_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10062_skill_02_expl_r2@enemy_10062_skill_02_expl_r1@>
 enemy_10062_skill_02_expl_r3@enemy_10062_skill_02_expl_r1@&
-enemy_10062_skill_02_name	빅어택j
-enemy_10062_skill_03_expl_r0J@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_wound_dot@*
+enemy_10062_skill_02_name	빅어택h
+enemy_10062_skill_03_expl_r0H@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_wound_dot@*
 enemy_10062_skill_03_name트리플 빅
 enemy_10063_skill_01_expl_r1
 enemy_10063_skill_01_expl_r2
@@ -5138,64 +5138,64 @@ enchanting마법 공격J
 enemy_10063_skill_03_name프레임 레이저&
 enemy_10067_skill_01_name	메카빅,
 enemy_10067_skill_02_name메카셰이크-
-enemy_10067_skill_03_name데스 레이저j
-enemy_10070_skill_01_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot@>
+enemy_10067_skill_03_name데스 레이저h
+enemy_10070_skill_01_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot@>
 enemy_10070_skill_01_expl_r2@enemy_10070_skill_01_expl_r1@>
 enemy_10070_skill_01_expl_r3@enemy_10070_skill_01_expl_r1@1
-enemy_10070_skill_01_name티어 스틸 빨강G
-enemy_10070_skill_02_expl_r1'@target_enemyall@@skill_damage_magic_1@>
+enemy_10070_skill_01_name티어 스틸 빨강F
+enemy_10070_skill_02_expl_r1&@target_enemyall@skill_damage_magic_1@>
 enemy_10070_skill_02_expl_r2@enemy_10070_skill_02_expl_r1@>
 enemy_10070_skill_02_expl_r3@enemy_10070_skill_02_expl_r1@*
-enemy_10070_skill_02_name버블 어택=
-enemy_10070_skill_03_expl_r0@target_self@@st_provocation@,
-enemy_10070_skill_03_name틀어박히다j
-enemy_10071_skill_01_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot@>
+enemy_10070_skill_02_name버블 어택<
+enemy_10070_skill_03_expl_r0@target_self@st_provocation@,
+enemy_10070_skill_03_name틀어박히다h
+enemy_10071_skill_01_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot@>
 enemy_10071_skill_01_expl_r2@enemy_10071_skill_01_expl_r1@>
 enemy_10071_skill_01_expl_r3@enemy_10071_skill_01_expl_r1@1
-enemy_10071_skill_01_name티어 스틸 파랑r
-enemy_10071_skill_02_expl_r1R@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_mix_stat_atk_down@>
+enemy_10071_skill_01_name티어 스틸 파랑p
+enemy_10071_skill_02_expl_r1P@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_mix_stat_atk_down@>
 enemy_10071_skill_02_expl_r2@enemy_10071_skill_02_expl_r1@>
 enemy_10071_skill_02_expl_r3@enemy_10071_skill_02_expl_r1@*
-enemy_10071_skill_02_name스틸 펀치A
-enemy_10071_skill_03_expl_r0!@target_self@@st_shield_damage_2@*
-enemy_10071_skill_03_name버블 실드J
-enemy_10080_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10071_skill_02_name스틸 펀치@
+enemy_10071_skill_03_expl_r0 @target_self@st_shield_damage_2@*
+enemy_10071_skill_03_name버블 실드I
+enemy_10080_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10080_skill_01_expl_r2@enemy_10080_skill_01_expl_r1@>
 enemy_10080_skill_01_expl_r3@enemy_10080_skill_01_expl_r1@-
-enemy_10080_skill_01_name숲속의 분노m
-enemy_10080_skill_02_expl_r1M@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_attack@>
+enemy_10080_skill_01_name숲속의 분노k
+enemy_10080_skill_02_expl_r1K@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_attack@>
 enemy_10080_skill_02_expl_r2@enemy_10080_skill_02_expl_r1@>
 enemy_10080_skill_02_expl_r3@enemy_10080_skill_02_expl_r1@#
-enemy_10080_skill_02_name조임h
-enemy_10080_skill_03_expl_r0H@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_poison_dot@0
-enemy_10080_skill_03_name포이즌 플라워o
-enemy_10081_skill_01_expl_r1O@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery@>
+enemy_10080_skill_02_name조임f
+enemy_10080_skill_03_expl_r0F@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_poison_dot@0
+enemy_10080_skill_03_name포이즌 플라워m
+enemy_10081_skill_01_expl_r1M@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery@>
 enemy_10081_skill_01_expl_r2@enemy_10081_skill_01_expl_r1@>
 enemy_10081_skill_01_expl_r3@enemy_10081_skill_01_expl_r1@-
-enemy_10081_skill_01_name숲속의 분노m
-enemy_10081_skill_02_expl_r1M@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_attack@>
+enemy_10081_skill_01_name숲속의 분노k
+enemy_10081_skill_02_expl_r1K@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_attack@>
 enemy_10081_skill_02_expl_r2@enemy_10081_skill_02_expl_r1@>
 enemy_10081_skill_02_expl_r3@enemy_10081_skill_02_expl_r1@#
-enemy_10081_skill_02_name조임h
-enemy_10081_skill_03_expl_r0H@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_poison_dot@0
-enemy_10081_skill_03_name포이즌 플라워J
-enemy_10082_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10081_skill_02_name조임f
+enemy_10081_skill_03_expl_r0F@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_poison_dot@0
+enemy_10081_skill_03_name포이즌 플라워I
+enemy_10082_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10082_skill_01_expl_r2@enemy_10082_skill_01_expl_r1@>
 enemy_10082_skill_01_expl_r3@enemy_10082_skill_01_expl_r1@#
-enemy_10082_skill_01_name조임J
-enemy_10082_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10082_skill_01_name조임I
+enemy_10082_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10082_skill_02_expl_r2@enemy_10082_skill_02_expl_r1@>
 enemy_10082_skill_02_expl_r3@enemy_10082_skill_02_expl_r1@*
-enemy_10082_skill_02_name과일 어택B
-enemy_10082_skill_03_expl_r0"@target_allyall@@skill_recovery_0@*
+enemy_10082_skill_02_name과일 어택A
+enemy_10082_skill_03_expl_r0!@target_allyall@skill_recovery_0@*
 enemy_10082_skill_03_name수해 재생
 enemy_10083_skill_01_expl_r1
 enemy_10083_skill_01_expl_r2
@@ -5208,49 +5208,49 @@ enchanting마법 공격J
 enemy_10083_skill_03_expl_r00
 enemy_10083_skill_03_name포이즌 플라워*
 enemy_10084_skill_02_name과일 어택*
-enemy_10084_skill_03_name수해 재생j
-enemy_10090_skill_01_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot@>
+enemy_10084_skill_03_name수해 재생h
+enemy_10090_skill_01_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot@>
 enemy_10090_skill_01_expl_r2@enemy_10090_skill_01_expl_r1@>
 enemy_10090_skill_01_expl_r3@enemy_10090_skill_01_expl_r1@-
-enemy_10090_skill_01_name시저즈 댄스�
-enemy_10090_skill_02_expl_r1y@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_mix_stat_def_down@
-@target_enemyone@@st_awaken_gage_down@>
+enemy_10090_skill_01_name시저즈 댄스�
+enemy_10090_skill_02_expl_r1v@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_mix_stat_def_down@
+@target_enemyone@st_awaken_gage_down@>
 enemy_10090_skill_02_expl_r2@enemy_10090_skill_02_expl_r1@>
 enemy_10090_skill_02_expl_r3@enemy_10090_skill_02_expl_r1@-
-enemy_10090_skill_02_name시저즈 태클J
-enemy_10090_skill_03_expl_r0*@target_enemyone@@skill_damage_physical_0@-
-enemy_10090_skill_03_name시클스 로우J
-enemy_10091_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10090_skill_02_name시저즈 태클I
+enemy_10090_skill_03_expl_r0)@target_enemyone@skill_damage_physical_0@-
+enemy_10090_skill_03_name시클스 로우I
+enemy_10091_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10091_skill_01_expl_r2@enemy_10091_skill_01_expl_r1@>
 enemy_10091_skill_01_expl_r3@enemy_10091_skill_01_expl_r1@4
-enemy_10091_skill_01_name시저즈 댄스 어둠r
-enemy_10091_skill_02_expl_r1R@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_mix_stat_def_down@>
+enemy_10091_skill_01_name시저즈 댄스 어둠p
+enemy_10091_skill_02_expl_r1P@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_mix_stat_def_down@>
 enemy_10091_skill_02_expl_r2@enemy_10091_skill_02_expl_r1@>
 enemy_10091_skill_02_expl_r3@enemy_10091_skill_02_expl_r1@4
-enemy_10091_skill_02_name시저즈 태클 어둠q
-enemy_10091_skill_03_expl_r0Q@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_awaken_gage_down@)
-enemy_10091_skill_03_name다크스팅G
-enemy_10100_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@>
+enemy_10091_skill_02_name시저즈 태클 어둠o
+enemy_10091_skill_03_expl_r0O@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_awaken_gage_down@)
+enemy_10091_skill_03_name다크스팅F
+enemy_10100_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@>
 enemy_10100_skill_01_expl_r2@enemy_10100_skill_01_expl_r1@>
 enemy_10100_skill_01_expl_r3@enemy_10100_skill_01_expl_r1@0
-enemy_10100_skill_01_name엔찬트 스피어B
-enemy_10100_skill_02_expl_r1"@target_allyone@@skill_recovery_1@>
+enemy_10100_skill_01_name엔찬트 스피어A
+enemy_10100_skill_02_expl_r1!@target_allyone@skill_recovery_1@>
 enemy_10100_skill_02_expl_r2@enemy_10100_skill_02_expl_r1@>
 enemy_10100_skill_02_expl_r3@enemy_10100_skill_02_expl_r1@-
-enemy_10100_skill_02_name스위트 키스B
-enemy_10100_skill_03_expl_r0"@target_allyall@@skill_recovery_0@-
-enemy_10100_skill_03_name정령의 가호j
-enemy_10110_skill_01_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot@/
-enemy_10110_skill_01_name브래드바이트Y
-enemy_10110_skill_02_expl_r19@target_enemyone@@skill_damage_physical_1@@st_suck_blood@-
-enemy_10110_skill_02_name브래드 파티e
-enemy_10110_skill_03_expl_r0E@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_stun@0
+enemy_10100_skill_02_name스위트 키스A
+enemy_10100_skill_03_expl_r0!@target_allyall@skill_recovery_0@-
+enemy_10100_skill_03_name정령의 가호h
+enemy_10110_skill_01_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot@/
+enemy_10110_skill_01_name브래드바이트W
+enemy_10110_skill_02_expl_r17@target_enemyone@skill_damage_physical_1@st_suck_blood@-
+enemy_10110_skill_02_name브래드 파티c
+enemy_10110_skill_03_expl_r0C@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_stun@0
 enemy_10110_skill_03_name노이즈 임팩트/
 enemy_10112_skill_01_name브래드바이트-
 enemy_10112_skill_02_name브래드 파티0
@@ -5281,81 +5281,81 @@ enchanting마법 공격J
 enemy_10140_skill_02_expl_r1,
 enemy_10140_skill_02_name멀티바이트
 enemy_10140_skill_03_expl_r0,
-enemy_10140_skill_03_name하이레이지J
-enemy_10150_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@)
-enemy_10150_skill_01_name테일어택o
-enemy_10150_skill_02_expl_r1O@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_mix_stat_def_down@4
-enemy_10150_skill_02_name더블 브레스 파랑G
-enemy_10150_skill_03_expl_r0'@target_enemyone@@skill_damage_magic_0@6
-enemy_10150_skill_03_name하이드로캐논 파랑J
-enemy_10151_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@4
-enemy_10151_skill_01_name더블 브레스 빨강G
-enemy_10151_skill_02_expl_r1'@target_enemyall@@skill_damage_magic_1@/
-enemy_10151_skill_02_name하이드로몰탈G
-enemy_10151_skill_03_expl_r0'@target_enemyall@@skill_damage_magic_0@6
-enemy_10151_skill_03_name하이드로캐논 빨강u
-enemy_10160_skill_01_expl_r1U@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery_value@)
-enemy_10160_skill_01_name퀵바이트J
-enemy_10160_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@3
-enemy_10160_skill_02_name프로스트 크로우n
-enemy_10160_skill_03_expl_r0N@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_awaken_gage_down@0
-enemy_10160_skill_03_name콜드 스프레이J
-enemy_10161_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@0
-enemy_10161_skill_01_name스피릿 크로우J
-enemy_10161_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@)
-enemy_10161_skill_02_name일각충돌r
-enemy_10161_skill_03_expl_r0R@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_block_recovery_value@3
+enemy_10140_skill_03_name하이레이지I
+enemy_10150_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@)
+enemy_10150_skill_01_name테일어택m
+enemy_10150_skill_02_expl_r1M@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_mix_stat_def_down@4
+enemy_10150_skill_02_name더블 브레스 파랑F
+enemy_10150_skill_03_expl_r0&@target_enemyone@skill_damage_magic_0@6
+enemy_10150_skill_03_name하이드로캐논 파랑I
+enemy_10151_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@4
+enemy_10151_skill_01_name더블 브레스 빨강F
+enemy_10151_skill_02_expl_r1&@target_enemyall@skill_damage_magic_1@/
+enemy_10151_skill_02_name하이드로몰탈F
+enemy_10151_skill_03_expl_r0&@target_enemyall@skill_damage_magic_0@6
+enemy_10151_skill_03_name하이드로캐논 빨강s
+enemy_10160_skill_01_expl_r1S@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery_value@)
+enemy_10160_skill_01_name퀵바이트I
+enemy_10160_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@3
+enemy_10160_skill_02_name프로스트 크로우l
+enemy_10160_skill_03_expl_r0L@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_awaken_gage_down@0
+enemy_10160_skill_03_name콜드 스프레이I
+enemy_10161_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@0
+enemy_10161_skill_01_name스피릿 크로우I
+enemy_10161_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@)
+enemy_10161_skill_02_name일각충돌p
+enemy_10161_skill_03_expl_r0P@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_block_recovery_value@3
 enemy_10161_skill_03_name포이즌 스프레이)
 enemy_10164_skill_01_name퀵바이트3
 enemy_10164_skill_02_name프로스트 크로우3
 enemy_10164_skill_03_name앵글리스 플레이3
 enemy_10165_skill_01_name프로스트 크로우)
 enemy_10165_skill_02_name일각충돌3
-enemy_10165_skill_03_name앵글리스 플레이J
-enemy_10170_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@,
-enemy_10170_skill_01_name아이스윈드o
-enemy_10170_skill_02_expl_r1O@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_mix_stat_cri_down@0
-enemy_10170_skill_02_name더블 아이시클f
-enemy_10170_skill_03_expl_r0F@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_freezing@0
-enemy_10170_skill_03_name프로즌 레이저J
-enemy_10171_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@&
-enemy_10171_skill_01_name	땅울림B
-enemy_10171_skill_02_expl_r1"@target_allyone@@skill_recovery_1@)
-enemy_10171_skill_02_name아토믹힐j
-enemy_10171_skill_03_expl_r0J@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_block_debuff@2
-enemy_10171_skill_03_name울트라브러스트r
-enemy_10172_skill_01_expl_r1R@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_mix_stat_def_down@*
-enemy_10172_skill_01_name산지 붕괴u
-enemy_10172_skill_02_expl_r1U@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery_value@-
-enemy_10172_skill_02_name포이즌 태클h
-enemy_10172_skill_03_expl_r0H@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_clear_buff@*
-enemy_10172_skill_03_name펄스 필드G
-enemy_10173_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@*
-enemy_10173_skill_01_name드림 히트n
-enemy_10173_skill_02_expl_r1N@target_enemyall@@skill_damage_magic_1@
-@target_enemyall@@st_awaken_gage_down@0
-enemy_10173_skill_02_name알테마 레이저�
-enemy_10173_skill_03_expl_r0b@target_self@@st_clear_debuff@
-@target_self@@st_shield_damage_2@
-@target_self@@st_mix_stat_atk_up@-
-enemy_10173_skill_03_name스피릿 지역r
-enemy_10174_skill_01_expl_r1R@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_mix_stat_atk_down@0
-enemy_10174_skill_01_name크리스탈 윈드J
-enemy_10174_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@3
-enemy_10174_skill_02_name그라비티 프레스e
-enemy_10174_skill_03_expl_r0E@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_stun@/
+enemy_10165_skill_03_name앵글리스 플레이I
+enemy_10170_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@,
+enemy_10170_skill_01_name아이스윈드m
+enemy_10170_skill_02_expl_r1M@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_mix_stat_cri_down@0
+enemy_10170_skill_02_name더블 아이시클d
+enemy_10170_skill_03_expl_r0D@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_freezing@0
+enemy_10170_skill_03_name프로즌 레이저I
+enemy_10171_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@&
+enemy_10171_skill_01_name	땅울림A
+enemy_10171_skill_02_expl_r1!@target_allyone@skill_recovery_1@)
+enemy_10171_skill_02_name아토믹힐h
+enemy_10171_skill_03_expl_r0H@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_block_debuff@2
+enemy_10171_skill_03_name울트라브러스트p
+enemy_10172_skill_01_expl_r1P@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_mix_stat_def_down@*
+enemy_10172_skill_01_name산지 붕괴s
+enemy_10172_skill_02_expl_r1S@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery_value@-
+enemy_10172_skill_02_name포이즌 태클f
+enemy_10172_skill_03_expl_r0F@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_clear_buff@*
+enemy_10172_skill_03_name펄스 필드F
+enemy_10173_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@*
+enemy_10173_skill_01_name드림 히트l
+enemy_10173_skill_02_expl_r1L@target_enemyall@skill_damage_magic_1@
+@target_enemyall@st_awaken_gage_down@0
+enemy_10173_skill_02_name알테마 레이저
+enemy_10173_skill_03_expl_r0_@target_self@st_clear_debuff@
+@target_self@st_shield_damage_2@
+@target_self@st_mix_stat_atk_up@-
+enemy_10173_skill_03_name스피릿 지역p
+enemy_10174_skill_01_expl_r1P@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_mix_stat_atk_down@0
+enemy_10174_skill_01_name크리스탈 윈드I
+enemy_10174_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@3
+enemy_10174_skill_02_name그라비티 프레스c
+enemy_10174_skill_03_expl_r0C@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_stun@/
 enemy_10174_skill_03_name크리스탈체인
 enemy_10175_skill_01_expl_r1,
 enemy_10175_skill_01_name아이스윈드
@@ -5368,22 +5368,22 @@ enchanting마법 공격J
 enemy_10176_skill_02_expl_r1)
 enemy_10176_skill_02_name아토믹힐
 enemy_10176_skill_03_expl_r02
-enemy_10176_skill_03_name울트라브러스트G
-enemy_10180_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@/
-enemy_10180_skill_01_name스피애슬로우h
-enemy_10180_skill_02_expl_r1H@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_block_buff@/
-enemy_10180_skill_02_name글라스스피어d
-enemy_10180_skill_03_expl_r0D@target_allyone@@skill_recovery_0@
-@target_allyone@@st_recovery_dot@#
-enemy_10180_skill_03_name정화J
-enemy_10181_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@/
-enemy_10181_skill_01_name스피애슬로우m
-enemy_10181_skill_02_expl_r1M@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_debuff@3
-enemy_10181_skill_02_name크로스 블레이드f
-enemy_10181_skill_03_expl_r0F@target_allyall@@st_clear_debuff@
-@target_allyall@@st_damage_addition@)
+enemy_10176_skill_03_name울트라브러스트F
+enemy_10180_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@/
+enemy_10180_skill_01_name스피애슬로우f
+enemy_10180_skill_02_expl_r1F@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_block_buff@/
+enemy_10180_skill_02_name글라스스피어b
+enemy_10180_skill_03_expl_r0B@target_allyone@skill_recovery_0@
+@target_allyone@st_recovery_dot@#
+enemy_10180_skill_03_name정화I
+enemy_10181_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@/
+enemy_10181_skill_01_name스피애슬로우k
+enemy_10181_skill_02_expl_r1K@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_debuff@3
+enemy_10181_skill_02_name크로스 블레이드d
+enemy_10181_skill_03_expl_r0D@target_allyall@st_clear_debuff@
+@target_allyall@st_damage_addition@)
 enemy_10181_skill_03_name명경지수
 enemy_10182_skill_01_expl_r1/
 enemy_10182_skill_01_name스피애슬로우
@@ -5396,93 +5396,93 @@ enchanting마법 공격J
 enemy_10183_skill_02_expl_r13
 enemy_10183_skill_02_name포레스트 페이스
 enemy_10183_skill_03_expl_r0/
-enemy_10183_skill_03_name글라스스피어J
-enemy_10190_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@,
-enemy_10190_skill_01_name우드바이트r
-enemy_10190_skill_02_expl_r1R@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_mix_stat_atk_down@0
-enemy_10190_skill_02_name그리드 미스트r
-enemy_10190_skill_03_expl_r0R@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_mix_stat_def_down@0
-enemy_10190_skill_03_name그리드 포이즌j
-enemy_10191_skill_01_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot@,
-enemy_10191_skill_01_name실버바이트\
-enemy_10191_skill_02_expl_r1<@target_self@@st_provocation@
-@target_self@@st_recovery_dot@3
-enemy_10191_skill_02_name그리드 프로텍트z
-enemy_10191_skill_03_expl_r0Z@target_enemyall@@skill_damage_physical_0@@st_suck_blood@
-@target_enemyall@@st_clear_buff@/
-enemy_10191_skill_03_name그리드블레스�
-enemy_10192_skill_01_expl_r1r@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_awaken_gage_down@
-@target_self@@st_awaken_gage_up@,
-enemy_10192_skill_01_name골드바이트Y
-enemy_10192_skill_02_expl_r19@target_self@@skill_recovery_1@
-@target_self@@st_berserk@0
-enemy_10192_skill_02_name대박을 터뜨림�
-enemy_10192_skill_03_expl_r0p@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_block_attack@
-@target_enemyall@@st_block_awaken@-
-enemy_10192_skill_03_name악령의 현신J
-enemy_10200_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
+enemy_10183_skill_03_name글라스스피어I
+enemy_10190_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@,
+enemy_10190_skill_01_name우드바이트p
+enemy_10190_skill_02_expl_r1P@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_mix_stat_atk_down@0
+enemy_10190_skill_02_name그리드 미스트p
+enemy_10190_skill_03_expl_r0P@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_mix_stat_def_down@0
+enemy_10190_skill_03_name그리드 포이즌h
+enemy_10191_skill_01_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot@,
+enemy_10191_skill_01_name실버바이트Z
+enemy_10191_skill_02_expl_r1:@target_self@st_provocation@
+@target_self@st_recovery_dot@3
+enemy_10191_skill_02_name그리드 프로텍트w
+enemy_10191_skill_03_expl_r0W@target_enemyall@skill_damage_physical_0@st_suck_blood@
+@target_enemyall@st_clear_buff@/
+enemy_10191_skill_03_name그리드블레스�
+enemy_10192_skill_01_expl_r1o@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_awaken_gage_down@
+@target_self@st_awaken_gage_up@,
+enemy_10192_skill_01_name골드바이트W
+enemy_10192_skill_02_expl_r17@target_self@skill_recovery_1@
+@target_self@st_berserk@0
+enemy_10192_skill_02_name대박을 터뜨림�
+enemy_10192_skill_03_expl_r0m@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_block_attack@
+@target_enemyall@st_block_awaken@-
+enemy_10192_skill_03_name악령의 현신I
+enemy_10200_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
 enemy_10200_skill_01_expl_r2@enemy_10200_skill_01_expl_r1@>
 enemy_10200_skill_01_expl_r3@enemy_10200_skill_01_expl_r1@&
-enemy_10200_skill_01_name	마이닝j
-enemy_10200_skill_02_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot@>
+enemy_10200_skill_01_name	마이닝h
+enemy_10200_skill_02_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot@>
 enemy_10200_skill_02_expl_r2@enemy_10200_skill_02_expl_r1@>
 enemy_10200_skill_02_expl_r3@enemy_10200_skill_02_expl_r1@&
-enemy_10200_skill_02_name	스톤봄e
-enemy_10200_skill_03_expl_r0E@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_stun@-
-enemy_10200_skill_03_name트리플 드릴v
-enemy_10201_skill_01_expl_r1V@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_defence_physical_down@0
-enemy_10201_skill_01_name드릴 브레이크k
-enemy_10201_skill_02_expl_r1K@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_buff@)
-enemy_10201_skill_02_name스톤캐논k
-enemy_10201_skill_03_expl_r0K@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_clear_buff@*
-enemy_10201_skill_03_name드릴 댄스u
-enemy_10202_skill_01_expl_r1U@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery_value@0
-enemy_10202_skill_01_name바이오런트 컷�
-enemy_10202_skill_02_expl_r1o@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_burn_dot@
-@target_enemyall@@st_skill_rank_down@)
-enemy_10202_skill_02_name스톤캐논J
-enemy_10202_skill_03_expl_r0*@target_enemyone@@skill_damage_physical_0@0
-enemy_10202_skill_03_name블레이드 배럿G
-enemy_10203_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@&
-enemy_10203_skill_01_name	마이닝r
-enemy_10203_skill_02_expl_r1R@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_block_recovery_value@,
-enemy_10203_skill_02_name크로스피켈j
-enemy_10203_skill_03_expl_r0J@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_block_attack@2
+enemy_10200_skill_02_name	스톤봄c
+enemy_10200_skill_03_expl_r0C@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_stun@-
+enemy_10200_skill_03_name트리플 드릴t
+enemy_10201_skill_01_expl_r1T@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_defence_physical_down@0
+enemy_10201_skill_01_name드릴 브레이크i
+enemy_10201_skill_02_expl_r1I@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_buff@)
+enemy_10201_skill_02_name스톤캐논i
+enemy_10201_skill_03_expl_r0I@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_clear_buff@*
+enemy_10201_skill_03_name드릴 댄스s
+enemy_10202_skill_01_expl_r1S@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery_value@0
+enemy_10202_skill_01_name바이오런트 컷�
+enemy_10202_skill_02_expl_r1l@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_burn_dot@
+@target_enemyall@st_skill_rank_down@)
+enemy_10202_skill_02_name스톤캐논I
+enemy_10202_skill_03_expl_r0)@target_enemyone@skill_damage_physical_0@0
+enemy_10202_skill_03_name블레이드 배럿F
+enemy_10203_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@&
+enemy_10203_skill_01_name	마이닝p
+enemy_10203_skill_02_expl_r1P@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_block_recovery_value@,
+enemy_10203_skill_02_name크로스피켈h
+enemy_10203_skill_03_expl_r0H@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_block_attack@2
 enemy_10203_skill_03_name스톤그레네이드&
 enemy_10208_skill_01_name	마이닝,
 enemy_10208_skill_02_name크로스피켈2
-enemy_10208_skill_03_name스톤그레네이드G
-enemy_10210_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@&
-enemy_10210_skill_01_name	레이저B
-enemy_10210_skill_02_expl_r1"@target_allyall@@st_shield_damage@)
-enemy_10210_skill_02_name일렉페스<
-enemy_10210_skill_03_expl_r0@target_allyall@@st_berserk@-
+enemy_10208_skill_03_name스톤그레네이드F
+enemy_10210_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@&
+enemy_10210_skill_01_name	레이저A
+enemy_10210_skill_02_expl_r1!@target_allyall@st_shield_damage@)
+enemy_10210_skill_02_name일렉페스;
+enemy_10210_skill_03_expl_r0@target_allyall@st_berserk@-
 enemy_10210_skill_03_name데이터 가드&
 enemy_10211_skill_01_name	레이저)
 enemy_10211_skill_02_name일렉페스-
-enemy_10211_skill_03_name데이터 가드i
-enemy_10220_skill_01_expl_r1I@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_attack_down@-
-enemy_10220_skill_01_name가디언 망치j
-enemy_10220_skill_02_expl_r1J@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_block_debuff@0
-enemy_10220_skill_02_name원격 일렉트릭b
-enemy_10220_skill_03_expl_r0B@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_stun@*
+enemy_10211_skill_03_name데이터 가드g
+enemy_10220_skill_01_expl_r1G@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_attack_down@-
+enemy_10220_skill_01_name가디언 망치h
+enemy_10220_skill_02_expl_r1H@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_block_debuff@0
+enemy_10220_skill_02_name원격 일렉트릭`
+enemy_10220_skill_03_expl_r0@@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_stun@*
 enemy_10220_skill_03_name점핑 해머
 enemy_10230_skill_01_expl_r1-
 enemy_10230_skill_01_name더블 시저즈
@@ -5823,39 +5823,39 @@ enchanting마법 공격J
 enemy_10970_skill_03_name대시*
 enemy_10971_skill_01_name빅 마우스*
 enemy_10971_skill_02_name꼬리 치기#
-enemy_10971_skill_03_name대시J
-enemy_12000_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@Y
-enemy_12000_skill_01_expl_r29@enemy_12000_skill_01_expl_r1@
-@target_enemyone@@st_stun@>
+enemy_10971_skill_03_name대시I
+enemy_12000_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@X
+enemy_12000_skill_01_expl_r28@enemy_12000_skill_01_expl_r1@
+@target_enemyone@st_stun@>
 enemy_12000_skill_01_expl_r3@enemy_12000_skill_01_expl_r2@&
-enemy_12000_skill_01_name	메카빅r
-enemy_12000_skill_02_expl_r1R@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_mix_stat_def_down@>
+enemy_12000_skill_01_name	메카빅p
+enemy_12000_skill_02_expl_r1P@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_mix_stat_def_down@>
 enemy_12000_skill_02_expl_r2@enemy_12000_skill_02_expl_r1@>
 enemy_12000_skill_02_expl_r3@enemy_12000_skill_02_expl_r1@,
-enemy_12000_skill_02_name메카셰이크�
-enemy_12000_skill_03_expl_r0p@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_burn_dot@
-@target_enemyall@@st_awaken_gage_down@-
-enemy_12000_skill_03_name데스 레이저J
-enemy_12010_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@>
-enemy_12010_skill_01_name!돼지가 갑자기 돌진하다.j
-enemy_12010_skill_02_expl_r1J@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_wound_dot@'
+enemy_12000_skill_02_name메카셰이크�
+enemy_12000_skill_03_expl_r0m@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_burn_dot@
+@target_enemyall@st_awaken_gage_down@-
+enemy_12000_skill_03_name데스 레이저I
+enemy_12010_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@>
+enemy_12010_skill_01_name!돼지가 갑자기 돌진하다.h
+enemy_12010_skill_02_expl_r1H@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_wound_dot@'
 enemy_12010_skill_02_name
-거아 낫`
-enemy_12010_skill_03_expl_r0@@target_self@@st_mix_stat_def_up@
-@target_self@@st_recovery_dot@)
-enemy_12010_skill_03_name거아노포h
-enemy_12011_skill_01_expl_r1H@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_clear_buff@1
-enemy_12011_skill_01_name저돌맹진·이이�
-enemy_12011_skill_02_expl_r1s@target_enemyall@@skill_damage_magic_1@
-@target_enemyall@@st_block_recovery_value@
-@target_enemyall@@st_poison_dot@,
-enemy_12011_skill_02_name그린포이즌�
-enemy_12011_skill_03_expl_r0e@target_enemyone@@skill_damage_magic_0@@st_atk_critical_value@
-@target_enemyone@@st_awaken_gage_down@*
+거아 낫^
+enemy_12010_skill_03_expl_r0>@target_self@st_mix_stat_def_up@
+@target_self@st_recovery_dot@)
+enemy_12010_skill_03_name거아노포f
+enemy_12011_skill_01_expl_r1F@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_clear_buff@1
+enemy_12011_skill_01_name저돌맹진·이이�
+enemy_12011_skill_02_expl_r1p@target_enemyall@skill_damage_magic_1@
+@target_enemyall@st_block_recovery_value@
+@target_enemyall@st_poison_dot@,
+enemy_12011_skill_02_name그린포이즌�
+enemy_12011_skill_03_expl_r0b@target_enemyone@skill_damage_magic_0@st_atk_critical_value@
+@target_enemyone@st_awaken_gage_down@*
 enemy_12011_skill_03_name거아 낫이
 enemy_12013_skill_01_expl_r11
 enemy_12013_skill_01_name저돌맹진·이이
@@ -5864,61 +5864,61 @@ enchanting마법 공격J
 enemy_12013_skill_03_expl_r0*
 enemy_12013_skill_03_name거아 낫이i
 enemy_12013_skill_04_explL배틀 시작 시 자신의 공격력을 20%, 방어력을 200% 상승(6턴)&
-enemy_12013_skill_04_name	대증원r
-enemy_12020_skill_01_expl_r1R@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_mix_stat_atk_down@*
-enemy_12020_skill_01_name타는 일섬J
-enemy_12020_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@*
-enemy_12020_skill_02_name데빌 시저c
-enemy_12020_skill_03_expl_r0C@target_self@@st_shield_damage_2@
-@target_self@@st_mix_stat_atk_up@*
+enemy_12013_skill_04_name	대증원p
+enemy_12020_skill_01_expl_r1P@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_mix_stat_atk_down@*
+enemy_12020_skill_01_name타는 일섬I
+enemy_12020_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@*
+enemy_12020_skill_02_name데빌 시저a
+enemy_12020_skill_03_expl_r0A@target_self@st_shield_damage_2@
+@target_self@st_mix_stat_atk_up@*
 enemy_12020_skill_03_name스팀 아머*
 enemy_12021_skill_01_name타는 일섬*
 enemy_12021_skill_02_name데빌 시저*
-enemy_12021_skill_03_name스팀 아머J
-enemy_12030_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@0
-enemy_12030_skill_01_name프로스트 해머G
-enemy_12030_skill_02_expl_r1'@target_enemyone@@skill_damage_magic_1@]
-enemy_12030_skill_02_expl_r2=@enemy_12030_skill_02_expl_r1@
-@target_enemyone@@st_freezing@,
-enemy_12030_skill_02_name매드스피릿|
-enemy_12030_skill_03_expl_r0\@target_self@@st_berserk@
-@target_self@@st_damage_addition_5@
-@target_self@@st_recovery_dot@/
-enemy_12030_skill_03_name프로스트하울r
-enemy_12040_skill_01_expl_r1R@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_mix_stat_atk_down@,
-enemy_12040_skill_01_name펑크웨이브r
-enemy_12040_skill_02_expl_r1R@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_mix_stat_cri_down@7
-enemy_12040_skill_02_name완력으로 곡사하다.a
-enemy_12040_skill_03_expl_r0A@target_self@@skill_recovery_0@
-@target_self@@st_mix_stat_atk_up@1
-enemy_12040_skill_03_name마의 숲의 가호p
-enemy_12050_skill_01_expl_r1P@target_enemyall@@skill_damage_magic_1@
-@target_enemyall@@st_defence_magic_down@-
-enemy_12050_skill_01_name플레어 태클G
-enemy_12050_skill_02_expl_r1'@target_enemyone@@skill_damage_magic_1@,
-enemy_12050_skill_02_name열화노토식[
-enemy_12050_skill_03_expl_r0;@target_self@@st_mix_stat_atk_up@
-@target_self@@st_berserk@*
+enemy_12021_skill_03_name스팀 아머I
+enemy_12030_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@0
+enemy_12030_skill_01_name프로스트 해머F
+enemy_12030_skill_02_expl_r1&@target_enemyone@skill_damage_magic_1@\
+enemy_12030_skill_02_expl_r2<@enemy_12030_skill_02_expl_r1@
+@target_enemyone@st_freezing@,
+enemy_12030_skill_02_name매드스피릿y
+enemy_12030_skill_03_expl_r0Y@target_self@st_berserk@
+@target_self@st_damage_addition_5@
+@target_self@st_recovery_dot@/
+enemy_12030_skill_03_name프로스트하울p
+enemy_12040_skill_01_expl_r1P@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_mix_stat_atk_down@,
+enemy_12040_skill_01_name펑크웨이브p
+enemy_12040_skill_02_expl_r1P@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_mix_stat_cri_down@7
+enemy_12040_skill_02_name완력으로 곡사하다._
+enemy_12040_skill_03_expl_r0?@target_self@skill_recovery_0@
+@target_self@st_mix_stat_atk_up@1
+enemy_12040_skill_03_name마의 숲의 가호n
+enemy_12050_skill_01_expl_r1N@target_enemyall@skill_damage_magic_1@
+@target_enemyall@st_defence_magic_down@-
+enemy_12050_skill_01_name플레어 태클F
+enemy_12050_skill_02_expl_r1&@target_enemyone@skill_damage_magic_1@,
+enemy_12050_skill_02_name열화노토식Y
+enemy_12050_skill_03_expl_r09@target_self@st_mix_stat_atk_up@
+@target_self@st_berserk@*
 enemy_12050_skill_03_name하인 소환
 enemy_12052_skill_01_expl_r1)
 enemy_12052_skill_01_name격렬충돌
 enemy_12052_skill_02_expl_r1-
 enemy_12052_skill_02_name절대적 헌신
 enemy_12052_skill_03_expl_r0,
-enemy_12052_skill_03_name열화노토식n
-enemy_12060_skill_01_expl_r1N@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_awaken_gage_down@,
-enemy_12060_skill_01_name이온스피어�
-enemy_12060_skill_02_expl_r1l@target_enemyall@@skill_damage_magic_1@
-@target_self@@st_mix_stat_atk_up@
-@target_enemyall@@st_block_awaken@-
-enemy_12060_skill_02_name이온 레이저�
-enemy_12060_skill_03_expl_r0h@target_enemyall@@skill_damage_magic_0@
-@target_self@@st_clear_debuff@
-@target_self@@st_shield_damage_2@)
+enemy_12052_skill_03_name열화노토식l
+enemy_12060_skill_01_expl_r1L@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_awaken_gage_down@,
+enemy_12060_skill_01_name이온스피어�
+enemy_12060_skill_02_expl_r1i@target_enemyall@skill_damage_magic_1@
+@target_self@st_mix_stat_atk_up@
+@target_enemyall@st_block_awaken@-
+enemy_12060_skill_02_name이온 레이저�
+enemy_12060_skill_03_expl_r0e@target_enemyall@skill_damage_magic_0@
+@target_self@st_clear_debuff@
+@target_self@st_shield_damage_2@)
 enemy_12060_skill_03_name천변지이
 enemy_12070_skill_01_expl_r1)
 enemy_12070_skill_01_name웜블레스
@@ -6023,47 +6023,47 @@ enchanting마법 공격J
 enemy_13140_skill_03_name요란한 안광)
 enemy_13150_skill_01_name포이즌범-
 enemy_13150_skill_02_name톡식 미스트*
-enemy_13150_skill_03_name자독 자득�
-enemy_14000_skill_01_expl_r1x@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_block_recovery_value@
-@target_enemyone@@st_skill_rank_down@>
+enemy_13150_skill_03_name자독 자득�
+enemy_14000_skill_01_expl_r1u@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_block_recovery_value@
+@target_enemyone@st_skill_rank_down@>
 enemy_14000_skill_01_expl_r2@enemy_14000_skill_01_expl_r1@>
 enemy_14000_skill_01_expl_r3@enemy_14000_skill_01_expl_r1@*
-enemy_14000_skill_01_name육합 성토�
-enemy_14000_skill_02_expl_r1e@target_enemyall@@skill_damage_magic_1@
-@target_self@@st_clear_debuff@
-@target_enemyall@@st_burn_dot@>
+enemy_14000_skill_01_name육합 성토�
+enemy_14000_skill_02_expl_r1b@target_enemyall@skill_damage_magic_1@
+@target_self@st_clear_debuff@
+@target_enemyall@st_burn_dot@>
 enemy_14000_skill_02_expl_r2@enemy_14000_skill_02_expl_r1@>
 enemy_14000_skill_02_expl_r3@enemy_14000_skill_02_expl_r1@*
-enemy_14000_skill_02_name천하 석권n
-enemy_14000_skill_03_expl_r0N@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_awaken_gage_down@)
-enemy_14000_skill_03_name만물허무J
-enemy_14010_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@3
-enemy_14010_skill_01_name제국 검술@-@처형k
-enemy_14010_skill_02_expl_r1K@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_poison_dot@
-enemy_14010_skill_02_namea
-enemy_14010_skill_03_expl_r0A@target_enemyone@@skill_damage_physical_0@@st_atk_critical_value@
-enemy_14010_skill_03_namen
-enemy_14020_skill_01_expl_r1N@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_awaken_gage_down@
-enemy_14020_skill_01_namej
-enemy_14020_skill_02_expl_r1J@target_enemyall@@skill_damage_magic_1@
-@target_enemyall@@st_block_attack@a
-enemy_14020_skill_02_expl_r2A@enemy_14020_skill_02_expl_r1@
-@target_enemyall@@st_block_attack@
+enemy_14000_skill_02_name천하 석권l
+enemy_14000_skill_03_expl_r0L@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_awaken_gage_down@)
+enemy_14000_skill_03_name만물허무I
+enemy_14010_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@3
+enemy_14010_skill_01_name제국 검술@-@처형i
+enemy_14010_skill_02_expl_r1I@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_poison_dot@
+enemy_14010_skill_02_name_
+enemy_14010_skill_03_expl_r0?@target_enemyone@skill_damage_physical_0@st_atk_critical_value@
+enemy_14010_skill_03_namel
+enemy_14020_skill_01_expl_r1L@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_awaken_gage_down@
+enemy_14020_skill_01_nameh
+enemy_14020_skill_02_expl_r1H@target_enemyall@skill_damage_magic_1@
+@target_enemyall@st_block_attack@`
+enemy_14020_skill_02_expl_r2@@enemy_14020_skill_02_expl_r1@
+@target_enemyall@st_block_attack@
 enemy_14020_skill_02_name
 enemy_14020_skill_03_expl_r0
-enemy_14020_skill_03_nameJ
-enemy_14030_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@
-enemy_14030_skill_01_nameq
-enemy_14030_skill_02_expl_r1Q@target_enemyall@@skill_damage_physical_1@
-@target_enemyall@@st_awaken_gage_down@
-enemy_14030_skill_02_name�
-enemy_14030_skill_03_expl_r0e@target_self@@st_mix_stat_atk_up@
-@target_self@@st_mix_stat_cri_up@
-@target_self@@st_damage_addition@
+enemy_14020_skill_03_nameI
+enemy_14030_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@
+enemy_14030_skill_01_nameo
+enemy_14030_skill_02_expl_r1O@target_enemyall@skill_damage_physical_1@
+@target_enemyall@st_awaken_gage_down@
+enemy_14030_skill_02_name�
+enemy_14030_skill_03_expl_r0b@target_self@st_mix_stat_atk_up@
+@target_self@st_mix_stat_cri_up@
+@target_self@st_damage_addition@
 enemy_14030_skill_03_name*
 enemy_14040_skill_01_name데빌 쇼크)
 enemy_14040_skill_02_name타이탄폴-
@@ -6141,8 +6141,8 @@ enchanting마법 공격J
 enemy_90006_skill_02_expl_r1>
 enemy_90006_skill_02_expl_r2@enemy_14010_skill_02_expl_r1@>
 enemy_90006_skill_02_expl_r3@enemy_14010_skill_02_expl_r1@
-enemy_90006_skill_02_namea
-enemy_90006_skill_03_expl_r0A@target_enemyone@@skill_damage_physical_0@@st_atk_critical_value@
+enemy_90006_skill_02_name_
+enemy_90006_skill_03_expl_r0?@target_enemyone@skill_damage_physical_0@st_atk_critical_value@
 enemy_90006_skill_03_name
 enemy_90022_skill_01_expl_r1
 enemy_90022_skill_01_expl_r2
@@ -6537,20 +6537,20 @@ enchanting마법 공격J
 erica_homeUI_secret_2i베르겐 섬은 나에게 단 하나의 고향이다.섬을 지킬 수 있도록 더 강해져야겠다.�
  erica_homeUI_twilight_greeting_1�있잖아. 지금 막 발키리부에 있는 모든 사람들과 저녁 식사하자는 이야기가 되어 있었는데 괜찮으면 같이 어때?c
 erica_homeUI_user_birthday_1C생일축하해요~ 어? 소꿉친구고 생일정도는 기억해~m
-erica_mission_system_1S여기는 미션 확인과 보상을 받을 수 있어! 열심히 보상을 받자!D
-erica_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@3
+erica_mission_system_1S여기는 미션 확인과 보상을 받을 수 있어! 열심히 보상을 받자!C
+erica_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@3
 erica_skill_01_lv_up@damage_physical@#@lv_up_1@'
-erica_skill_01_name발키리 스윙D
-erica_skill_02_expl_r1*@target_enemyall@@skill_damage_physical_1@]
-erica_skill_02_expl_r2C@erica_skill_02_expl_r1@
-@target_enemyall@@st_block_recovery_value@3
+erica_skill_01_name발키리 스윙C
+erica_skill_02_expl_r1)@target_enemyall@skill_damage_physical_1@\
+erica_skill_02_expl_r2B@erica_skill_02_expl_r1@
+@target_enemyall@st_block_recovery_value@3
 erica_skill_02_lv_up@damage_physical@#@lv_up_1@&
-erica_skill_02_name서프라이즈n
-erica_skill_03_expl_r0T@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_mix_stat_def_down10@j
-erica_skill_03_lv_upR@damage_physical@#@lv_up_2@
+erica_skill_02_name서프라이즈l
+erica_skill_03_expl_r0R@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_mix_stat_def_down10@i
+erica_skill_03_lv_upQ@damage_physical@#@lv_up_2@
 @mix_stat_def_down@#@5@
-@mix_stat_def_down@@turn@#@10@-
+@mix_stat_def_down@turn@#@10@-
 erica_skill_03_name샤이닝 블레이드p
 erica_skill_04_explY에리카의 체력이 15％ 이하일 경우 아군 전체의 방어 능력 40％ 증가0
 erica_skill_04_name로즈마리 안티필드K
@@ -6703,9 +6703,9 @@ $event_roulette_2020chuseok_shoptitleS그럼 소니아님의 스킬 2를 출시
 flamestephanie_skill_01_lv_up@damage_magic@#@lv_up_1@,
 flamestephanie_skill_01_name파이어볼<
 flamestephanie_skill_02_lv_up@mix_stat_cri_up@#@lv_up_5@2
-flamestephanie_skill_02_name카오스파이어a
-flamestephanie_skill_03_expl_r0>@target_allyall@@st_berserk@
-@target_allyall@@st_recovery_dot@4
+flamestephanie_skill_02_name카오스파이어_
+flamestephanie_skill_03_expl_r0<@target_allyall@st_berserk@
+@target_allyall@st_recovery_dot@4
 flamestephanie_skill_03_lv_up@berserk@#@lv_up_6@5
 flamestephanie_skill_03_name인페르노프레임�
 flamestephanie_skill_04_expl�스킬 1 발동 시 적이 화상 상태일 경우 폭발을 일으켜 적 전체에 공격력의 55%에 해당하는 추가 피해를 입힌다.-
@@ -6914,15 +6914,15 @@ fund_name1Main Stage 팩�
 furniture_name_50901로봇 플로어 램프(
 furniture_name_50902이리세 거울%
 furniture_name_50904무기 선반(
-furniture_not_appliable설치 불가E
-fuyumi_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@4
+furniture_not_appliable설치 불가D
+fuyumi_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@4
 fuyumi_skill_01_lv_up@damage_physical@#@lv_up_1@$
-fuyumi_skill_01_name두드리다=
-fuyumi_skill_02_expl_r1"@target_allyall@@skill_recovery_1@0
+fuyumi_skill_01_name두드리다<
+fuyumi_skill_02_expl_r1!@target_allyall@skill_recovery_1@0
 fuyumi_skill_02_lv_up@recovery_hp@#@lv_up_1@%
-fuyumi_skill_02_name숲의 은혜a
-fuyumi_skill_03_expl_r0F@target_allyall@@skill_recovery_0@
-@target_allyall@@st_awaken_gage_up@0
+fuyumi_skill_02_name숲의 은혜_
+fuyumi_skill_03_expl_r0D@target_allyall@skill_recovery_0@
+@target_allyall@st_awaken_gage_up@0
 fuyumi_skill_03_lv_up@recovery_hp@#@lv_up_2@,
 fuyumi_skill_03_name늑대 신의 가호�
 fuyumi_skill_04_expl�전투 개시시 자신에게 약체 무효 상태를 부여. 또한 아군 전체에 자신의 공격력의 120%에 해당하는 쉴드 부여(3턴)!
@@ -7892,8 +7892,8 @@ $gacha_type_pickup_shiningsonia_title1
 @awaken_gage_up@# - /@4@/@4@4
 grimreaperdeath_skill_01_name스칼렛 사이트:
 grimreaperdeath_skill_02_lv_up@damage_magic@#@lv_up_1@0
-grimreaperdeath_skill_02_name데스브리츠b
- grimreaperdeath_skill_03_expl_r0>@target_enemyone@@skill_damage_magic_0@@st_atk_critical_value@:
+grimreaperdeath_skill_02_name데스브리츠`
+ grimreaperdeath_skill_03_expl_r0<@target_enemyone@skill_damage_magic_0@st_atk_critical_value@:
 grimreaperdeath_skill_03_lv_up@damage_magic@#@lv_up_2@0
 grimreaperdeath_skill_03_name브래딜리퍼Z
 grimreaperdeath_skill_04_expl9적을 쓰러뜨리면 60% 확률로 행동 기회 획득.
@@ -7919,15 +7919,15 @@ $gacha_type_pickup_shiningsonia_title1
 halloweenagnes_skill_02_expl_r1 @base_skill_damage_physical_all@<
 halloweenagnes_skill_02_lv_up@damage_physical@#@lv_up_1@
 halloweenagnes_skill_02_name!
-halloweenagnes_skill_03_expl_r0�
-halloweenagnes_skill_03_lv_up�@damage_physical@#@2@
+halloweenagnes_skill_03_expl_r0�
+halloweenagnes_skill_03_lv_up�@damage_physical@#@2@
 @recovery_hp@#@2@
 @mix_stat_atk_up@#@5@
-@mix_stat_atk_up@@turn@#@10@
+@mix_stat_atk_up@turn@#@10@
 @mix_stat_def_up@#@5@
-@mix_stat_def_up@@turn@#@10@
+@mix_stat_def_up@turn@#@10@
 @mix_stat_cri_up@#@5@
-@mix_stat_cri_up@@turn@#@10@
+@mix_stat_cri_up@turn@#@10@
 halloweenagnes_skill_03_name
 halloweenagnes_skill_04_expl
 halloweenagnes_skill_04_name
@@ -7940,14 +7940,14 @@ $gacha_type_pickup_shiningsonia_title1
  halloweenmikoto_skill_02_expl_r2:
 halloweenmikoto_skill_02_lv_up@damage_magic@#@lv_up_1@
 halloweenmikoto_skill_02_name"
- halloweenmikoto_skill_03_expl_r0�
-halloweenmikoto_skill_03_lv_up�@damage_magic@#@2@
+ halloweenmikoto_skill_03_expl_r0�
+halloweenmikoto_skill_03_lv_up�@damage_magic@#@2@
 @mix_stat_atk_down@#@5@
-@mix_stat_atk_down@@turn@#@10@
+@mix_stat_atk_down@turn@#@10@
 @mix_stat_def_down@#@5@
-@mix_stat_def_down@@turn@#@10@
+@mix_stat_def_down@turn@#@10@
 @mix_stat_cri_down@#@5@
-@mix_stat_cri_down@@turn@#@10@
+@mix_stat_cri_down@turn@#@10@
 halloweenmikoto_skill_03_name
 halloweenmikoto_skill_04_expl
 halloweenmikoto_skill_04_name
@@ -7961,18 +7961,18 @@ $gacha_type_pickup_shiningsonia_title1
 handbook_tap_go_pvp'투기장'에서 획득6
 handbook_tap_go_storyactivity'이벤트'로 획득
 hax	잠자리D
-head_touching_tips.머리를 쓰다듬으면 기분이 좋아요.D
-heidi_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@3
+head_touching_tips.머리를 쓰다듬으면 기분이 좋아요.C
+heidi_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@3
 heidi_skill_01_lv_up@damage_physical@#@lv_up_1@*
-heidi_skill_01_name점핑 스파이크3
-heidi_skill_02_expl_r1@target_self@@st_reflect@R
-heidi_skill_02_expl_r28@heidi_skill_02_expl_r1@
-@target_self@@st_shield_damage@G
+heidi_skill_01_name점핑 스파이크2
+heidi_skill_02_expl_r1@target_self@st_reflect@Q
+heidi_skill_02_expl_r27@heidi_skill_02_expl_r1@
+@target_self@st_shield_damage@G
 heidi_skill_02_lv_up/@reflect@#@lv_up_6@
 @shield_damage@# - /@1@/@1@'
-heidi_skill_02_name리드 블로킹d
-heidi_skill_03_expl_r0J@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_block_awaken@0
+heidi_skill_02_name리드 블로킹b
+heidi_skill_03_expl_r0H@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_block_awaken@0
 heidi_skill_03_lv_up@damage_magic@#@lv_up_2@*
 heidi_skill_03_name배리어트 스텝s
 heidi_skill_04_expl\참전 중인 아군 메이든이 적을 수록 하이디의 공격력 상승 (최대 20％)1
@@ -8619,24 +8619,24 @@ EXP는 자원 스테이지 혹은 샵에서 구입할 수 있는 EXP포션에서
 history_unlock_string_7
 history_unlock_string_8
 history_unlock_string_9 
-hit_damage_up여대미지 UPD
-hoora_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@U
-hoora_skill_01_expl_r2;@hoora_skill_01_expl_r1@
-@target_enemyone@@st_block_debuff@3
+hit_damage_up여대미지 UPC
+hoora_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@T
+hoora_skill_01_expl_r2:@hoora_skill_01_expl_r1@
+@target_enemyone@st_block_debuff@3
 hoora_skill_01_lv_up@damage_physical@#@lv_up_1@*
-hoora_skill_01_name매뉴얼 크로우<
-hoora_skill_02_expl_r1"@target_allyone@@skill_recovery_1@/
+hoora_skill_01_name매뉴얼 크로우;
+hoora_skill_02_expl_r1!@target_allyone@skill_recovery_1@/
 hoora_skill_02_lv_up@recovery_hp@#@lv_up_1@*
-hoora_skill_02_name클로우 리턴즈�
-hoora_skill_03_expl_r0v@target_allyall@@st_mix_stat_atk_up10@
-@target_allyall@@st_mix_stat_def_up10_6@
-@target_allyall@@st_mix_stat_cri_up10@�
-hoora_skill_03_lv_up�@mix_stat_atk_up@#@5@
-@mix_stat_atk_up@@turn@#@10@
+hoora_skill_02_name클로우 리턴즈�
+hoora_skill_03_expl_r0s@target_allyall@st_mix_stat_atk_up10@
+@target_allyall@st_mix_stat_def_up10_6@
+@target_allyall@st_mix_stat_cri_up10@�
+hoora_skill_03_lv_up�@mix_stat_atk_up@#@5@
+@mix_stat_atk_up@turn@#@10@
 @mix_stat_def_up@#@6@
-@mix_stat_def_up@@turn@#@10@
+@mix_stat_def_up@turn@#@10@
 @mix_stat_cri_up@#@5@
-@mix_stat_cri_up@@turn@#@10@,
+@mix_stat_cri_up@turn@#@10@,
 hoora_skill_03_name파워오브디저트h
 hoora_skill_04_explQ얼티밋 시전 시, 아군의 디버프 제거 및 얼티밋 효과 2턴 증가'
 hoora_skill_04_name죽음의 사제G
@@ -9016,39 +9016,39 @@ EXP는 자원 스테이지 혹은 샵에서 구입할 수 있는 EXP포션에서
 item_navi_desc_pet80SR/SSR 레어리티 자연지원카드 재활용F
 item_navi_desc_pet9/SSR 레어리티 자연 지원 카드 재활용�
  item_storyeventpoint_description�사용하면 클라리체의 매일 유학일기가 언록되고 마지막에는 클라리체를 당신의 팀에 가입시킬 수 있습니다.-
-item_storyeventpoint_name일기 포인트C
-kara_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@Z
-kara_skill_01_expl_r2A@kara_skill_01_expl_r1@
-@target_enemyone@@st_mix_stat_cri_down10@z
-kara_skill_01_lv_upc@damage_physical@#@lv_up_1@
+item_storyeventpoint_name일기 포인트B
+kara_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@Y
+kara_skill_01_expl_r2@@kara_skill_01_expl_r1@
+@target_enemyone@st_mix_stat_cri_down10@y
+kara_skill_01_lv_upb@damage_physical@#@lv_up_1@
 @mix_stat_cri_down@# - /@5@/@5@
-@mix_stat_cri_down@@turn@# - /@10@/@10@&
-kara_skill_01_name디저트 윈드?
-kara_skill_02_expl_r1&@target_allyone@@st_mix_stat_def_up10@U
-kara_skill_02_lv_up>@mix_stat_def_up@#@lv_up_5@
-@mix_stat_def_up@@turn@#@lv_up_10@(
-kara_skill_02_name엑소스켈레톤Z
-kara_skill_03_expl_r0A@target_allyall@@st_blood_5@
-@target_allyall@@st_damage_addition@=
+@mix_stat_cri_down@turn@# - /@10@/@10@&
+kara_skill_01_name디저트 윈드>
+kara_skill_02_expl_r1%@target_allyone@st_mix_stat_def_up10@T
+kara_skill_02_lv_up=@mix_stat_def_up@#@lv_up_5@
+@mix_stat_def_up@turn@#@lv_up_10@(
+kara_skill_02_name엑소스켈레톤X
+kara_skill_03_expl_r0?@target_allyall@st_blood_5@
+@target_allyall@st_damage_addition@=
 kara_skill_03_lv_up&@suck_blood@#@5@
 @damage_addition@#@6@%
 kara_skill_03_name디저트쥬얼t
 kara_skill_04_expl^2등급 이상의 데저트 윈드가 적중했을 시, 자신의 얼티밋 게이지 2 증가
 kara_skill_04_name	전리품C
 kara_skill_05_expl-자웬사라 메이든의 집중 10％ 증가$
-kara_skill_05_name보물 발견!D
-karen_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@\
-karen_skill_01_expl_r2B@karen_skill_01_expl_r1@
-@target_enemyone@@st_mix_stat_atk_down10@{
-karen_skill_01_lv_upc@damage_physical@#@lv_up_1@
+kara_skill_05_name보물 발견!C
+karen_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@[
+karen_skill_01_expl_r2A@karen_skill_01_expl_r1@
+@target_enemyone@st_mix_stat_atk_down10@z
+karen_skill_01_lv_upb@damage_physical@#@lv_up_1@
 @mix_stat_atk_down@# - /@5@/@5@
-@mix_stat_atk_down@@turn@# - /@10@/@10@'
-karen_skill_01_name해머 스매시<
-karen_skill_02_expl_r1"@target_allyall@@st_shield_damage@1
+@mix_stat_atk_down@turn@# - /@10@/@10@'
+karen_skill_01_name해머 스매시;
+karen_skill_02_expl_r1!@target_allyall@st_shield_damage@1
 karen_skill_02_lv_up@shield_damage@#@lv_up_1@&
-karen_skill_02_name프로텍션월_
-karen_skill_03_expl_r0E@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_stun@3
+karen_skill_02_name프로텍션월]
+karen_skill_03_expl_r0C@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_stun@3
 karen_skill_03_lv_up@damage_physical@#@lv_up_2@*
 karen_skill_03_name그랜드 크래싱X
 karen_skill_04_explA카렌의 체력이 80％ 이상일 경우 공격력 20％ 증가+
@@ -9156,18 +9156,18 @@ EXP는 자원 스테이지 혹은 샵에서 구입할 수 있는 EXP포션에서
 lia_homeUI_secret_1h벨라는 나의 언니야.쌍둥이인데 왜 벨라만 저렇게 단단한 아이가 됐는지 몰라.�
 lia_homeUI_secret_2y여기는 상단이여.여기서 조금이라도 이상한 짓을 하면...우리의 먹잇감이 되니까 조심해...?�
 lia_homeUI_twilight_greeting_1`흐흐흐... 이 시간은 마물을 알아채기 어렵기 때문에 사냥하기 쉬운거지.k
-lia_homeUI_user_birthday_1M오늘은 너의 생일인것 같아.축하해줄게 축하해흐흐흐흐...d
-lia_skill_01_expl_r1L@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot10@N
-lia_skill_01_lv_up8@damage_physical@#@lv_up_1@
-@wound_dot@@turn@#@lv_up_10@
-lia_skill_01_name	꿰뚫다B
-lia_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@Q
-lia_skill_02_expl_r29@lia_skill_02_expl_r1@
-@target_enemyone@@st_block_attack@1
+lia_homeUI_user_birthday_1M오늘은 너의 생일인것 같아.축하해줄게 축하해흐흐흐흐...b
+lia_skill_01_expl_r1J@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot10@M
+lia_skill_01_lv_up7@damage_physical@#@lv_up_1@
+@wound_dot@turn@#@lv_up_10@
+lia_skill_01_name	꿰뚫다A
+lia_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@P
+lia_skill_02_expl_r28@lia_skill_02_expl_r1@
+@target_enemyone@st_block_attack@1
 lia_skill_02_lv_up@damage_physical@#@lv_up_1@
-lia_skill_02_name유린Y
-lia_skill_03_expl_r0A@target_enemyone@@skill_damage_physical_0@@st_atk_critical_value@1
+lia_skill_02_name유린W
+lia_skill_03_expl_r0?@target_enemyone@skill_damage_physical_0@st_atk_critical_value@1
 lia_skill_03_lv_up@damage_physical@#@lv_up_2@"
 lia_skill_03_name피의 포옹K
 lia_skill_04_expl6전투 시작 시 자신의 공격력 20% 상승(3턴)"
@@ -10609,8 +10609,8 @@ $maribelle_homeUI_twilight_greeting_1M저녁 시간이에요.잠깐 휴식을 �
 maze_ui_season
 maze_ui_season_end_10
 maze_ui_season_end_20
-maze_ui_season_end_30E
-maze_ui_season_expl.@maze_ui_season_expl_1@@maze_ui_season_expl_2@
+maze_ui_season_end_30D
+maze_ui_season_expl-@maze_ui_season_expl_1@maze_ui_season_expl_2@
 maze_ui_season_expl_1
 maze_ui_season_expl_2
 maze_ui_season_start
@@ -10643,17 +10643,17 @@ $maribelle_homeUI_twilight_greeting_1M저녁 시간이에요.잠깐 휴식을 �
 melantha_training_resonance_4>오...! 뭔가 새로운 힘이
 해방된 느낌이 드네요.~
 melantha_training_resonance_5]내가 여기까지 힘을 풀 수 있다니.
-정말 당신을 따라오길 잘한것 같아.D
-merge_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@3
+정말 당신을 따라오길 잘한것 같아.C
+merge_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@3
 merge_skill_01_lv_up@damage_physical@#@lv_up_1@$
-merge_skill_01_name견제 사격g
-merge_skill_02_expl_r1M@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_poison_dot10@Q
-merge_skill_02_lv_up9@damage_physical@#@lv_up_1@
-@poison_dot@@turn@#@lv_up_10@$
-merge_skill_02_name타겟 제거d
-merge_skill_03_expl_r0J@target_enemyall@@skill_damage_magic_0@
-@target_allyall@@skill_recovery_0@H
+merge_skill_01_name견제 사격e
+merge_skill_02_expl_r1K@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_poison_dot10@P
+merge_skill_02_lv_up8@damage_physical@#@lv_up_1@
+@poison_dot@turn@#@lv_up_10@$
+merge_skill_02_name타겟 제거b
+merge_skill_03_expl_r0H@target_enemyall@skill_damage_magic_0@
+@target_allyall@skill_recovery_0@H
 merge_skill_03_lv_up0@damage_magic@#@lv_up_2@
 @recovery_hp@#@lv_up_2@.
 merge_skill_03_name적아군 식별 모드r
@@ -10735,18 +10735,18 @@ $maribelle_homeUI_twilight_greeting_1M저녁 시간이에요.잠깐 휴식을 �
 mikoto_homeUI_secret_1�아! 케익 케익은 없을까? 오오 착각하는건 아닌데? 내가 아니라 나유타가 갖고 싶어하는거잖아.케이크 갖고 싶어...�
 mikoto_homeUI_secret_2�뭐야? 도사가 나 같은 아이라서 위험하지 않을까? 걱정할 필요 없어.나의 호위에 나가 있기 때문이다.�
 !mikoto_homeUI_twilight_greeting_1l이제 곧 밤이잖아...강아지, 돌아올 때는 나를 보내지만 좋아....좀 무서워서 그래.}
-mikoto_homeUI_user_birthday_1\아이고 생일 축하해요.평소부터 강아지에게는 신세를 지고 있으니까.E
-mikoto_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@4
+mikoto_homeUI_user_birthday_1\아이고 생일 축하해요.평소부터 강아지에게는 신세를 지고 있으니까.D
+mikoto_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@4
 mikoto_skill_01_lv_up@damage_physical@#@lv_up_1@0
-mikoto_skill_01_name혼내줘요, 에비스!B
-mikoto_skill_02_expl_r1'@target_enemyone@@skill_damage_magic_1@Y
-mikoto_skill_02_expl_r2>@mikoto_skill_02_expl_r1@
-@target_enemyone@@st_freezing_dot10@T
-mikoto_skill_02_lv_up;@damage_magic@#@lv_up_1@
-@freezing_dot@@turn@# - /@10@/@10@(
-mikoto_skill_02_name에비스 소환h
-mikoto_skill_03_expl_r0M@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_skill_rank_down@1
+mikoto_skill_01_name혼내줘요, 에비스!A
+mikoto_skill_02_expl_r1&@target_enemyone@skill_damage_magic_1@X
+mikoto_skill_02_expl_r2=@mikoto_skill_02_expl_r1@
+@target_enemyone@st_freezing_dot10@S
+mikoto_skill_02_lv_up:@damage_magic@#@lv_up_1@
+@freezing_dot@turn@# - /@10@/@10@(
+mikoto_skill_02_name에비스 소환f
+mikoto_skill_03_expl_r0K@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_skill_rank_down@1
 mikoto_skill_03_lv_up@damage_magic@#@lv_up_2@.
 mikoto_skill_03_name둥실둥실 에비스�
 mikoto_skill_04_explm미코토의 체력이 20％ 이하일 경우 디버프 제거 및 얼티밋 게이지 6 증가 (1회 발동).
@@ -10839,21 +10839,21 @@ $maribelle_homeUI_twilight_greeting_1M저녁 시간이에요.잠깐 휴식을 �
 mission_title_83
 mission_title_84
 mission_title_9j
-mitsuki_skill2_aimT효과 대상·<color=#219EF9>랜덤한 적</color>: 3개의 화살을 쏘아 합계m
-mitsuki_skill_01_expl_r1Q@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_mix_stat_cri_down10@u
-mitsuki_skill_01_lv_up[@damage_magic@#@lv_up_1@
+mitsuki_skill2_aimT효과 대상·<color=#219EF9>랜덤한 적</color>: 3개의 화살을 쏘아 합계k
+mitsuki_skill_01_expl_r1O@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_mix_stat_cri_down10@t
+mitsuki_skill_01_lv_upZ@damage_magic@#@lv_up_1@
 @mix_stat_cri_down@#@lv_up_5@
-@mix_stat_cri_down@@turn@#@lv_up_10@%
-mitsuki_skill_01_name달빛노야C
-mitsuki_skill_02_expl_r1'@target_enemyall@@skill_damage_magic_1@W
-mitsuki_skill_02_expl_r2;@mitsuki_skill_02_expl_r1@
-@target_enemyall@@st_burn_dot10@Q
-mitsuki_skill_02_lv_up7@damage_magic@#@lv_up_1@
-@burn_dot@@turn@# - /@10@/@10@&
-mitsuki_skill_02_name일제 사격h
-mitsuki_skill_03_expl_r0L@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_block_recovery@2
+@mix_stat_cri_down@turn@#@lv_up_10@%
+mitsuki_skill_01_name달빛노야B
+mitsuki_skill_02_expl_r1&@target_enemyall@skill_damage_magic_1@V
+mitsuki_skill_02_expl_r2:@mitsuki_skill_02_expl_r1@
+@target_enemyall@st_burn_dot10@P
+mitsuki_skill_02_lv_up6@damage_magic@#@lv_up_1@
+@burn_dot@turn@# - /@10@/@10@&
+mitsuki_skill_02_name일제 사격f
+mitsuki_skill_03_expl_r0J@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_block_recovery@2
 mitsuki_skill_03_lv_up@damage_magic@#@lv_up_2@:
 mitsuki_skill_03_name!요염한 여우가 질주하다.j
 mitsuki_skill_04_explQ얼티밋 시전 시, 스킬봉쇄:공격 및 스킬봉쇄:얼티밋 추가부여9
@@ -10881,22 +10881,22 @@ $maribelle_homeUI_twilight_greeting_1M저녁 시간이에요.잠깐 휴식을 �
 momo_homeUI_secret_1>사과 어딨어? 벌써 또 어디선가 헤매고 있을까?S
 momo_homeUI_secret_2;사과와 함께라면 어디든 갈 수 있을 것 같아.V
 momo_homeUI_twilight_greeting_13밤이 되었네.이제 곧 집에 가야겠어요.o
-momo_homeUI_user_birthday_1P생일 축하해。이게 모모가 준 선물이야.앞으로도 잘 부탁해.C
-momo_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@2
+momo_homeUI_user_birthday_1P생일 축하해。이게 모모가 준 선물이야.앞으로도 잘 부탁해.B
+momo_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@2
 momo_skill_01_lv_up@damage_physical@#@lv_up_1@"
-momo_skill_01_name모모펀치T
-momo_skill_02_expl_r1;@target_self@@st_provocation@
-@target_self@@st_damage_down@.
+momo_skill_01_name모모펀치R
+momo_skill_02_expl_r19@target_self@st_provocation@
+@target_self@st_damage_down@.
 momo_skill_02_lv_up@damage_down@#@lv_up_6@"
-momo_skill_02_name모모가드�
-momo_skill_03_expl_r0�@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_mix_stat_atk_down10@
-@target_enemyall@@st_mix_stat_cri_down10_6@�
-momo_skill_03_lv_up�@damage_physical@#@lv_up_2@
+momo_skill_02_name모모가드�
+momo_skill_03_expl_r0}@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_mix_stat_atk_down10@
+@target_enemyall@st_mix_stat_cri_down10_6@�
+momo_skill_03_lv_up�@damage_physical@#@lv_up_2@
 @mix_stat_atk_down@#@5@
-@mix_stat_atk_down@@turn@#@10@
+@mix_stat_atk_down@turn@#@10@
 @mix_stat_cri_down@#@6@
-@mix_stat_cri_down@@turn@#@10@"
+@mix_stat_cri_down@turn@#@10@"
 momo_skill_03_name모모어택�
 momo_skill_04_explo참전 중인 아군 메이든이 적을 수록 모모의 물리 방어 및 치명 저항 증가 (최대 30％)*
 momo_skill_04_name모모가 지킬게!:
@@ -10960,16 +10960,16 @@ $maribelle_homeUI_twilight_greeting_1M저녁 시간이에요.잠깐 휴식을 �
 morana_training_resonance_5?모라나, 당신에게 도움이 될 수 있을까? 기쁘다.
 msg_popup_custom_reset
 msg_popup_guildcoin_leak&
-$msg_popup_guildrequest_use_guildcoinE
-murphy_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@4
+$msg_popup_guildrequest_use_guildcoinD
+murphy_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@4
 murphy_skill_01_lv_up@damage_physical@#@lv_up_1@%
-murphy_skill_01_name슈팅 스타8
-murphy_skill_02_expl_r1@target_self@@st_provocation@V
-murphy_skill_02_expl_r2;@murphy_skill_02_expl_r1@
-@target_self@@st_mix_stat_def_up@6
+murphy_skill_01_name슈팅 스타7
+murphy_skill_02_expl_r1@target_self@st_provocation@U
+murphy_skill_02_expl_r2:@murphy_skill_02_expl_r1@
+@target_self@st_mix_stat_def_up@6
 murphy_skill_02_lv_up@mix_stat_def_up@# - /@5@/@5@.
-murphy_skill_02_name이벤트 호라이즌T
-murphy_skill_03_expl_r09@target_enemyall@@skill_damage_physical_0@@st_suck_blood@E
+murphy_skill_02_name이벤트 호라이즌R
+murphy_skill_03_expl_r07@target_enemyall@skill_damage_physical_0@st_suck_blood@E
 murphy_skill_03_lv_up,@damage_physical@#@lv_up_2@
 @suck_blood@#@6@'
 murphy_skill_03_name싱귤러리티%
@@ -11024,16 +11024,16 @@ $msg_popup_guildrequest_use_guildcoinE
 naja_homeUI_secret_1�이스카는 상단의 대표 대리인데, 사실 제일 높은 사람은 아니거든.원래 좋은곳 출신이라 그런지 굉장히 높은사람같은 분위기가 있지만 말야.�
 naja_homeUI_secret_2x샤빈 자라 상단의 내부를 걷고 싶다면 나에게 말해줘. 추천할 만한 곳을 많이 데려다 줄게.�
 naja_homeUI_twilight_greeting_1g아, 이제 저녁은 끝났어? 내가 추천할 만한 레스토랑이 있는데 괜찮으면 어때?�
-naja_homeUI_user_birthday_1t오늘이 네 생일인가 보네.그러니까 선물 줄게....내 생일이 되면 답례, 기대하고 있을게?@
-naja_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@/
+naja_homeUI_user_birthday_1t오늘이 네 생일인가 보네.그러니까 선물 줄게....내 생일이 되면 답례, 기대하고 있을게??
+naja_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@/
 naja_skill_01_lv_up@damage_magic@#@lv_up_1@'
-naja_skill_01_name기적의 한 방;
-naja_skill_02_expl_r2"@target_allyall@@st_skill_rank_up@Y
-naja_skill_02_lv_upB@mix_stat_cri_up@# - / - /@5@
-@mix_stat_cri_up@@turn@# - / - /@10@*
-naja_skill_02_name사해 문서 외전k
-naja_skill_03_expl_r0R@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_block_recovery_value@/
+naja_skill_01_name기적의 한 방:
+naja_skill_02_expl_r2!@target_allyall@st_skill_rank_up@X
+naja_skill_02_lv_upA@mix_stat_cri_up@# - / - /@5@
+@mix_stat_cri_up@turn@# - / - /@10@*
+naja_skill_02_name사해 문서 외전i
+naja_skill_03_expl_r0P@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_block_recovery_value@/
 naja_skill_03_lv_up@damage_magic@#@lv_up_2@&
 naja_skill_03_name데모리션 월�
 naja_skill_04_explr아군 턴 시작 시, 나자의 얼티밋 게이지에 비례하여 아군의 치명 능력 증가 (최대 30％)#
@@ -11612,22 +11612,22 @@ $name_stephanie_homeUI_favorability_2옥오리의 사랑?
 name_yuna_homeUI_secret_1새로운 맛의 정의4
 name_yuna_homeUI_secret_2아름다운 작은 섬/
 name_yuna_training_resonance_3새로운 힘/
-name_yuna_training_resonance_5홍서의 배i
-natsuha_skill_01_expl_r1M@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_attack@5
+name_yuna_training_resonance_5홍서의 배g
+natsuha_skill_01_expl_r1K@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_attack@5
 natsuha_skill_01_lv_up@damage_physical@#@lv_up_1@&
-natsuha_skill_01_name당근 썰기5
-natsuha_skill_02_expl_r1@target_self@@st_reflect@U
-natsuha_skill_02_expl_r29@natsuha_skill_02_expl_r1@
-@target_self@@st_recovery_dot@-
+natsuha_skill_01_name당근 썰기4
+natsuha_skill_02_expl_r1@target_self@st_reflect@T
+natsuha_skill_02_expl_r28@natsuha_skill_02_expl_r1@
+@target_self@st_recovery_dot@-
 natsuha_skill_02_lv_up@reflect@#@lv_up_6@&
-natsuha_skill_02_name터치 금지
-natsuha_skill_03_expl_r0c@target_self@@skill_recovery_0@
-@target_self@@st_clear_debuff@
-@target_self@@st_defence_magic_up10@f
-natsuha_skill_03_lv_upL@recovery_hp@#@lv_up_2@
+natsuha_skill_02_name터치 금지|
+natsuha_skill_03_expl_r0`@target_self@skill_recovery_0@
+@target_self@st_clear_debuff@
+@target_self@st_defence_magic_up10@e
+natsuha_skill_03_lv_upK@recovery_hp@#@lv_up_2@
 @defence_magic_up@#@5@
-@defence_magic_up@@turn@#@10@)
+@defence_magic_up@turn@#@10@)
 natsuha_skill_03_name여름 색검무z
 natsuha_skill_04_expla턴 종료 시 나츠하가 공격을 당하지 않았다면 공격력 5％ 증가 (최대 30％))
 natsuha_skill_04_name신인의 열정@
@@ -11700,19 +11700,19 @@ $name_stephanie_homeUI_favorability_2옥오리의 사랑?
 nora_homeUI_secret_1v부장님은 저래봬도 월등한 천재라구요....좀 특이한 사람이지만 실력은 있는 사람입니다.�
 nora_homeUI_secret_2�저기, 발키리부의 소니아 씨와 사이는 좋습니까? 소니아 씨에 대해 여러 가지 묻고 싶습니다만….A
 nora_homeUI_twilight_greeting_1저녁은 벌써 드셨나요?�
-nora_homeUI_user_birthday_1�이거보세요.오늘생일이었죠?신세를지고있는분들에게선물을드리는건당연한매너입니다.아무쪼록 사양 말고 받아주세요.e
-nora_skill_01_expl_r1L@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_freezing_dot10@O
-nora_skill_01_lv_up8@damage_magic@#@lv_up_1@
-@freezing_dot@@turn@#@lv_up_10@)
-nora_skill_01_name프로스트 볼트@
-nora_skill_02_expl_r1'@target_enemyone@@skill_damage_magic_1@O
-nora_skill_02_expl_r26@nora_skill_02_expl_r1@
-@target_enemyone@@st_freezing@/
+nora_homeUI_user_birthday_1�이거보세요.오늘생일이었죠?신세를지고있는분들에게선물을드리는건당연한매너입니다.아무쪼록 사양 말고 받아주세요.c
+nora_skill_01_expl_r1J@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_freezing_dot10@N
+nora_skill_01_lv_up7@damage_magic@#@lv_up_1@
+@freezing_dot@turn@#@lv_up_10@)
+nora_skill_01_name프로스트 볼트?
+nora_skill_02_expl_r1&@target_enemyone@skill_damage_magic_1@N
+nora_skill_02_expl_r25@nora_skill_02_expl_r1@
+@target_enemyone@st_freezing@/
 nora_skill_02_lv_up@damage_magic@#@lv_up_1@/
-nora_skill_02_name프로스트 그레이셔c
-nora_skill_03_expl_r0J@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_block_awaken@/
+nora_skill_02_name프로스트 그레이셔a
+nora_skill_03_expl_r0H@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_block_awaken@/
 nora_skill_03_lv_up@damage_magic@#@lv_up_2@,
 nora_skill_03_name프로즌 저지먼트s
 nora_skill_04_expl]액티브 스킬 사용 시 공격 대상 1명 늘어날 때마다 여대미지가 10% 상승#
@@ -15528,21 +15528,21 @@ $puppet_passive_shield_devine_01_name$넘어지지 않는 끝의 지팡이�
 pvp_weather_select_name날씨 효과 선택d
 pvp_weather_select_tipsI방위배틀에서는 날씨 및 시간대를 설정할 수 있습니다.C
 pvp_week_mail_content*투기장 위클리 보수: {0}의 {1}위.'
-pvp_week_mail_title위클리 보수B
-qoo_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@Q
-qoo_skill_01_expl_r29@qoo_skill_01_expl_r1@
-@target_enemyone@@st_poison_dot10@R
-qoo_skill_01_lv_up<@damage_physical@#@lv_up_1@
-@poison_dot@@turn@# - /@10@/@10@%
-qoo_skill_01_name캣 스크래치/
-qoo_skill_02_expl_r1@target_self@@st_sneak@P
-qoo_skill_02_expl_r28@qoo_skill_02_expl_r1@
-@target_self@@st_damage_addition@3
+pvp_week_mail_title위클리 보수A
+qoo_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@P
+qoo_skill_01_expl_r28@qoo_skill_01_expl_r1@
+@target_enemyone@st_poison_dot10@Q
+qoo_skill_01_lv_up;@damage_physical@#@lv_up_1@
+@poison_dot@turn@# - /@10@/@10@%
+qoo_skill_01_name캣 스크래치.
+qoo_skill_02_expl_r1@target_self@st_sneak@O
+qoo_skill_02_expl_r27@qoo_skill_02_expl_r1@
+@target_self@st_damage_addition@3
 qoo_skill_02_lv_up@damage_addition@# - /@6@/@6@%
-qoo_skill_02_name런킷 커버링�
-qoo_skill_03_expl_r0k@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_wound_dot@
-@target_enemyone@@st_block_buff@1
+qoo_skill_02_name런킷 커버링�
+qoo_skill_03_expl_r0h@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_wound_dot@
+@target_enemyone@st_block_buff@1
 qoo_skill_03_lv_up@damage_physical@#@lv_up_2@"
 qoo_skill_03_name사냥 본능E
 qoo_skill_04_expl0피격 시, 다음 공격의 피해 10％ 증가!
@@ -16552,20 +16552,20 @@ rank_level	숙련도%
 ringo_homeUI_secret_1a키는 조금만 언니인 모모가 더 큰데 사과가 어른스럽다고 생각하지 않아?W
 ringo_homeUI_secret_2>어? 모모 어디 갔을까? 완전 신세지는 언니네...i
  ringo_homeUI_twilight_greeting_1E와, 벌써 저녁! 즐거우면 하루가 순식간에 지나가네!�
-ringo_homeUI_user_birthday_1o생일축하해! 오빠 선물 대신 사과 좋아하는 명소 투어 해줄게.어때? 재밌을 것 같지?o
-ringo_skill_01_expl_r1U@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery_value@3
+ringo_homeUI_user_birthday_1o생일축하해! 오빠 선물 대신 사과 좋아하는 명소 투어 해줄게.어때? 재밌을 것 같지?m
+ringo_skill_01_expl_r1S@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery_value@3
 ringo_skill_01_lv_up@damage_physical@#@lv_up_1@$
-ringo_skill_01_name야옹 펀치f
-ringo_skill_02_expl_r1L@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot10@P
-ringo_skill_02_lv_up8@damage_physical@#@lv_up_1@
-@wound_dot@@turn@#@lv_up_10@
-ringo_skill_02_name토랴~�
-ringo_skill_03_expl_r0�@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_block_buff@
-@target_enemyone@@st_block_recovery@
-@target_enemyone@@st_burn_dot@3
+ringo_skill_01_name야옹 펀치d
+ringo_skill_02_expl_r1J@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot10@O
+ringo_skill_02_lv_up7@damage_physical@#@lv_up_1@
+@wound_dot@turn@#@lv_up_10@
+ringo_skill_02_name토랴~�
+ringo_skill_03_expl_r0�@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_block_buff@
+@target_enemyone@st_block_recovery@
+@target_enemyone@st_burn_dot@3
 ringo_skill_03_lv_up@damage_physical@#@lv_up_2@*
 ringo_skill_03_name데굴데굴 할퀴�
 ringo_skill_04_expln참전 중인 아군의 메이든이 적을 수록 링고의 공격력 및 치명 배율 증가 (최대 20％).
@@ -16713,17 +16713,17 @@ robot_name투기장의 문지기3
 sandrea_homeUI_secret_1J율리아 씨도 함께 하시네요....그녀를 잘 보살펴 주세요.�
 sandrea_homeUI_secret_2�우르슬라는 제자가 되는 아이랍니다.그녀가 나를 어떻게 생각하는지는... 음, 그녀에게 물어보면 알거라고 생각해요.z
 "sandrea_homeUI_twilight_greeting_1T어머, 해가 저물었네요~나이가 들면 하루가 빨라서 안되겠네요.�
-sandrea_homeUI_user_birthday_1w생일 축하해요。이 약을 드세요! 네? 수상한 물건? 싫어요~ 그런 건 들어있지 않아요.너무.C
-sandrea_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@2
+sandrea_homeUI_user_birthday_1w생일 축하해요。이 약을 드세요! 네? 수상한 물건? 싫어요~ 그런 건 들어있지 않아요.너무.B
+sandrea_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@2
 sandrea_skill_01_lv_up@damage_magic@#@lv_up_1@&
-sandrea_skill_01_name실험 시간C
-sandrea_skill_02_expl_r1'@target_enemyall@@skill_damage_magic_1@W
-sandrea_skill_02_expl_r2;@sandrea_skill_02_expl_r1@
-@target_enemyall@@st_burn_dot10@Q
-sandrea_skill_02_lv_up7@damage_magic@#@lv_up_1@
-@burn_dot@@turn@# - /@10@/@10@.
-sandrea_skill_02_name파이어플라스크8
-sandrea_skill_03_expl_r0@target_allyall@@st_berserk@'
+sandrea_skill_01_name실험 시간B
+sandrea_skill_02_expl_r1&@target_enemyall@skill_damage_magic_1@V
+sandrea_skill_02_expl_r2:@sandrea_skill_02_expl_r1@
+@target_enemyall@st_burn_dot10@P
+sandrea_skill_02_lv_up6@damage_magic@#@lv_up_1@
+@burn_dot@turn@# - /@10@/@10@.
+sandrea_skill_02_name파이어플라스크7
+sandrea_skill_03_expl_r0@target_allyall@st_berserk@'
 sandrea_skill_03_lv_up@berserk@#@6@,
 sandrea_skill_03_name새로운 레시피e
 sandrea_skill_04_explL산드레아가 화상에 걸린 적을 공격할 경우 20％ 추가 피해,
@@ -16804,9 +16804,9 @@ robot_name투기장의 문지기3
 section_release_7$클라리체의 유학일기 7일째
 select_contents_1	콘텐츠%
 selketkara_skill_01_name	반월참)
-selketkara_skill_02_name영혼 사냥l
-selketkara_skill_03_expl_r0M@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_skill_rank_down@)
+selketkara_skill_02_name영혼 사냥j
+selketkara_skill_03_expl_r0K@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_skill_rank_down@)
 selketkara_skill_03_name헬의 광연�
 selketkara_skill_04_explh액티브 스킬 사용 시 공격 대상에 부여된 약체 효과 하나당 여대미지가 6% 상승,
 selketkara_skill_04_name인도하는 자9
@@ -16845,18 +16845,18 @@ robot_name투기장의 문지기3
 selma_training_resonance_55완벽해요! 이만큼 강해지면 충분하겠죠!U
 selma_training_resonance_5_15완벽해요!
 이만큼 강해지면 충분하겠죠!k
-server_maintenanceU현재 유지 보수 중입니다.자세한 내용은 공지사항을 확인하세요C
-seti_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@2
+server_maintenanceU현재 유지 보수 중입니다.자세한 내용은 공지사항을 확인하세요B
+seti_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@2
 seti_skill_01_lv_up@damage_physical@#@lv_up_1@*
-seti_skill_01_name두리 전투 지원;
-seti_skill_02_expl_r1"@target_allyone@@skill_recovery_1@S
-seti_skill_02_expl_r2:@seti_skill_02_expl_r1@
-@target_allyone@@st_skill_rank_up@J
+seti_skill_01_name두리 전투 지원:
+seti_skill_02_expl_r1!@target_allyone@skill_recovery_1@R
+seti_skill_02_expl_r29@seti_skill_02_expl_r1@
+@target_allyone@st_skill_rank_up@J
 seti_skill_02_lv_up3@recovery_hp@#@lv_up_1@
 @skill_rank_up@# - /@4@/@4@(
-seti_skill_02_nameゥゥ의료지원c
-seti_skill_03_expl_r0J@target_enemyall@@skill_damage_magic_0@
-@target_enemyall@@st_block_attack@/
+seti_skill_02_nameゥゥ의료지원a
+seti_skill_03_expl_r0H@target_enemyall@skill_damage_magic_0@
+@target_enemyall@st_block_attack@/
 seti_skill_03_lv_up@damage_magic@#@lv_up_2@*
 seti_skill_03_name나노 로봇 폭탄#
 seti_skill_04_expl작업 ㄴㄴ#
@@ -16891,52 +16891,52 @@ robot_name투기장의 문지기3
 share_success_line/LINE에 대한 점유율에 성공했습니다!
 shield_damage실드
 shield_devine무적#
-shield_devine_once강철의 몸K
-shiningagnes_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@:
+shield_devine_once강철의 몸J
+shiningagnes_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@:
 shiningagnes_skill_01_lv_up@damage_physical@#@lv_up_1@'
-shiningagnes_skill_01_name	폭렬참:
-shiningagnes_skill_02_expl_r1@target_self@@st_berserk@2
+shiningagnes_skill_01_name	폭렬참9
+shiningagnes_skill_02_expl_r1@target_self@st_berserk@2
 shiningagnes_skill_02_lv_up@berserk@#@lv_up_6@/
-shiningagnes_skill_02_name레이디 투 킬f
-shiningagnes_skill_03_expl_r0E@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_stun@:
+shiningagnes_skill_02_name레이디 투 킬d
+shiningagnes_skill_03_expl_r0C@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_stun@:
 shiningagnes_skill_03_lv_up@damage_physical@#@lv_up_2@.
 shiningagnes_skill_03_name기로틴 액스\
 shiningagnes_skill_04_expl>적을 쓰러뜨리면 그 에테르 에너지를 빼앗는다.
 shiningagnes_skill_04_name승자의 증거I
 shiningagnes_skill_05_expl+효과 대상 : 투기장, 멀티 투기장.
-shiningagnes_skill_05_name귀족의 기호J
-shiningapis_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@9
+shiningagnes_skill_05_name귀족의 기호I
+shiningapis_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@9
 shiningapis_skill_01_lv_up@damage_physical@#@lv_up_1@&
-shiningapis_skill_01_name	채찍질G
-shiningapis_skill_02_expl_r1'@target_enemyone@@st_mix_stat_def_down@Y
-shiningapis_skill_02_expl_r29@shiningapis_skill_02_expl_r1@
-@target_enemyone@@st_stun@;
+shiningapis_skill_01_name	채찍질F
+shiningapis_skill_02_expl_r1&@target_enemyone@st_mix_stat_def_down@X
+shiningapis_skill_02_expl_r28@shiningapis_skill_02_expl_r1@
+@target_enemyone@st_stun@;
 shiningapis_skill_02_lv_up@mix_stat_def_down@#@lv_up_5@2
-shiningapis_skill_02_name패시네이트키스i
-shiningapis_skill_03_expl_r0I@target_allyall@@skill_recovery_0@
-@target_allyall@@st_mix_stat_def_up10@h
-shiningapis_skill_03_lv_upJ@recovery_hp@#@lv_up_2@
+shiningapis_skill_02_name패시네이트키스g
+shiningapis_skill_03_expl_r0G@target_allyall@skill_recovery_0@
+@target_allyall@st_mix_stat_def_up10@g
+shiningapis_skill_03_lv_upI@recovery_hp@#@lv_up_2@
 @mix_stat_def_up@#@5@
-@mix_stat_def_up@@turn@#@10@*
+@mix_stat_def_up@turn@#@10@*
 shiningapis_skill_03_name원초 회귀f
 shiningapis_skill_04_explI액티브 스킬 사용 시 적의 강화 효과 랜덤으로 2개 해제-
 shiningapis_skill_04_name미녀의 변덕:
 shiningapis_skill_05_expl효과 대상 : 아군 전체-
-shiningapis_skill_05_name아름다운 자I
-shiningashiri_skill_01_expl_r1'@target_enemyall@@skill_damage_magic_1@B
+shiningapis_skill_05_name아름다운 자H
+shiningashiri_skill_01_expl_r1&@target_enemyall@skill_damage_magic_1@B
 shiningashiri_skill_01_expl_r2 @shiningashiri_skill_01_expl_r1@B
 shiningashiri_skill_01_expl_r3 @shiningashiri_skill_01_expl_r1@8
 shiningashiri_skill_01_lv_up@damage_magic@#@lv_up_1@%
-shiningashiri_skill_01_name미정I
-shiningashiri_skill_02_expl_r1'@target_enemyone@@skill_damage_magic_1@a
-shiningashiri_skill_02_expl_r2?@shiningashiri_skill_02_expl_r1@
-@target_enemyone@@st_freezing@B
+shiningashiri_skill_01_name미정H
+shiningashiri_skill_02_expl_r1&@target_enemyone@skill_damage_magic_1@`
+shiningashiri_skill_02_expl_r2>@shiningashiri_skill_02_expl_r1@
+@target_enemyone@st_freezing@B
 shiningashiri_skill_02_expl_r3 @shiningashiri_skill_02_expl_r2@8
 shiningashiri_skill_02_lv_up@damage_magic@#@lv_up_1@%
-shiningashiri_skill_02_name미정i
-shiningashiri_skill_03_expl_r0G@target_allyall@@st_mix_stat_cri_up@
-@target_allyall@@st_skill_rank_up@U
+shiningashiri_skill_02_name미정g
+shiningashiri_skill_03_expl_r0E@target_allyall@st_mix_stat_cri_up@
+@target_allyall@st_skill_rank_up@U
 shiningashiri_skill_03_lv_up5@mix_stat_cri_up@#@lv_up_5@
 @skill_rank_up@#@lv_up_4@%
 shiningashiri_skill_03_name미정,
@@ -16967,73 +16967,73 @@ robot_name투기장의 문지기3
 shiningbanana_skill_04_expl미정%
 shiningbanana_skill_04_name미정%
 shiningbanana_skill_05_expl미정%
-shiningbanana_skill_05_name미정N
- shiningcatarina_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@p
- shiningcatarina_skill_01_expl_r2L@shiningcatarina_skill_01_expl_r1@
-@target_enemyone@@st_mix_stat_atk_down10@�
-shiningcatarina_skill_01_lv_upc@damage_physical@#@lv_up_1@
+shiningbanana_skill_05_name미정M
+ shiningcatarina_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@o
+ shiningcatarina_skill_01_expl_r2K@shiningcatarina_skill_01_expl_r1@
+@target_enemyone@st_mix_stat_atk_down10@�
+shiningcatarina_skill_01_lv_upb@damage_physical@#@lv_up_1@
 @mix_stat_atk_down@# - /@5@/@5@
-@mix_stat_atk_down@@turn@# - /@10@/@10@'
-shiningcatarina_skill_01_name미정F
- shiningcatarina_skill_02_expl_r2"@target_allyall@@st_shield_damage@;
+@mix_stat_atk_down@turn@# - /@10@/@10@'
+shiningcatarina_skill_01_name미정E
+ shiningcatarina_skill_02_expl_r2!@target_allyall@st_shield_damage@;
 shiningcatarina_skill_02_lv_up@shield_damage@#@lv_up_1@'
-shiningcatarina_skill_02_name미정�
- shiningcatarina_skill_03_expl_r0u@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_clear_buff@
-@target_enemyall@@st_mix_stat_atk_down10@t
-shiningcatarina_skill_03_lv_upR@damage_physical@#@lv_up_2@
+shiningcatarina_skill_02_name미정�
+ shiningcatarina_skill_03_expl_r0r@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_clear_buff@
+@target_enemyall@st_mix_stat_atk_down10@s
+shiningcatarina_skill_03_lv_upQ@damage_physical@#@lv_up_2@
 @mix_stat_atk_down@#@5@
-@mix_stat_atk_down@@turn@#@10@'
+@mix_stat_atk_down@turn@#@10@'
 shiningcatarina_skill_03_name미정.
 shiningcatarina_skill_04_expl작업 ㄴㄴ.
 shiningcatarina_skill_04_name작업 ㄴㄴ.
 shiningcatarina_skill_05_expl작업 ㄴㄴ.
-shiningcatarina_skill_05_name작업 ㄴㄴK
-shiningerica_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@:
+shiningcatarina_skill_05_name작업 ㄴㄴJ
+shiningerica_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@:
 shiningerica_skill_01_lv_up@damage_physical@#@lv_up_1@$
-shiningerica_skill_01_name참격C
-shiningerica_skill_02_expl_r2"@target_allyall@@st_skill_rank_up@U
-shiningerica_skill_02_lv_up6@attack_up@# - / - /@5@
-@attack_up@@turn@# - / - /@10@.
-shiningerica_skill_02_name글리터 소드r
-shiningerica_skill_03_expl_r0Q@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_awaken_gage_down@:
+shiningerica_skill_01_name참격B
+shiningerica_skill_02_expl_r2!@target_allyall@st_skill_rank_up@T
+shiningerica_skill_02_lv_up5@attack_up@# - / - /@5@
+@attack_up@turn@# - / - /@10@.
+shiningerica_skill_02_name글리터 소드p
+shiningerica_skill_03_expl_r0O@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_awaken_gage_down@:
 shiningerica_skill_03_lv_up@damage_physical@#@lv_up_2@4
 shiningerica_skill_03_name샤이닝 블레이드�
 shiningerica_skill_04_expli아군이 스킬 1을 발동할 때 25% 확률로 동일한 대상에 스킬 1(카드 레벨 1)을 발동.
 shiningerica_skill_04_name나에게 맡겨G
 shiningerica_skill_05_expl)효과 대상: 자연 속성의 이능자3
-shiningerica_skill_05_name부부장이라니까I
-shiningfatima_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@c
-shiningfatima_skill_01_expl_r2A@shiningfatima_skill_01_expl_r1@
-@target_enemyone@@st_clear_buff@8
+shiningerica_skill_05_name부부장이라니까H
+shiningfatima_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@b
+shiningfatima_skill_01_expl_r2@@shiningfatima_skill_01_expl_r1@
+@target_enemyone@st_clear_buff@8
 shiningfatima_skill_01_lv_up@damage_magic@#@lv_up_1@5
-shiningfatima_skill_01_name자벨린 드라이브I
-shiningfatima_skill_02_expl_r1'@target_enemyall@@skill_damage_magic_1@8
+shiningfatima_skill_01_name자벨린 드라이브H
+shiningfatima_skill_02_expl_r1&@target_enemyall@skill_damage_magic_1@8
 shiningfatima_skill_02_lv_up@damage_magic@#@lv_up_1@9
-shiningfatima_skill_02_name스피어 오브 라이트o
-shiningfatima_skill_03_expl_r0M@target_enemyone@@skill_damage_magic_0@\@target_enemyone@@st_skill_rank_down@8
+shiningfatima_skill_02_name스피어 오브 라이트m
+shiningfatima_skill_03_expl_r0K@target_enemyone@skill_damage_magic_0@\@target_enemyone@st_skill_rank_down@8
 shiningfatima_skill_03_lv_up@damage_magic@#@lv_up_2@4
 shiningfatima_skill_03_name더블데몬스피어,
 shiningfatima_skill_04_expl작업 ㄴㄴ,
 shiningfatima_skill_04_name작업 ㄴㄴ,
 shiningfatima_skill_05_expl작업 ㄴㄴ,
-shiningfatima_skill_05_name작업 ㄴㄴK
-shiningheidi_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@j
-shiningheidi_skill_01_expl_r2I@shiningheidi_skill_01_expl_r1@
-@target_enemyall@@st_mix_stat_def_down10@�
-shiningheidi_skill_01_lv_upc@damage_physical@#@lv_up_1@
+shiningfatima_skill_05_name작업 ㄴㄴJ
+shiningheidi_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@i
+shiningheidi_skill_01_expl_r2H@shiningheidi_skill_01_expl_r1@
+@target_enemyall@st_mix_stat_def_down10@�
+shiningheidi_skill_01_lv_upb@damage_physical@#@lv_up_1@
 @mix_stat_def_down@# - /@5@/@5@
-@mix_stat_def_down@@turn@# - /@10@/@10@'
-shiningheidi_skill_01_name	거날참K
-shiningheidi_skill_02_expl_r1*@target_enemyall@@skill_damage_physical_1@c
-shiningheidi_skill_02_expl_r2B@shiningheidi_skill_02_expl_r1@
-@target_enemyall@@st_block_debuff@:
+@mix_stat_def_down@turn@# - /@10@/@10@'
+shiningheidi_skill_01_name	거날참J
+shiningheidi_skill_02_expl_r1)@target_enemyall@skill_damage_physical_1@b
+shiningheidi_skill_02_expl_r2A@shiningheidi_skill_02_expl_r1@
+@target_enemyall@st_block_debuff@:
 shiningheidi_skill_02_lv_up@damage_physical@#@lv_up_1@+
-shiningheidi_skill_02_name중검 무봉�
-shiningheidi_skill_03_expl_r0q@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_clear_buff@
-@target_enemyone@@st_skill_rank_down@:
+shiningheidi_skill_02_name중검 무봉�
+shiningheidi_skill_03_expl_r0n@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_clear_buff@
+@target_enemyone@st_skill_rank_down@:
 shiningheidi_skill_03_lv_up@damage_physical@#@lv_up_2@'
 shiningheidi_skill_03_name	무검식�
 shiningheidi_skill_04_expl�전투 불능자가 생길 때마다 자신에게 바서커 상태 부여: 자신의 여대미지가 60% 상승하는 반면 피해도 30% 상승(2턴)(
@@ -17048,9 +17048,9 @@ robot_name투기장의 문지기3
 shininghoora_skill_02_lv_up4@mix_stat_cri_up@#@lv_up_5@
 @suck_blood@# - / - /@6@.
 shininghoora_skill_02_name아신의 비호
-shininghoora_skill_03_expl_r0Q
-shininghoora_skill_03_lv_up2@recovery_hp_helth@#@12@
-@recovery_dot@@turn@#@10@+
+shininghoora_skill_03_expl_r0P
+shininghoora_skill_03_lv_up1@recovery_hp_helth@#@12@
+@recovery_dot@turn@#@10@+
 shininghoora_skill_03_name전지 비명j
 shininghoora_skill_04_explL액티브 스킬 사용 시 랜덤 아군의 에테르 에너지 1개 증가*
 shininghoora_skill_04_name법치주의;
@@ -17066,70 +17066,70 @@ robot_name투기장의 문지기3
 shiningisabel_skill_04_expl미정%
 shiningisabel_skill_04_name미정%
 shiningisabel_skill_05_expl미정%
-shiningisabel_skill_05_name미정K
-shiningkaren_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@:
+shiningisabel_skill_05_name미정J
+shiningkaren_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@:
 shiningkaren_skill_01_lv_up@damage_physical@#@lv_up_1@$
-shiningkaren_skill_01_name강타`
-shiningkaren_skill_02_expl_r1?@target_self@@st_provocation@
-@target_self@@st_mix_stat_def_up@:
+shiningkaren_skill_01_name강타^
+shiningkaren_skill_02_expl_r1=@target_self@st_provocation@
+@target_self@st_mix_stat_def_up@:
 shiningkaren_skill_02_lv_up@mix_stat_def_up@#@lv_up_5@'
-shiningkaren_skill_02_name	타운트c
-shiningkaren_skill_03_expl_r0B@target_allyall@@st_clear_debuff@
-@target_allyall@@st_damage_down@0
+shiningkaren_skill_02_name	타운트a
+shiningkaren_skill_03_expl_r0@@target_allyall@st_clear_debuff@
+@target_allyall@st_damage_down@0
 shiningkaren_skill_03_lv_up@damage_down@#@6@+
 shiningkaren_skill_03_name스톰 실드T
 shiningkaren_skill_04_expl6자신의 HP 1% 떨어질 때마다 피해 0.5% 감소.
 shiningkaren_skill_04_name벽역의 긍지G
 shiningkaren_skill_05_expl)효과 대상: 자연 속성의 이능자+
-shiningkaren_skill_05_name리틀 탱크I
-shiningmikoto_skill_01_expl_r1'@target_enemyall@@skill_damage_magic_1@8
+shiningkaren_skill_05_name리틀 탱크H
+shiningmikoto_skill_01_expl_r1&@target_enemyall@skill_damage_magic_1@8
 shiningmikoto_skill_01_lv_up@damage_magic@#@lv_up_1@,
-shiningmikoto_skill_01_name정화의 물D
-shiningmikoto_skill_02_expl_r2"@target_allyall@@skill_recovery_1@7
+shiningmikoto_skill_01_name정화의 물C
+shiningmikoto_skill_02_expl_r2!@target_allyall@skill_recovery_1@7
 shiningmikoto_skill_02_lv_up@recovery_hp@#@lv_up_1@/
-shiningmikoto_skill_02_name치유의 숨결k
-shiningmikoto_skill_03_expl_r0I@target_allyall@@skill_recovery_0@
-@target_allyall@@st_mix_stat_atk_up10@j
-shiningmikoto_skill_03_lv_upJ@recovery_hp@#@lv_up_2@
+shiningmikoto_skill_02_name치유의 숨결i
+shiningmikoto_skill_03_expl_r0G@target_allyall@skill_recovery_0@
+@target_allyall@st_mix_stat_atk_up10@i
+shiningmikoto_skill_03_lv_upI@recovery_hp@#@lv_up_2@
 @mix_stat_atk_up@#@5@
-@mix_stat_atk_up@@turn@#@10@=
+@mix_stat_atk_up@turn@#@10@=
 shiningmikoto_skill_03_name기꺼이 노천에 임하다.�
 shiningmikoto_skill_04_expl�전투 개시 시 자신에게 약체 무효 상태 부여.턴 시작 시 HP가 가장 낮은 아군에게 자신의 공격력의 100%에 해당하는 HP 회복2
 shiningmikoto_skill_04_name도사의 가르침<
 shiningmikoto_skill_05_expl효과 대상 : 아군 전체1
-shiningmikoto_skill_05_name모리노아키코J
-shiningmitsuki_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@9
+shiningmikoto_skill_05_name모리노아키코I
+shiningmitsuki_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@9
 shiningmitsuki_skill_01_lv_up@damage_magic@#@lv_up_1@8
-shiningmitsuki_skill_01_name마귀를 막는 지폐.:
-shiningmitsuki_skill_02_expl_r1@target_self@@st_sneak@f
-shiningmitsuki_skill_02_expl_r2C@shiningmitsuki_skill_02_expl_r1@
-@target_self@@st_mix_stat_cri_up@>
+shiningmitsuki_skill_01_name마귀를 막는 지폐.9
+shiningmitsuki_skill_02_expl_r1@target_self@st_sneak@e
+shiningmitsuki_skill_02_expl_r2B@shiningmitsuki_skill_02_expl_r1@
+@target_self@st_mix_stat_cri_up@>
 shiningmitsuki_skill_02_lv_up@mix_stat_cri_up@# - /@5@/@5@)
-shiningmitsuki_skill_02_name	삼연궁a
-shiningmitsuki_skill_03_expl_r0>@target_enemyone@@skill_damage_magic_0@@st_atk_critical_value@9
+shiningmitsuki_skill_02_name	삼연궁_
+shiningmitsuki_skill_03_expl_r0<@target_enemyone@skill_damage_magic_0@st_atk_critical_value@9
 shiningmitsuki_skill_03_lv_up@damage_magic@#@lv_up_2@0
 shiningmitsuki_skill_03_name파마의 화살o
 shiningmitsuki_skill_04_explO아군이 공격받았을 때 20% 확률로 스킬 1(카드 레벨 1)로 반격-
 shiningmitsuki_skill_04_name원호 사격=
 shiningmitsuki_skill_05_expl효과 대상 : 아군 전체0
-shiningmitsuki_skill_05_name무당의 가계u
-shiningmomo_skill_01_expl_r1U@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_block_recovery_value@9
+shiningmitsuki_skill_05_name무당의 가계s
+shiningmomo_skill_01_expl_r1S@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_block_recovery_value@9
 shiningmomo_skill_01_lv_up@damage_physical@#@lv_up_1@-
-shiningmomo_skill_01_name정면 찌르기B
-shiningmomo_skill_02_expl_r1"@target_allyall@@skill_recovery_1@b
-shiningmomo_skill_02_expl_r2B@shiningmomo_skill_02_expl_r1@
-@target_allyall@@st_recovery_dot10@X
-shiningmomo_skill_02_lv_up:@recovery_hp@#@lv_up_1@
-@recovery_dot@@turn@# - /@10@/@10@0
-shiningmomo_skill_02_name아프니 달려라�
-shiningmomo_skill_03_expl_r0s@target_allyall@@st_mix_stat_atk_up10@
-@target_allyall@@st_mix_stat_cri_up10_6@
-@target_allyall@@st_awaken_gage_up@�
-shiningmomo_skill_03_lv_up}@mix_stat_atk_up@#@lv_up_5@
-@mix_stat_atk_up@@turn@#@lv_up_10@
+shiningmomo_skill_01_name정면 찌르기A
+shiningmomo_skill_02_expl_r1!@target_allyall@skill_recovery_1@a
+shiningmomo_skill_02_expl_r2A@shiningmomo_skill_02_expl_r1@
+@target_allyall@st_recovery_dot10@W
+shiningmomo_skill_02_lv_up9@recovery_hp@#@lv_up_1@
+@recovery_dot@turn@# - /@10@/@10@0
+shiningmomo_skill_02_name아프니 달려라�
+shiningmomo_skill_03_expl_r0p@target_allyall@st_mix_stat_atk_up10@
+@target_allyall@st_mix_stat_cri_up10_6@
+@target_allyall@st_awaken_gage_up@�
+shiningmomo_skill_03_lv_up{@mix_stat_atk_up@#@lv_up_5@
+@mix_stat_atk_up@turn@#@lv_up_10@
 @mix_stat_cri_up@#@lv_up_6@
-@mix_stat_cri_up@@turn@#@lv_up_10@8
+@mix_stat_cri_up@turn@#@lv_up_10@8
 shiningmomo_skill_03_name모모야, 열심히 하다�
 shiningmomo_skill_04_explr공격을 받을 때마다 28% 확률로 공격자에게 스킬 봉인·에테르 블라스트 상태 부여(2턴)7
 shiningmomo_skill_04_name달마 씨가 넘어졌다Y
@@ -17145,36 +17145,36 @@ robot_name투기장의 문지기3
 shiningmurphy_skill_04_expl미정%
 shiningmurphy_skill_04_name미정%
 shiningmurphy_skill_05_expl미정%
-shiningmurphy_skill_05_name미정r
-shiningnaja_skill_01_expl_r1R@target_enemyone@@skill_damage_magic_1@
-@target_enemyone@@st_defence_magic_down10@{
-shiningnaja_skill_01_lv_up]@damage_magic@#@lv_up_1@
+shiningmurphy_skill_05_name미정p
+shiningnaja_skill_01_expl_r1P@target_enemyone@skill_damage_magic_1@
+@target_enemyone@st_defence_magic_down10@z
+shiningnaja_skill_01_lv_up\@damage_magic@#@lv_up_1@
 @defence_magic_down@#@lv_up_5@
-@defence_magic_down@@turn@#@lv_up_10@*
-shiningnaja_skill_01_name저스트 샷D
-shiningnaja_skill_02_expl_r2$@target_allyall@@st_damage_addition@W
+@defence_magic_down@turn@#@lv_up_10@*
+shiningnaja_skill_01_name저스트 샷C
+shiningnaja_skill_02_expl_r2#@target_allyall@st_damage_addition@W
 shiningnaja_skill_02_lv_up9@damage_addition@#@lv_up_6@
 @mix_stat_atk_up@# - / - /@5@*
-shiningnaja_skill_02_name진심 모드^
-shiningnaja_skill_03_expl_r0>@target_enemyone@@skill_damage_magic_0@@st_atk_critical_value@6
+shiningnaja_skill_02_name진심 모드\
+shiningnaja_skill_03_expl_r0<@target_enemyone@skill_damage_magic_0@st_atk_critical_value@6
 shiningnaja_skill_03_lv_up@damage_magic@#@lv_up_2@5
 shiningnaja_skill_03_name몸을 사리는 왕사.Q
 shiningnaja_skill_04_expl4WAVE 시작 시 에테르 에너지가 가득 차다*
 shiningnaja_skill_04_name기책 종횡:
 shiningnaja_skill_05_expl효과 대상 : 아군 전체-
-shiningnaja_skill_05_name검푸른 자리J
-shiningnatsuha_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@D
+shiningnaja_skill_05_name검푸른 자리I
+shiningnatsuha_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@D
 shiningnatsuha_skill_01_expl_r2!@shiningnatsuha_skill_01_expl_r1@9
 shiningnatsuha_skill_01_lv_up@damage_magic@#@lv_up_1@-
-shiningnatsuha_skill_01_name벚꽃 베기B
-shiningnatsuha_skill_02_expl_r1@target_enemyone@@st_damage_up@6
+shiningnatsuha_skill_01_name벚꽃 베기A
+shiningnatsuha_skill_02_expl_r1@target_enemyone@st_damage_up@6
 shiningnatsuha_skill_02_lv_up@damage_up@#@lv_up_6@-
-shiningnatsuha_skill_02_name검기 해방t
-shiningnatsuha_skill_03_expl_r0Q@target_enemyone@@skill_damage_magic_0@
-@target_enemyone@@st_mix_stat_atk_down10@p
-shiningnatsuha_skill_03_lv_upO@damage_magic@#@lv_up_2@
+shiningnatsuha_skill_02_name검기 해방r
+shiningnatsuha_skill_03_expl_r0O@target_enemyone@skill_damage_magic_0@
+@target_enemyone@st_mix_stat_atk_down10@o
+shiningnatsuha_skill_03_lv_upN@damage_magic@#@lv_up_2@
 @mix_stat_atk_down@#@5@
-@mix_stat_atk_down@@turn@#@10@=
+@mix_stat_atk_down@turn@#@10@=
 shiningnatsuha_skill_03_name舞댄스 花플라워 현란`
 shiningnatsuha_skill_04_expl@액티브 스킬 사용 시 적의 강화 효과를 탈취하는-
 shiningnatsuha_skill_04_name정보 수집I
@@ -17190,31 +17190,31 @@ robot_name투기장의 문지기3
 shiningnoir_skill_04_expl미정#
 shiningnoir_skill_04_name미정#
 shiningnoir_skill_05_expl미정#
-shiningnoir_skill_05_name미정w
-shiningqoo_skill_01_expl_r1X@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_defence_physical_down10@�
-shiningqoo_skill_01_lv_upf@damage_physical@#@lv_up_1@
+shiningnoir_skill_05_name미정u
+shiningqoo_skill_01_expl_r1V@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_defence_physical_down10@�
+shiningqoo_skill_01_lv_upe@damage_physical@#@lv_up_1@
 @defence_physical_down@#@lv_up_5@
-@defence_physical_down@@turn@#@lv_up_10@(
-shiningqoo_skill_01_name키리사쿠I
-shiningqoo_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@8
+@defence_physical_down@turn@#@lv_up_10@(
+shiningqoo_skill_01_name키리사쿠H
+shiningqoo_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@8
 shiningqoo_skill_02_lv_up@damage_physical@#@lv_up_1@(
-shiningqoo_skill_02_name흐트러짐`
-shiningqoo_skill_03_expl_r0A@target_enemyone@@skill_damage_physical_0@@st_atk_critical_value@8
+shiningqoo_skill_02_name흐트러짐^
+shiningqoo_skill_03_expl_r0?@target_enemyone@skill_damage_physical_0@st_atk_critical_value@8
 shiningqoo_skill_03_lv_up@damage_physical@#@lv_up_2@)
 shiningqoo_skill_03_name수면 타격y
 shiningqoo_skill_04_expl]스킬에서 적에게 피해를 입히면 40% 확률로 적을 잠 상태로 만든다(2턴)(
 shiningqoo_skill_04_name새근새근E
 shiningqoo_skill_05_expl)효과 대상: 자연 속성의 이능자)
-shiningqoo_skill_05_name낮잠 시간H
-shiningringo_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@7
+shiningqoo_skill_05_name낮잠 시간G
+shiningringo_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@7
 shiningringo_skill_01_lv_up@damage_magic@#@lv_up_1@$
-shiningringo_skill_01_name긁다G
-shiningringo_skill_02_expl_r1&@target_allyall@@st_mix_stat_cri_up10@]
-shiningringo_skill_02_lv_up>@mix_stat_cri_up@#@lv_up_5@
-@mix_stat_cri_up@@turn@#@lv_up_10@.
-shiningringo_skill_02_name사냥감 미끼_
-shiningringo_skill_03_expl_r0>@target_enemyall@@skill_damage_magic_0@@st_atk_critical_value@7
+shiningringo_skill_01_name긁다F
+shiningringo_skill_02_expl_r1%@target_allyall@st_mix_stat_cri_up10@\
+shiningringo_skill_02_lv_up=@mix_stat_cri_up@#@lv_up_5@
+@mix_stat_cri_up@turn@#@lv_up_10@.
+shiningringo_skill_02_name사냥감 미끼]
+shiningringo_skill_03_expl_r0<@target_enemyall@skill_damage_magic_0@st_atk_critical_value@7
 shiningringo_skill_03_lv_up@damage_magic@#@lv_up_2@.
 shiningringo_skill_03_name사과 차례야Q
 shiningringo_skill_04_expl3자신의 HP 1% 하락 시마다 피해 0.4% 상승-
@@ -17222,85 +17222,85 @@ robot_name투기장의 문지기3
 shiningringo_skill_05_expl"효과 대상: 중열의 이능자1
 shiningringo_skill_05_name모모를 위해서9
 shiningsandrea_skill_01_lv_up@damage_magic@#@lv_up_1@0
-shiningsandrea_skill_01_name엔션트 매직_
-shiningsandrea_skill_02_lv_up>@mix_stat_def_up@#@lv_up_5@
-@mix_stat_def_up@@turn@#@lv_up_10@0
-shiningsandrea_skill_02_name포이즌 포션R
-shiningsandrea_skill_03_expl_r0/@awaken_skill_damage_magic_all@@cd_atk_cri_100@9
+shiningsandrea_skill_01_name엔션트 매직^
+shiningsandrea_skill_02_lv_up=@mix_stat_def_up@#@lv_up_5@
+@mix_stat_def_up@turn@#@lv_up_10@0
+shiningsandrea_skill_02_name포이즌 포션Q
+shiningsandrea_skill_03_expl_r0.@awaken_skill_damage_magic_all@cd_atk_cri_100@9
 shiningsandrea_skill_03_lv_up@damage_magic@#@lv_up_2@0
 shiningsandrea_skill_03_name슬라임 폭탄x
 shiningsandrea_skill_04_explX동일 스킬에 의한 계속 데미지 효과는 동시에 복수 발동할 수 있다-
 shiningsandrea_skill_04_name금기 실험=
 shiningsandrea_skill_05_expl효과 대상 : 아군 전체*
 shiningsandrea_skill_05_name
-옛 마녀J
-shiningseti_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@_
-shiningseti_skill_01_expl_r2?@shiningseti_skill_01_expl_r1@
-@target_self@@st_awaken_gage_up@V
+옛 마녀I
+shiningseti_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@^
+shiningseti_skill_01_expl_r2>@shiningseti_skill_01_expl_r1@
+@target_self@st_awaken_gage_up@V
 shiningseti_skill_01_lv_up8@damage_physical@#@lv_up_1@
 @awaken_gage_up@# - /@4@/@4@#
-shiningseti_skill_01_name미정G
-shiningseti_skill_02_expl_r1'@target_enemyone@@skill_damage_magic_1@a
-shiningseti_skill_02_expl_r2A@shiningseti_skill_02_expl_r1@
-@target_enemyone@@st_block_awaken@6
+shiningseti_skill_01_name미정F
+shiningseti_skill_02_expl_r1&@target_enemyone@skill_damage_magic_1@`
+shiningseti_skill_02_expl_r2@@shiningseti_skill_02_expl_r1@
+@target_enemyone@st_block_awaken@6
 shiningseti_skill_02_lv_up@damage_magic@#@lv_up_1@#
-shiningseti_skill_02_name미정a
-shiningseti_skill_03_expl_r0A@target_enemyall@@skill_damage_physical_0@@st_atk_critical_value@9
+shiningseti_skill_02_name미정_
+shiningseti_skill_03_expl_r0?@target_enemyall@skill_damage_physical_0@st_atk_critical_value@9
 shiningseti_skill_03_lv_up@damage_physical@#@lv_up_2@#
 shiningseti_skill_03_name미정*
 shiningseti_skill_04_expl작업 ㄴㄴ*
 shiningseti_skill_04_name작업 ㄴㄴ*
 shiningseti_skill_05_expl작업 ㄴㄴ*
-shiningseti_skill_05_name작업 ㄴㄴK
-shiningsonia_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@:
+shiningseti_skill_05_name작업 ㄴㄴJ
+shiningsonia_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@:
 shiningsonia_skill_01_lv_up@damage_physical@#@lv_up_1@$
-shiningsonia_skill_01_name연사k
-shiningsonia_skill_02_expl_r1J@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_damage_up@P
+shiningsonia_skill_01_name연사i
+shiningsonia_skill_02_expl_r1H@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_damage_up@P
 shiningsonia_skill_02_lv_up1@damage_physical@#@lv_up_1@
 @damage_up@#@lv_up_6@*
-shiningsonia_skill_02_name에너지샷�
-shiningsonia_skill_03_expl_r0~@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_mix_stat_atk_down10@
-@target_enemyall@@st_mix_stat_def_down10@�
-shiningsonia_skill_03_lv_up�@damage_physical@#@lv_up_2@
+shiningsonia_skill_02_name에너지샷�
+shiningsonia_skill_03_expl_r0{@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_mix_stat_atk_down10@
+@target_enemyall@st_mix_stat_def_down10@�
+shiningsonia_skill_03_lv_up�@damage_physical@#@lv_up_2@
 @mix_stat_atk_down@#@5@
-@mix_stat_atk_down@@turn@#@10@
+@mix_stat_atk_down@turn@#@10@
 @mix_stat_def_down@#@5@
-@mix_stat_def_down@@turn@#@10@'
+@mix_stat_def_down@turn@#@10@'
 shiningsonia_skill_03_name	오버샷i
 shiningsonia_skill_04_explK공격 대상의 나머지 HP 1%에 대해, 여대미지가 0.25%씩 상승1
 shiningsonia_skill_04_name자이언트 킬러G
 shiningsonia_skill_05_expl)효과 대상: 공학 속성의 이능자4
-shiningsonia_skill_05_name만년 2위 아니야!L
-shiningyullia_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@;
+shiningsonia_skill_05_name만년 2위 아니야!K
+shiningyullia_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@;
 shiningyullia_skill_01_lv_up@damage_physical@#@lv_up_1@%
-shiningyullia_skill_01_name일행F
-shiningyullia_skill_02_expl_r1$@target_allyall@@st_mix_stat_atk_up@Y
+shiningyullia_skill_01_name일행E
+shiningyullia_skill_02_expl_r1#@target_allyall@st_mix_stat_atk_up@Y
 shiningyullia_skill_02_lv_up9@mix_stat_atk_up@#@lv_up_5@
 @damage_addition@# - / - /@6@%
-shiningyullia_skill_02_name승려�
-shiningyullia_skill_03_expl_r0u@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_clear_buff@
-@target_enemyall@@st_mix_stat_def_down10@r
-shiningyullia_skill_03_lv_upR@damage_physical@#@lv_up_2@
+shiningyullia_skill_02_name승려�
+shiningyullia_skill_03_expl_r0r@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_clear_buff@
+@target_enemyall@st_mix_stat_def_down10@q
+shiningyullia_skill_03_lv_upQ@damage_physical@#@lv_up_2@
 @mix_stat_def_down@#@5@
-@mix_stat_def_down@@turn@#@10@(
+@mix_stat_def_down@turn@#@10@(
 shiningyullia_skill_03_name	홍련검Z
 shiningyullia_skill_04_expl;액티브 스킬 사용 시 에테르 에너지 1개 추가6
 shiningyullia_skill_04_name폴 보스크의 의지<
 shiningyullia_skill_05_expl효과 대상 : 아군 전체,
-shiningyullia_skill_05_name순혈 영주H
-shiningyuune_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@a
-shiningyuune_skill_01_expl_r2@@shiningyuune_skill_01_expl_r1@
-@target_enemyone@@st_clear_buff@7
+shiningyullia_skill_05_name순혈 영주G
+shiningyuune_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@`
+shiningyuune_skill_01_expl_r2?@shiningyuune_skill_01_expl_r1@
+@target_enemyone@st_clear_buff@7
 shiningyuune_skill_01_lv_up@damage_magic@#@lv_up_1@*
-shiningyuune_skill_01_name라이트닝G
-shiningyuune_skill_02_expl_r2&@target_allyall@@st_mix_stat_atk_up10@]
-shiningyuune_skill_02_lv_up>@mix_stat_atk_up@#@lv_up_5@
-@mix_stat_atk_up@@turn@#@lv_up_10@*
-shiningyuune_skill_02_name글로리힐H
-shiningyuune_skill_03_expl_r0'@target_enemyall@@skill_damage_magic_0@7
+shiningyuune_skill_01_name라이트닝F
+shiningyuune_skill_02_expl_r2%@target_allyall@st_mix_stat_atk_up10@\
+shiningyuune_skill_02_lv_up=@mix_stat_atk_up@#@lv_up_5@
+@mix_stat_atk_up@turn@#@lv_up_10@*
+shiningyuune_skill_02_name글로리힐G
+shiningyuune_skill_03_expl_r0&@target_enemyall@skill_damage_magic_0@7
 shiningyuune_skill_03_lv_up@damage_magic@#@lv_up_2@.
 shiningyuune_skill_03_name홀리 스파크�
 shiningyuune_skill_04_explv턴 시작 시 나머지 HP 비율이 가장 낮은 아군에게 자신의 공격력의 120%에 해당하는 HP 회복1
@@ -17325,19 +17325,19 @@ robot_name투기장의 문지기3
 shirley_homeUI_user_birthday_1q매니저 오빠 생일 축하해요.매니저 오빠 덕분에 항상 동아리가 재밌어요.감사합니다.X
 shirley_training_resonance_38뭔가 지금, 잡힌 것 같은 느낌이 듭니다...!P
 shirley_training_resonance_40조금 에리카씨에게 다가갔을까요...?b
-shirley_training_resonance_5B이 힘으로... 섬 여러분을 지켜보도록 하겠습니다!j
-shiroyuki_skill_01_expl_r1L@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_wound_dot10@T
-shiroyuki_skill_01_lv_up8@damage_physical@#@lv_up_1@
-@wound_dot@@turn@#@lv_up_10@!
-shiroyuki_skill_01_name아류H
-shiroyuki_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@_
-shiroyuki_skill_02_expl_r2A@shiroyuki_skill_02_expl_r1@
-@target_enemyone@@st_block_recovery@7
+shirley_training_resonance_5B이 힘으로... 섬 여러분을 지켜보도록 하겠습니다!h
+shiroyuki_skill_01_expl_r1J@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_wound_dot10@S
+shiroyuki_skill_01_lv_up7@damage_physical@#@lv_up_1@
+@wound_dot@turn@#@lv_up_10@!
+shiroyuki_skill_01_name아류G
+shiroyuki_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@^
+shiroyuki_skill_02_expl_r2@@shiroyuki_skill_02_expl_r1@
+@target_enemyone@st_block_recovery@7
 shiroyuki_skill_02_lv_up@damage_physical@#@lv_up_1@$
-shiroyuki_skill_02_name	무명검W
-shiroyuki_skill_03_expl_r09@target_allyall@@st_berserk@
-@target_allyall@@st_blood_5@:
+shiroyuki_skill_02_name	무명검U
+shiroyuki_skill_03_expl_r07@target_allyall@st_berserk@
+@target_allyall@st_blood_5@:
 shiroyuki_skill_03_lv_up@berserk@#@6@
 @suck_blood@#@5@'
 shiroyuki_skill_03_name낭신노포}
@@ -17479,17 +17479,17 @@ shop_name7	동아리9
 sonia_homeUI_secret_2�노라는 세이즈 마술부의 서기로, 꽤 사이가 좋아. ...뭐, 서로 엉뚱한 리더에게 휘둘려 고생하고 있으니까...�
  sonia_homeUI_twilight_greeting_1�있잖아, 이제 저녁 트레이닝을 가는데 한가하면 같이 가지 않을래? 너도 매니저니까 조금은 단련하지 않으면 안돼.�
 sonia_homeUI_user_birthday_1u오, 생일 축하해....어, 어떻게 아는가? ...다, 우연히 작은 귀에 끼었을 뿐이야, ...어쩌다.�
-sonia_mission_system_1z미션 여기 게시되어 있으니까 확인해줘.보수도 여기에 모아둘 테니 한가할 때 받으러 와 줘.D
-sonia_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@T
-sonia_skill_01_expl_r2:@sonia_skill_01_expl_r1@
-@target_enemyone@@st_wound_dot10@S
-sonia_skill_01_lv_up;@damage_physical@#@lv_up_1@
-@wound_dot@@turn@# - /@10@/@10@#
-sonia_skill_01_name사이트샷D
-sonia_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@3
+sonia_mission_system_1z미션 여기 게시되어 있으니까 확인해줘.보수도 여기에 모아둘 테니 한가할 때 받으러 와 줘.C
+sonia_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@S
+sonia_skill_01_expl_r29@sonia_skill_01_expl_r1@
+@target_enemyone@st_wound_dot10@R
+sonia_skill_01_lv_up:@damage_physical@#@lv_up_1@
+@wound_dot@turn@# - /@10@/@10@#
+sonia_skill_01_name사이트샷C
+sonia_skill_02_expl_r1)@target_enemyone@skill_damage_physical_1@3
 sonia_skill_02_lv_up@damage_physical@#@lv_up_1@'
-sonia_skill_02_name점핑 더블샷D
-sonia_skill_03_expl_r0*@target_enemyall@@skill_damage_physical_0@3
+sonia_skill_02_name점핑 더블샷C
+sonia_skill_03_expl_r0)@target_enemyall@skill_damage_physical_0@3
 sonia_skill_03_lv_up@damage_physical@#@lv_up_2@-
 sonia_skill_03_name하이파워 애로우[
 sonia_skill_04_explD소니아의 스킬이 2 등급 이상일 경우 피해 10％ 증가0
@@ -17688,14 +17688,14 @@ $stephanie_homeUI_twilight_greeting_1i과자먹고싶다.. 하지만 저녁먹�
 stephanie_skill_02_expl_r26@stephanie_skill_02_expl_r1@
 @target_enemyone@@st_hax@4
 stephanie_skill_02_lv_up@damage_magic@#@lv_up_1@
-stephanie_skill_02_name�
-stephanie_skill_03_expl_r0s@target_enemyall@@skill_damage_magic_0@
-·적 전체에게 ＃s-01[＃CFFFFFF[＃O[모든 지속 피해]]]@st_turn@�
-stephanie_skill_03_lv_upw@damage_magic@#@lv_up_2@
-@poison_dot@@turn@#@10@
-@freezing_dot@@turn@#@10@
-@wound_dot@@turn@#@10@
-@burn_dot@@turn@#@10@+
+stephanie_skill_02_name�
+stephanie_skill_03_expl_r0l@target_enemyall@skill_damage_magic_0@
+·적 전체에게 #s-01[#CFFFFFF[#O[모든 지속 피해]]]@st_turn@�
+stephanie_skill_03_lv_up�@@damage_magic@@#@@lv_up_2@@
+@@poison_dot@@ @@turn@@#@10@
+@@freezing_dot@@ @@turn@@#@10@
+@@wound_dot@@ @@turn@@#@10@
+@@burn_dot@@ @@turn@@#@10@+
 stephanie_skill_03_name에너지 스톰i
 stephanie_skill_04_explN대상에게 걸린 디버프 수에 비례하여 피해 증가 (1개당 5％)B
 stephanie_skill_04_name'에테르는 이렇게 다루는 거야A
@@ -19156,39 +19156,39 @@ suck_blood흡혈
 summerpatricia_skill_03_name
 summerpatricia_skill_04_name
 summerpatricia_skill_05_name
-summon소환.p
-susuitapis_skill_01_expl_r1Q@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_awaken_gage_down@8
+summon소환.n
+susuitapis_skill_01_expl_r1O@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_awaken_gage_down@8
 susuitapis_skill_01_lv_up@damage_physical@#@lv_up_1@
-susuitapis_skill_01_nameI
-susuitapis_skill_02_expl_r1*@target_enemyall@@skill_damage_physical_1@]
-susuitapis_skill_02_expl_r2>@susuitapis_skill_02_expl_r1@
-@target_enemyall@@st_clear_buff@8
+susuitapis_skill_01_nameH
+susuitapis_skill_02_expl_r1)@target_enemyall@skill_damage_physical_1@\
+susuitapis_skill_02_expl_r2=@susuitapis_skill_02_expl_r1@
+@target_enemyall@st_clear_buff@8
 susuitapis_skill_02_lv_up@damage_physical@#@lv_up_1@
-susuitapis_skill_02_name�
-susuitapis_skill_03_expl_r0p@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_block_awaken@
-@target_enemyall@@st_freezing_dot@8
+susuitapis_skill_02_name�
+susuitapis_skill_03_expl_r0m@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_block_awaken@
+@target_enemyall@st_freezing_dot@8
 susuitapis_skill_03_lv_up@damage_physical@#@lv_up_2@
 susuitapis_skill_03_name
 susuitapis_skill_04_expl
 susuitapis_skill_04_name
 susuitapis_skill_05_expl
-susuitapis_skill_05_nameJ
-susuitkaren_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@9
+susuitapis_skill_05_nameI
+susuitkaren_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@9
 susuitkaren_skill_01_lv_up@damage_physical@#@lv_up_1@
-susuitkaren_skill_01_name�
-susuitkaren_skill_02_expl_r1b@target_allyall@@skill_recovery_1@
-@target_self@@st_provocation@
-@target_self@@st_mix_stat_def_up@a
-susuitkaren_skill_02_expl_r2A@susuitkaren_skill_02_expl_r1@
-@target_allyall@@skill_recovery_1@S
+susuitkaren_skill_01_name
+susuitkaren_skill_02_expl_r1_@target_allyall@skill_recovery_1@
+@target_self@st_provocation@
+@target_self@st_mix_stat_def_up@`
+susuitkaren_skill_02_expl_r2@@susuitkaren_skill_02_expl_r1@
+@target_allyall@skill_recovery_1@S
 susuitkaren_skill_02_lv_up5@mix_stat_def_up@#@lv_up_5@
 @recovery_hp@# - /@1@/@1@
-susuitkaren_skill_02_name�
-susuitkaren_skill_03_expl_r0l@target_enemyone@@skill_damage_physical_0@
-@target_enemyone@@st_stun@
-@target_enemyone@@st_awaken_gage_down@9
+susuitkaren_skill_02_name�
+susuitkaren_skill_03_expl_r0i@target_enemyone@skill_damage_physical_0@
+@target_enemyone@st_stun@
+@target_enemyone@st_awaken_gage_down@9
 susuitkaren_skill_03_lv_up@damage_physical@#@lv_up_2@
 susuitkaren_skill_03_name
 susuitkaren_skill_04_expl
@@ -23835,32 +23835,32 @@ $unlock_string_dailydungeon_mine_expl%
 ursula_skill_05_expl효과 대상 : 아군 전체,
 ursula_skill_05_name내가 지키는 것N
 ursula_training_resonance_4/나에게도 아직 이런 힘이 있었구나.;
-ursula_training_resonance_5언니...나 강해졌어...D
-vella_skill_01_expl_r1*@target_enemyall@@skill_damage_physical_1@3
+ursula_training_resonance_5언니...나 강해졌어...C
+vella_skill_01_expl_r1)@target_enemyall@skill_damage_physical_1@3
 vella_skill_01_lv_up@damage_physical@#@lv_up_1@$
-vella_skill_01_name표적 공격B
-vella_skill_02_expl_r1(@target_allyall@@st_defence_physical_up@W
-vella_skill_02_expl_r2=@vella_skill_02_expl_r1@
-@target_allyall@@st_damage_addition@U
+vella_skill_01_name표적 공격A
+vella_skill_02_expl_r1'@target_allyall@st_defence_physical_up@V
+vella_skill_02_expl_r2<@vella_skill_02_expl_r1@
+@target_allyall@st_damage_addition@U
 vella_skill_02_lv_up=@defence_physical_up@#@lv_up_5@
 @damage_addition@# - /@6@/@6@$
-vella_skill_02_name청산 준비g
-vella_skill_03_expl_r0M@target_enemyall@@skill_damage_physical_0@
-@target_enemyall@@st_block_debuff@3
+vella_skill_02_name청산 준비e
+vella_skill_03_expl_r0K@target_enemyall@skill_damage_physical_0@
+@target_enemyall@st_block_debuff@3
 vella_skill_03_lv_up@damage_physical@#@lv_up_2@$
 vella_skill_03_name천발 천중Q
 vella_skill_04_expl:전투 개시 시 자신에게 약체 무효 상태 부여 
 vella_skill_04_name	수동술9
 vella_skill_05_expl"효과 대상: 후열의 이능자 
-vella_skill_05_name	집행인E
-vivian_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@4
+vella_skill_05_name	집행인D
+vivian_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@4
 vivian_skill_01_lv_up@damage_physical@#@lv_up_1@(
-vivian_skill_01_name세로 흔들기l
-vivian_skill_02_expl_r1Q@target_enemyone@@skill_damage_physical_1@
-@target_enemyone@@st_awaken_gage_down@4
+vivian_skill_01_name세로 흔들기j
+vivian_skill_02_expl_r1O@target_enemyone@skill_damage_physical_1@
+@target_enemyone@st_awaken_gage_down@4
 vivian_skill_02_lv_up@damage_physical@#@lv_up_1@!
-vivian_skill_02_name	꼬챙이\
-vivian_skill_03_expl_r0A@target_enemyall@@skill_damage_physical_0@@st_atk_critical_value@4
+vivian_skill_02_name	꼬챙이Z
+vivian_skill_03_expl_r0?@target_enemyall@skill_damage_physical_0@st_atk_critical_value@4
 vivian_skill_03_lv_up@damage_physical@#@lv_up_2@$
 vivian_skill_03_name백련성강�
 vivian_skill_04_expl�전투 불능자가 생길 때마다 자신에게 바서커 상태 부여: 자신의 여대미지가 60% 상승하는 반면 피해도 30% 상승(2턴)
@@ -25405,19 +25405,19 @@ $voice_yuliacasual_garden_weather_5_1<설마 이대로 싸움에 나선다고�
 world_chapter7_limit_msgM해방 조건 : 메인 스테이지 6-15 클리어, 모험 레벨 Lv18 이상i
 world_chapter8_limit_msgM해방 조건 : 메인 스테이지 7-15 클리어, 모험 레벨 Lv20 이상i
 world_chapter9_limit_msgM해방 조건 : 메인 스테이지 8-15 클리어, 모험 레벨 Lv22 이상
-	wound_dot출혈C
-xiaolan_skill_01_expl_r1'@target_enemyone@@skill_damage_magic_1@\
-xiaolan_skill_01_expl_r2@@xiaolan_skill_01_expl_r1@
-@target_enemyone@@st_skill_rank_down@2
+	wound_dot출혈B
+xiaolan_skill_01_expl_r1&@target_enemyone@skill_damage_magic_1@[
+xiaolan_skill_01_expl_r2?@xiaolan_skill_01_expl_r1@
+@target_enemyone@st_skill_rank_down@2
 xiaolan_skill_01_lv_up@damage_magic@#@lv_up_1@
-xiaolan_skill_01_name노조C
-xiaolan_skill_02_expl_r1'@target_enemyall@@skill_damage_magic_1@W
-xiaolan_skill_02_expl_r2;@xiaolan_skill_02_expl_r1@
-@target_self@@st_awaken_gage_up@2
+xiaolan_skill_01_name노조B
+xiaolan_skill_02_expl_r1&@target_enemyall@skill_damage_magic_1@V
+xiaolan_skill_02_expl_r2:@xiaolan_skill_02_expl_r1@
+@target_self@st_awaken_gage_up@2
 xiaolan_skill_02_lv_up@damage_magic@#@lv_up_1@,
-xiaolan_skill_02_name세차게 흐르다b
-xiaolan_skill_03_expl_r0F@target_allyall@@st_shield_damage_2@
-@target_allyall@@st_clear_debuff@3
+xiaolan_skill_02_name세차게 흐르다`
+xiaolan_skill_03_expl_r0D@target_allyall@st_shield_damage_2@
+@target_allyall@st_clear_debuff@3
 xiaolan_skill_03_lv_up@shield_damage@#@lv_up_5@%
 xiaolan_skill_03_name천해일색t
 xiaolan_skill_04_expl[통상 스킬 발동 시 35% 확률로 상대방의 에테르 에너지를 하나 빼앗는%
@@ -25464,13 +25464,13 @@ $voice_yuliacasual_garden_weather_5_1<설마 이대로 싸움에 나선다고�
  yuliacasual_training_resonance_2+아직 본래 실력까지는 멀었구나.@
  yuliacasual_training_resonance_3흠, 조금 익숙해졌어.5
  yuliacasual_training_resonance_4느낌이 좋다.i
- yuliacasual_training_resonance_5E아무래도 본래의 실력을 발휘할 수 있게 된 것 같다.E
-yullia_skill_01_expl_r1*@target_enemyone@@skill_damage_physical_1@X
-yullia_skill_01_expl_r2=@yullia_skill_01_expl_r1@
-@target_self@@st_mix_stat_atk_up10@x
-yullia_skill_01_lv_up_@damage_physical@#@lv_up_1@
+ yuliacasual_training_resonance_5E아무래도 본래의 실력을 발휘할 수 있게 된 것 같다.D
+yullia_skill_01_expl_r1)@target_enemyone@skill_damage_physical_1@W
+yullia_skill_01_expl_r2<@yullia_skill_01_expl_r1@
+@target_self@st_mix_stat_atk_up10@w
+yullia_skill_01_lv_up^@damage_physical@#@lv_up_1@
 @mix_stat_atk_up@# - /@5@/@5@
-@mix_stat_atk_up@@turn@# - /@10@/@10@
+@mix_stat_atk_up@turn@# - /@10@/@10@
 yullia_skill_01_name참격E
 yullia_skill_02_expl_r1*@target_enemyone@@skill_damage_physical_1@4
 yullia_skill_02_lv_up@damage_physical@#@lv_up_1@
@@ -25512,8 +25512,8 @@ $voice_yuliacasual_garden_weather_5_1<설마 이대로 싸움에 나선다고�
 @target_self@@st_awaken_gage_up@0
 yuune_skill_01_lv_up@damage_magic@#@lv_up_1@'
 yuune_skill_01_name신성한 일격<
-yuune_skill_02_expl_r1"@target_allyone@@skill_recovery_1@/
-yuune_skill_02_lv_up@recovery_hp@#@lv_up_1@$
+yuune_skill_02_expl_r1"@target_allyone@@skill_recovery_1@0
+yuune_skill_02_lv_up@recovery_hp@#@lv_up_1@@$
 yuune_skill_02_name빛의 포옹`
 yuune_skill_03_expl_r0F@target_allyall@@skill_recovery_0@
 @target_allyall@@st_recovery_dot10@I
