@@ -22984,8 +22984,9 @@ ui_setting설정
 단가가<color=#F57502>{2}×{3}</color>로 바뀌었습니다.R
 ui_shop_purchase>{1}을(를) 소비하여 {0}을(를) 구입하시겠습니까?(
 ui_shop_purchase_failed구입 실패)
-ui_shop_purchase_succeed구입 완료S
-ui_shop_refresh@{1}을(를) {0}개 소비하여 샵을 갱신하시겠습니까?.
+ui_shop_purchase_succeed구입 완료M
+ui_shop_refresh:[autogen]을 소비하고
+샵을 갱신하시겠습니까?.
 ui_shop_refresh_limit갱신 가능 횟수:F
 ui_shop_refresh_time_day*다음 입고까지 : {0}일 {1}시간 후R
 ui_shop_refresh_time_hour5다음 입고 시간 : {0} 시간 {1} 분 {2} 초 후
