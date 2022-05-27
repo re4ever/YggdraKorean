@@ -1,4 +1,4 @@
-��C
+��C
 	10024tips6특징: 싱글 공격의 대상을 자신에게 집중%
 	10033tips특징: 회복력 높음%
 	10034tips특징: 지원력 높음6
@@ -364,11 +364,11 @@ SILVER-III
 Title_howget_1312환영의 탑 랭킹 2위 획득(시즌 종료시)H
 Title_howget_1324환영의 탑 랭킹 3~5위 획득(시즌 종료시)7
 Title_howget_133#처음으로 써클에 가입하다7
-Title_howget_134#생일에 게임에 로그인하다p
-Title_howget_135\[유적탐색] 처음으로 맵 전체에 장치를 설치함(도로는 포함하지 않음)Q
+Title_howget_134#생일에 게임에 로그인하다Y
+Title_howget_135E[유적탐색] 맵상에 50개의 장치를 동시에 존재시키다Q
 Title_howget_136=[유적탐색] 누계 500,000개의 에레스를 수집하다H
-Title_howget_1374[유적탐색] 누계 500,000개의 EXP 수집하다n
-Title_howget_138Z[유적탐색] 모든 탐험팀을 해방시키고 이능자를 모든 틀로 설정하다E
+Title_howget_1374[유적탐색] 누계 500,000개의 EXP 수집하다Z
+Title_howget_138F[유적탐색] 모든 탐색팀 해방, 모든 틀에 이능자 배치E
 Title_howget_1391멀티 투기장 등급이 BRONZE에 도달하다o
 Title_howget_14\나자의 호감도를 최대까지 높여 캐릭터 시나리오의 제8절을 감상하다E
 Title_howget_1401멀티 투기장 등급이 SILVER에 도달하다C
@@ -838,12 +838,16 @@ HARD CLEAR1
 account_grade_7Rank B  -  II
 account_grade_8Rank B  -  I!
 account_grade_9Rank A  -  IIIC
-achieve_activity_explain_1%이벤트 스테이지 3을 클리어C
+achieve_activity_explain_1%이벤트 스테이지 3을 클리어D
+achieve_activity_explain_10%이벤트 스테이지 9를 클리어C
 achieve_activity_explain_2%이벤트 스테이지 5를 클리어C
 achieve_activity_explain_3%이벤트 스테이지 7을 클리어D
 achieve_activity_explain_4&이벤트 스테이지 10을 클리어=
 achieve_activity_explain_5이벤트 보스 5를 클리어F
-achieve_activity_explain_6(이벤트 보스(하드), 5를 클리어5
+achieve_activity_explain_6(이벤트 보스(하드), 5를 클리어C
+achieve_activity_explain_7%이벤트 스테이지 2를 클리어C
+achieve_activity_explain_8%이벤트 스테이지 4를 클리어C
+achieve_activity_explain_9%이벤트 스테이지 6을 클리어5
 achieve_explain_1 모험 스테이지를 클리어7
 achieve_explain_10001모험 레벨이 Lv5에 도달8
 achieve_explain_10002모험 레벨이 Lv10에 도달8
@@ -8278,17 +8282,17 @@ $gacha_type_pickup_shiningsonia_title1
 
 <color=#FD9B23FF> 시간과 날씨</color> 
 ·먼저 살고있는 지역을 선택해 주세요.
-·선택하면, 거주지역의 날씨와 시간이 방에 반영됩니다.날씨와 시간대에 따라 이능자들이 하는 말도 다르기 때문에 다양하게 시도해 봅시다.�%
-help_new1_tips_14�%<color=#FD9B23FF>서클전의 마물</color>
-서클전에서는, 4구의 마물을 모두 토벌할 때마다, 새로운 Round가 시작됩니다.
+·선택하면, 거주지역의 날씨와 시간이 방에 반영됩니다.날씨와 시간대에 따라 이능자들이 하는 말도 다르기 때문에 다양하게 시도해 봅시다.�&
+help_new1_tips_14�%<color=#FD9B23FF> 서클전의 마물</color> 
+서클전에서는, 4구의 마물을 모두 토벌할 때마다, 새로운 Phase가 시작됩니다.
 
-<color=#FD9B23FF>도전 횟수</color>
+<color=#FD9B23FF> 도전 횟수</color> 
 · 멤버에게는 1일 3회의 도전 회수가 주어지며, 매일 5:00에 리셋됩니다.
 
-<color=#FD9B23FF>서클전의 특별 제한</color>
+<color=#FD9B23FF> 서클전의 특별 제한</color> 
 써클전 기간중은, 써클 탈퇴, 멤버 제적, 써클 해산을 할 수 없습니다.
 
-<color=#FD9B23FF>실전과 연습 모드</color>
+<color=#FD9B23FF> 실전과 연습 모드</color> 
 · [실전 모드]
 - 배틀 시작 시 도전 횟수를 소비합니다.배틀 종료 후 데미지 정산이 진행되며 기여도로 순위에 반영됩니다.
 - 배틀 중 철수하면 즉석에서 데미지 정산이 이루어지고 도전 횟수가 소비됩니다.
@@ -8299,27 +8303,27 @@ $gacha_type_pickup_shiningsonia_title1
 - 마물의 나머지 HP가 0%이면 HP가 100%인 상태에서 시뮬레이션 배틀이 시작됩니다.마물의 HP가 남아 있는 경우는, 그 시점에서의 HP에서 시뮬레이션 배틀이 개시됩니다.
 - 연습 모드에서는 전투 종료 시 데미지 정산은 이루어지지 않으며 랭킹에 반영되지도 않습니다(단, 이 배틀로 인한 누계 데미지는 표시됩니다).
 
-<color=#FD9B23FF>이능자의 '출진 중' 상태</color>
+<color=#FD9B23FF> 이능자의 '출진 중' 상태</color> 
 서클전에서 [실전 모드]에서 사용한 이능자와 지원 이능자는 [출진 중] 상태가 되며, 당일은 다시 배틀에 참가할 수 없게 됩니다([출진 중] 상태는 다음날 5:00에 리셋됩니다). 【연습 모드】에서는, 이능자가 「출진중」상태가 되는 일은 없습니다.
 
-<color=#FD9B23FF>턴 반환</color>
+<color=#FD9B23FF> 턴 반환</color> 
 · [실전 모드]에서의 턴 수는, 1회 도전당 10회입니다.10턴 이내에 마물을 토벌하면 도전을 한 팀에게 '턴 반환'이 주어집니다.팀원 전원이 '턴 반환' 상태입니다.
 ·'턴 반환'을 획득한 팀은 일시적으로 잠겨 포지션만 변경이 가능합니다.턴 반환 상태가 종료될 때까지 이능자의 변경도 할 수 없습니다.
 ·'턴 반환' 상태에 들어간 이능자는, 다른 팀의 편성에서도 '출진 중' 상태로 취급됩니다.
 ·'턴 반환'을 사용한 팀이 다시 배틀에 참가할 경우 도전 횟수는 소비되지 않지만, 손상 정산은 이루어집니다.
 ·'턴 반환'은 매일 5:00에 리셋됩니다.
 
-<color=#FD9B23FF>서클전의 보수</color>
+<color=#FD9B23FF> 서클전의 보수</color> 
 · 참가 보수 : 실전에 참가하여 도전 횟수를 소비할 때마다 참가 보상을 획득할 수 있습니다(하루 3회까지).
 ·토벌 보수 : 마물을 쓰러뜨릴 때마다, 멤버 전원에게 토벌 보수가 주어집니다.
-·순위 보수:써클전 기간 중 각 써클이 획득한 기여도의 합계에 의해서 순위를 가리는 서클전 종료 후에 최종 순위가 발표됩니다.최종 순위에 응하고 써클의 멤버는 “메일”에서 순위 보수를 얻을 수 있습니다.최종 순위 집계에는 시간을 필요로 하는 경우가 있기 때문에 시간을 두고“메일”을 확인하세요.
+순위 보수 : 써클 경기 기간 중, 각 써클이 획득한 공헌도의 합계에 따라 순위가 결정되며, 써클 전 종료 후 최종 순위가 발표됩니다.최종 순위에 따라 써클 회원은 '메일'에서 순위 보상을 획득할 수 있습니다.최종 순위 집계에는 시간이 걸릴 수 있으므로 시간을 두고 '메일'을 확인해 주시기 바랍니다.
 
-<color=#FD9B23FF>여러 써클 멤버가 동시에 싸우고 있는 경우</color>
+<color=#FD9B23FF> 여러 써클 멤버가 동시에 싸우고 있는 경우</color> 
 · 자신이 실전 배틀 중 다른 멤버가 먼저 배틀 정보 정산을 완료한 경우 마물의 나머지 HP는 다른 멤버 배틀 완료 시 나머지 HP에서 자신이 준 데미지를 빼고 계산됩니다.
 · 자신이 실전 배틀 중 다른 멤버가 먼저 배틀 정보 정산을 완료하고, 마물의 나머지 HP가 배틀 중 준 데미지보다 적을 경우 마물의 나머지 HP가 제로가 될 때까지 매 턴 준 데미지가 차감되며, 나머지 턴 수가 '턴 반환'으로 기록됩니다.
 자신이 실전 배틀 중 다른 멤버에 의해 마물이 먼저 쓰러진 경우 배틀 종료 후 도전 횟수는 소비되지 않으며 해당 배틀은 무효로 간주됩니다.또, 이능자가 「출진중」상태가 되는 일도 없습니다.
 
-<color=#FD9B23FF>'지원'</color>
+<color=#FD9B23FF> '지원'</color> 
 서클에 가입 후, 다른 멤버가 설정한 지원 이능자를 서클전 배틀에서 사용할 수 있습니다.
 1회의 도전에 대해, 지원 이능자 1명만을 팀 편성에 추가할 수 있습니다.
 지원 이능자의 전력/상태/지원 카드는 지원 이능자를 선택했을 때의 상태로 고정됩니다.
@@ -16678,8 +16682,8 @@ robot_name투기장의 문지기3
 role_pieces_90헬레나의 추억�
 role_pieces_90_tips�아득한 옛 기억이 남아 있는 조각이능자는 이 조각으로 인해 가짜 추억과 공명을 일으켜 자신의 에테르 컨트롤 능력을 높일 수 있다."
 role_pieces_91사라의 추억�
-role_pieces_91_tips�아득한 옛 기억이 남아 있는 조각이능자는 이 조각으로 인해 가짜 추억과 공명을 일으켜 자신의 에테르 컨트롤 능력을 높일 수 있다."
-role_pieces_92사라의 추억�
+role_pieces_91_tips�아득한 옛 기억이 남아 있는 조각이능자는 이 조각으로 인해 가짜 추억과 공명을 일으켜 자신의 에테르 컨트롤 능력을 높일 수 있다.%
+role_pieces_92세츠나의 추억�
 role_pieces_92_tips�아득한 옛 기억이 남아 있는 조각이능자는 이 조각으로 인해 가짜 추억과 공명을 일으켜 자신의 에테르 컨트롤 능력을 높일 수 있다."
 role_pieces_93미아의 추억�
 role_pieces_93_tips�아득한 옛 기억이 남아 있는 조각이능자는 이 조각으로 인해 가짜 추억과 공명을 일으켜 자신의 에테르 컨트롤 능력을 높일 수 있다.%
@@ -17608,10 +17612,10 @@ st_reflectNに＃s-01[＃CFFFFFF[＃O[@6@]]]の＃s-01[＃CFFFFFF[＃O[反射]]
 stage_name_event_2_main_1스테이지 1 침입자.
 stage_name_event_2_main_2스테이지2 숲2
 stage_name_event_2_main_3스테이지 3 현관:
-stage_name_event_2_main_4스테이지 4·동쪽 복도:
-stage_name_event_2_main_5스테이지 5·서쪽 복도3
-stage_name_event_2_main_6스테이지 6·광간:
-stage_name_event_2_main_7스테이지 7·남측 복도3
+stage_name_event_2_main_4스테이지 4·서쪽 복도3
+stage_name_event_2_main_5스테이지 5·서방:
+stage_name_event_2_main_6스테이지 6·동쪽 복도6
+stage_name_event_2_main_7스테이지 7·히로마3
 stage_name_event_2_main_8스테이지 8·뒷문2
 stage_name_event_2_main_9스테이지 9 결전T
 stage_reward_recommend_des151-14 클리어에서 ★3 이능자 모라나를 GET!N
@@ -19452,8 +19456,8 @@ tower_boss환영의 탑 정상+
 tower_boss_dmg_reward최대 손상 보수_
 tower_boss_rankL환영의 탑 데미지 랭킹 제{0}위였습니다.보수를 받읍시다!�
 tower_boss_support_text�기본 보너스 : 공명도와 숙련도에 따라 손상도 상승
-동속성 보너스: 동속성 이능자로 편성된 경우에만 피해 상승-
-tower_last_turnWARNING : 나머지 {0}턴"
+동속성 보너스: 동속성 이능자로 편성된 경우에만 피해 상승%
+tower_last_turn나머지 {0}ROUND"
 
 tower_name환영의 탑 {0}층4
 tower_of_illusion_clearbonus보수목표 달성!
@@ -19462,8 +19466,8 @@ tower_name환영의 탑 {0}층4
 tower_recover_text*피해를 입은 이능자는 없습니다5
 tower_reward_none 새로운 보수는 없습니다=
 tower_story_off*시나리오는 현재 미해결입니다!3
-tower_time_count1종료까지: {0}일 {1}시간1
-tower_time_count2종료까지 : {0}일 {1}분"
+tower_time_count1종료까지: {0}일 {1}시간4
+tower_time_count2종료까지 : {0}시간 {1}분"
 tower_time_out이벤트 종료
 true_damage투과 데미지
 turn턴h
@@ -20129,7 +20133,8 @@ ui_attack2	공격형
 ui_attack_type배틀 타입$
 ui_attendance로그인 보너스%
 ui_attendance_reward출석 보수 
-ui_auto_froming자동 편성"
+ui_auto_froming자동 편성
+ui_auto_new오토"
 ui_auto_placement자동 편성"
 ui_auto_selection자동 선택
 ui_auto_study자동 연마+
@@ -21260,8 +21265,8 @@ ui_grading랭크"
 ui_guildwar_end_timmer종료까지:h
 ui_guildwar_forbid_escapeK써클 전 기간 동안 써클 탈퇴, 멤버 킥은 할 수 없습니다.&
 ui_guildwar_guildrank서클 순위1
-ui_guildwar_inwarnum현재 참가자 수: {0}n
-ui_guildwar_lock_tipsU써클전은 아직 해방되지 않았습니다.해방까지 기다려 주십시오.'
+ui_guildwar_inwarnum현재 참가자 수: {0}e
+ui_guildwar_lock_tipsL지금 준비중입니다.써클전 개최까지 잠시 기다려 주세요.'
 ui_guildwar_memberrank멤버 순위(
 ui_guildwar_myguildrank소속 서클#
 ui_guildwar_myrank개인 순위Q
@@ -21274,14 +21279,15 @@ ui_grading랭크"
 ui_guildwar_openning서클전 개최중1
 ui_guildwar_playerdamage{0}의 피해 기록:(
 ui_guildwar_playerkill{0}이 격파:'
-ui_guildwar_playerrank개인 순위,
-ui_guildwar_pointMY써클 : {0}포인트+
+ui_guildwar_playerrank개인 순위(
+ui_guildwar_point소속 써클 : {0}+
 ui_guildwar_preview_timmer시작까지:
 ui_guildwar_rank{0}위 
 ui_guildwar_rankreward보수
 ui_guildwar_recent요즘0
 ui_guildwar_review전회의 서클전 상황
-ui_guildwar_round	Round {0}3
+ui_guildwar_round	Phase {0}U
+ui_guildwar_solo_rank_ban8개인 순위는 현재 해제되어 있지 않습니다3
 ui_guildwar_start_title서클전 시작까지 :
 ui_guildwar_team_aid지원$
 ui_guildwar_team_fought	출진제$
@@ -22459,8 +22465,8 @@ Nuverse 주식회사가 제공하는 [유그드라 레조넌스] 내에서만 �
 {0}분 전
 
 ui_mission미션
-	ui_modify직책 설정�
-ui_module_switch_off_tips�현재 이 기능은 특별한 사유로 접속할 수 없습니다.자세한 내용은 최신 공지사항을 참고하시기 바랍니다.
+	ui_modify직책 설정�
+ui_module_switch_off_tipsy본 컨텐츠는 일시적으로 이용할 수 없습니다.자세한 내용은 공지사항에서 확인해 주십시오
 ui_money_normal노멀
 ui_money_paid유상
 
@@ -23610,8 +23616,8 @@ ui_token_2코인
 ui_tower_text_18	미완료
 ui_tower_text_19수취 
 ui_tower_text_2능력 상승
-ui_tower_text_20	미달성F
-ui_tower_text_212현재는 보수 수령밖에 할 수 없습니다:
+ui_tower_text_20	미달성>
+ui_tower_text_21*현재는 보수 수령만 가능합니다:
 ui_tower_text_22&이 스테이지는 미해방입니다!
 ui_tower_text_23전투 불능O
 ui_tower_text_24;적어도 한 명의 이능자를 출진시켜 주십시오{
@@ -23720,8 +23726,11 @@ ui_warning주의�
 주의: 한번 해산한 써클은 되돌릴 수 없습니다F
 ui_warning_exile2{0}을(를) 써클에서 탈퇴시키겠습니까?N
 ui_warning_mendate_owner2{0}을(를) 부장으로 임명하시겠습니까?N
-ui_warning_mendate_subowner/{0}을(를) 간부로 임명하시겠습니까?;
-ui_warning_secession_guild써클에서 탈퇴합니까?%
+ui_warning_mendate_subowner/{0}을(를) 간부로 임명하시겠습니까?�
+ui_warning_secession_guild�써클에서 탈퇴합니까?
+
+<color=#EC5515> 탈퇴 후 24시간 경과할 때까지
+써클의 가입이나 설립이 제한됩니다.</color> %
 ui_weather_select날씨를 선택<
 ui_weather_select_desc_1 날씨를 하나 고르십시오&
 ui_weather_set방위 효과 설정`
