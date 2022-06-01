@@ -1,4 +1,4 @@
-��C
+��C
 	10024tips6특징: 싱글 공격의 대상을 자신에게 집중%
 	10033tips특징: 회복력 높음%
 	10034tips특징: 지원력 높음6
@@ -23287,7 +23287,8 @@ $ui_skill_buffdetail_single_damage_up(싱글 공격으로 인한 피해 상승
 ui_skill_targettype_22N효과 대상·<color=#219EF9>마법 공격을 사용하는 모든 적</color>J
 ui_skill_targettype_230효과 대상·<color=#219EF9>전열 편</color>2
 ui_skill_targettype_24효과 대상·소지자C
-ui_skill_targettype_25)효과 대상 및 소지자 스킬 목표T
+ui_skill_targettype_25)효과 대상 및 소지자 스킬 목표[
+ui_skill_targettype_26A효과 대상·적 싱글<color=#219EF9> (선택 가능)</color> T
 ui_skill_targettype_27:효과 대상·<color=#219EF9>공학 속성의 적</color>T
 ui_skill_targettype_28:효과 대상·<color=#219EF9>자연 속성의 적</color>T
 ui_skill_targettype_29:효과 대상·<color=#219EF9>주술 속성의 적</color>L
