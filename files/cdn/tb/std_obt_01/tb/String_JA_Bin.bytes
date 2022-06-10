@@ -1,4 +1,4 @@
-��C
+��C
 	10024tips6특징: 싱글 공격의 대상을 자신에게 집중%
 	10033tips특징: 회복력 높음%
 	10034tips특징: 지원력 높음6
@@ -16356,8 +16356,10 @@ rank_level	숙련도%
 앞의 장을 다 읽음X
 read_condition_chapter_4<
 메인 스테이지 22-4 클리어
+앞의 장을 다 읽음X
+read_condition_chapter_5<
+메인 스테이지 25-3 클리어
 앞의 장을 다 읽음R
-read_condition_chapter_56메인 시나리오 제5장 해방 조건 (작성 중)R
 read_condition_chapter_66메인 시나리오 제6장 해방 조건 (작성 중)R
 read_condition_chapter_76메인 시나리오 제7장 해방 조건 (작성 중)9
 read_condition_scene!앞마디를 다 읽으면 해방+
@@ -21633,9 +21635,11 @@ ui_hunting에테르 결정 소환'
 ui_language_change언어 변경-
 ui_lasttime_day나머지 {0}일 {1}시간2
 ui_lasttime_hour나머지
-{0:00}:{1:00}:{2:00}-
+{0:00}:{1:00}:{2:00}7
+ui_lasttime_hour_bp 나머지 {0:00}: {1:00}: {2:00}-
 ui_lasttime_minute나머지
-{0:00}:{1:00}
+{0:00}:{1:00}1
+ui_lasttime_minute_bp나머지 {0:00}: {1:00}
 ui_lasttime_timeout종료
 	ui_latest요즘2
 ui_latestproductionlist최근의 제작 목록!
@@ -23125,8 +23129,8 @@ $ui_skill_buffdes_defence_physical_up4물리 방어가<color=#219EF9>@8@</color
 ui_skill_buffdes_freezing�행동불능이 되어 출혈, 독, 화상, 동상에 의한 손상이 본래의<color=#F1564A>@8@</color> 으로 변화한다. 그러나 모든 스킬의 직접적인 손상을 입지 않게 된다@9@�
 ui_skill_buffdes_freezing_dotj턴 종료 시 스킬 사용자의 공격력의<color=#F1564A>@8@</color> 에 상당하는 HP가 감소@9@b
 "ui_skill_buffdes_full_hp_damage_up<HP 최대시 여대미지가<color=#219EF9>@8@</color>상승r
-ui_skill_buffdes_glamorousT행동불능이 되어 피해에 대한 피해가<color=#F1564A>@8@</color>상승@9@J
-ui_skill_buffdes_hax2행동 불능이 되어 피해 시 해제되는@9@T
+ui_skill_buffdes_glamorousT행동불능이 되어 피해에 대한 피해가<color=#F1564A>@8@</color>상승@9@�
+ui_skill_buffdes_haxr행동 불능이 되어 피해 시 해제된다(상태 부여자에 의한 피해로는 해제되지 않는다)@9@T
 ui_skill_buffdes_hit_damage_up2여대미지가<color=#219EF9>@8@</color>상승@9@\
 ui_skill_buffdes_hp_damage_up;목표 잔여 HP에 따라 자신의 여대미지가 상승c
  ui_skill_buffdes_immun_condition?효과기간 동안 모든 약체효과를 막을 수 있는@9@l
@@ -23215,8 +23219,8 @@ $ui_skill_buffdetail_defence_magic_up마법 방어가 상승G
 ui_skill_buffdetail_enchanting)여대미지가 마법대미지가 되다k
 ui_skill_buffdetail_freezingK행동 불능이 되어 스킬에 의한 직접 피해를 입지 않는다.x
  ui_skill_buffdetail_freezing_dotT턴 종료 시 스킬 사용자 공격력의 일정 비율에 해당하는 HP 감소E
-ui_skill_buffdetail_glamorous$행동불능이 되어 피해 상승J
-ui_skill_buffdetail_hax/행동 불능이 되어 피해 시 해제되는;
+ui_skill_buffdetail_glamorous$행동불능이 되어 피해 상승�
+ui_skill_buffdetail_haxo행동 불능이 되어 피해 시 해제된다(상태 부여자에 의한 피해로는 해제되지 않는다);
 !ui_skill_buffdetail_hit_damage_up여대미지가 상승D
  ui_skill_buffdetail_hp_damage_up HP 최대시 여대미지 상승s
 ui_skill_buffdetail_inspireT스킬 1을 발동할 때 일정한 확률로 스킬 1(카드 레벨 1)로 재공격�
